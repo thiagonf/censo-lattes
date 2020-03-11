@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA DATA-ATUALIZACAO="07072008" ESTRATIFICACAO=""
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="120000"
+                   NRO-ID-GRUPO="0043305JCBU9XE"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO ANO-DE-CRIACAO="1974" AREA-PREDOMINANTE="Engenharia Mecânica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Santa Catarina"
+                           NOME-DA-UNIDADE="Laboratório de Soldagem - LABSOLDA"
+                           NOME-DO-GRUPO="LABSOLDA/INSTITUTO DE MECATRÔNICA"
+                           NOME-DO-ORGAO="Centro Tecnológico"
+                           SIGLA-DA-INSTITUICAO="UFSC"
+                           UF-DA-INSTITUICAO="SC">
+      <LIDERES>
+         <PRIMEIRO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Jair Carlos Dutra"
+                         NRO-ID-CNPQ="1570789033995989"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+         <SEGUNDO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Tiago Vieira da Cunha"
+                        NRO-ID-CNPQ="8049338058151678"
+                        PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO BAIRRO="Trindade" CEP="88040900" CIDADE="Florianopolis" DDD="48"
+                                       E-MAIL="labsolda@labsolda.ufsc.br"
+                                       FAX="32346516"
+                                       HOME-PAGE="www.labsolda.ufsc.br"
+                                       LOGRADOURO-E-COMPLEMENTO="Campus Universitário"
+                                       RAMAL=""
+                                       TELEFONE="32342783"
+                                       UF="SC"/>
+      <REPERCUSSOES>O LABSOLDA tem gerado ao longo de sua existência capacitação em tecnologia da soldagem, cujas repercussões abrangem um espectro bastante amplo, as quais podem ser descritas como:  1. Formação de pessoal de alto nível nos cursos de graduação, mestrado e doutorado em função de uma excelente infra-estrutura, tanto física, como humana, montada ao longo dos anos, fruto de um trabalho contínuo e articulado com a comunidade externa.  2. Produção de uma quantidade respeitável de publicações anuais e um livro.  3. Participação em mais de dez exposições técnicas, incluindo tres Feiras Internacionais de Mecânica.  4. Fornecimento de equipamentos de soldagem, de instrumentação e de serviços para mais de trinta clientes, propiciando vínculos cooperativos com o LABSOLDA.  5. Desenvolvimento de procedimentos inéditos de soldagem em função da versatilidade dos equipamentos projetados. É o caso do trabalho cooperativo com a TRACTEBEL) para a recuperação das partes cavitadas de turbinas hidráulicas, a partir de 1995. A partir de 1998 este trabalho foi estendido para a COPEL, através do projeto ROBOTURB que envolve agora vários Laboratórios do Centro Tecnológico da UFSC. No tocante à soldagem submarina, vários procedimentos de soldagem foram desenvolvidos, os quais impuseram também o desenvolvimento e fabricação de fontes de energia para soldagem, que já estão sendo utilizadas em campo,(Plataforma P-27).  Todas as repercussões do trabalho do LABSOLDA podem ser melhor observadas na  home-page : www.labsolda.ufsc.br. Entre os destaques, pode-se citar 15 Prêmios, entre os quais 2 de INOVAÇÃO TECNOLÓGICA concedidos pela FINEP. O último deles, em 2003, representou o segundo lugar da região sul como instituição de pesquisa. Merece também destaque a avaliação da comissão internacional da CAPES em 2000, em que o LABSOLDA foi explícitamente citado, de acordo com texto na home page. Em 2005 ganhou menção honrosa pela UNESCO como grupo de pesquisa do Mercosul.               </REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Renon Steinbach Carvalho"
+                   NRO-ID-CNPQ="0292860504905879"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Graduação">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Luciano Machado Cirino"
+                   NRO-ID-CNPQ="1012917365584620"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Graduação">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcelo Pompermaier Okuyama"
+                   NRO-ID-CNPQ="1165426181651108"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Graduação">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia da Informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="1D" NACIONALIDADE="B"
+                   NOME-COMPLETO="Jair Carlos Dutra"
+                   NRO-ID-CNPQ="1570789033995989"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia da Informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Guilherme Locatelli"
+                   NRO-ID-CNPQ="3241836768078700"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Raul Gohr Junior"
+                   NRO-ID-CNPQ="4294859393404798"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Régis Henrique Gonçalves e Silva"
+                   NRO-ID-CNPQ="7900356071046936"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Recobrimento Metálico por Deposição de Pós Utilizando Soldagem Plasma de Arco Transferido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Tiago Vieira da Cunha"
+                   NRO-ID-CNPQ="8049338058151678"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Nelso Gauze Bonacorso"
+                   NRO-ID-CNPQ="9760955652884776"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Hellinton Direne Filho"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Tiago Vieira da Cunha"
+                 NRO-ID-CNPQ="0430443675022200"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="1"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Ivan Olszanski Pigozzo"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Tiago Vieira da Cunha"
+                 NRO-ID-CNPQ="1234640464497200"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="2"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Cleber Hélio da Cunha"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Tiago Vieira da Cunha"
+                 NRO-ID-CNPQ="1355700445487209"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="3"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Márcia Paula Thiel"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jair Carlos Dutra"
+                 NRO-ID-CNPQ="2030414181843991"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="4"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia da Informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Henrique Lautert de Azambuja"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Renon Steinbach Carvalho"
+                 NRO-ID-CNPQ="2836274785585873"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="5"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Outros"
+                 NOME-COMPLETO="Hebert Sancho Garcez Militão"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Tiago Vieira da Cunha"
+                 NRO-ID-CNPQ="3113366486298848"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="6"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Jonathas Alexandre Alves"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jair Carlos Dutra"
+                 NRO-ID-CNPQ="3602794930279423"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="7"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Recobrimento Metálico por Deposição de Pós Utilizando Soldagem Plasma de Arco Transferido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Kleber da Silva"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Guilherme Locatelli"
+                 NRO-ID-CNPQ="3797940903786185"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="8"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Ezequiel Goncalves"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Tiago Vieira da Cunha"
+                 NRO-ID-CNPQ="4230986141988230"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="9"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Ensino Profissional de nível técnico"
+                 NOME-COMPLETO="Alexandre Blum Weingartner"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Raul Gohr Junior"
+                 NRO-ID-CNPQ="5436092788248299"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="10"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Vinicius Rodrigues Miranda"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Tiago Vieira da Cunha"
+                 NRO-ID-CNPQ="9627044338796000"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="11"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Iniciação Científica" BOLSA-NIVEL="  " NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Felipe Valente Nicolau"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Raul Gohr Junior"
+                 NRO-ID-CNPQ="9805295716122560"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="12"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <TECNICOS>
+      <TECNICO ATIVIDADE-NO-GRUPO="Técnico Especializado"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               NOME-COMPLETO="Cleber Guedes"
+               SEQUENCIA-TECNICO="11"/>
+      <TECNICO ATIVIDADE-NO-GRUPO="Projetista" GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               NOME-COMPLETO="Marcus Barnetche"
+               SEQUENCIA-TECNICO="8"/>
+      <TECNICO ATIVIDADE-NO-GRUPO="Técnico Mecânico"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               NOME-COMPLETO="Evandro Martins"
+               SEQUENCIA-TECNICO="9"/>
+      <TECNICO ATIVIDADE-NO-GRUPO="Técnico em Eletrônica"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               NOME-COMPLETO="Ricardo Campagnin"
+               SEQUENCIA-TECNICO="10"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de controle e de aquisição de dados de soldagem a arco"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de sistemas para tornar flexivel a pesquisa e a documentação de dados de soldagem "
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Instrumentação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="34">Sistema avançado de controle</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="35">Controle de processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="36">Aquisição de dados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14995"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Guilherme Locatelli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="452842"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raul Gohr Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="71877"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Tiago Vieira da Cunha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="236750"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Hebert Sancho Garcez Militão" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="520560"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Alexandre Blum Weingartner" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="574226"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Vinicius Rodrigues Miranda" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2161771"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Felipe Valente Nicolau" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="721128"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Conversão e Retificação da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="437"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="473"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processos de Fabricação, Seleção Econômica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="478"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="58"
+                                SETOR="Fabricação de máquinas e equipamentos, inclusive máquinas-ferramenta"
+                                SUBSETOR="Fabricação de máquinas com componentes de mecânica de precisão"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="80"
+                                SETOR="Fabricação de Equipamentos de Instrumentação médico-hospitalares, instrumentos de precisão e ópticos, equipamentos para automação industrial, cronômetros e relógios"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="120" SETOR="Outros setores"
+                                SUBSETOR="Indústria Metal-Mecânica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatização, sistemas orbitais e sensoreamento"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de automatização da soldagem e a conseqüente avanço na tecnicas de soldagem  "
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Automatização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Instrumentação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Mecanização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="14">sensoreamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="32">Sistemas Orbitais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="33">MIG orbital</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Renon Steinbach Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894497"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14995"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raul Gohr Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="71877"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Tiago Vieira da Cunha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="236750"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Nelso Gauze Bonacorso"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="72166"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Henrique Lautert de Azambuja" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2079227"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Felipe Valente Nicolau" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="721128"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Eletrônicos de Medida e de Controle"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="428"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="473"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="58"
+                                SETOR="Fabricação de máquinas e equipamentos, inclusive máquinas-ferramenta"
+                                SUBSETOR="Fabricação de máquinas com componentes de mecânica de precisão"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="119" SETOR="Outros setores"
+                                SUBSETOR="Industria Eletro-Eletrônica"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="120" SETOR="Outros setores"
+                                SUBSETOR="Indústria Metal-Mecânica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Recobrimento Metálico por Deposição de Pós Utilizando Soldagem Plasma de Arco Transferido"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de procedimentos para o recobrimento metálico por deposição de pós, utilizando a soldagem plasma de arco transferido."
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Plasma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="20">PTA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="21">Arco tr</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Régis Henrique Gonçalves e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="279878"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Jonathas Alexandre Alves" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2737810"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Materiais e Metalúrgica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Soldagem"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metalurgia de Transformação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="401"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="120" SETOR="Outros setores"
+                                SUBSETOR="Indústria Metal-Mecânica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia da Informação"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Documentar e disponibilizar as tecnologias desenvolvidas "
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="41">Dados de soldagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="42">Banco de dados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marcelo Pompermaier Okuyama"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="661265"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14995"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Márcia Paula Thiel" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2210947"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processos de Fabricação, Seleção Econômica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="478"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="57"
+                                SETOR="Fabricação de estruturas metálicas, caldeiraria pesada, tanques, reservatórios e outros produtos de Metal, exclusive máquinas e equipamentos"
+                                SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas versões de processos de soldagem a arco"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de melhores opções de versões de processos de soldagem, visando o aumento de repetitividade em operaç~es automatizadas. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="11">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="37">Novos processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="38">Plasma-MIG</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="39">MIG com controle de corrente</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="40">MIG CA</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Renon Steinbach Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894497"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Luciano Machado Cirino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2824394"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14995"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Guilherme Locatelli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="452842"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Régis Henrique Gonçalves e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="279878"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Hellinton Direne Filho" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2824188"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ivan Olszanski Pigozzo" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2837665"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Cleber Hélio da Cunha" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2183626"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Kleber da Silva" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2660341"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ezequiel Goncalves" SEQUENCIA-ESTUDANTE="5"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2829130"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Felipe Valente Nicolau" SEQUENCIA-ESTUDANTE="6"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="721128"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="449"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="120" SETOR="Outros setores"
+                                SUBSETOR="Indústria Metal-Mecânica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA CIDADE="Curitiba" CNPJ="01715975000169" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Lactec - Instituto Tecnologia para o  Desenvolvimento"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="956"
+               SIGLA-DA-EMPRESA=""
+               UF="Paraná">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Eletricidade e gás" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Florianopolis" CNPJ="02474103000623" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Tractebel Energia S/A"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="235"
+               SIGLA-DA-EMPRESA=""
+               UF="Santa Catarina">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Eletricidade e gás" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Florianopolis" CNPJ="04642375000106" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="SPS Soluções para Soldagem Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="34306"
+               SIGLA-DA-EMPRESA=""
+               UF="Santa Catarina">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Não informado"
+                                          SUBSETOR="Não informado"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Ilha Solteira" CNPJ="66952607000180" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Servtec Serviços Técnicos Terceirizados Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="2123"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Eletricidade e gás" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Florianopolis" CNPJ="73226599000150" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="IMC Engenharia de Soldagem Instrumentação e Automação Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="474"
+               SIGLA-DA-EMPRESA=""
+               UF="Santa Catarina">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de máquinas e equipamentos"
+                                          SUBSETOR="Fabricação de máquinas e equipamentos de uso industrial específico"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="12">Atividades de engenharia não-rotineira inclusive o desenvolvimento de protótipo, cabeça de série ou planta-piloto para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="13">Atividades de engenharia não-rotineira inclusive o desenvolvimento/fabricação de equipamentos para o grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="11">Transferência de recursos financeiros do grupo para o parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Blumenau" CNPJ="79670501002774" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="WEG Indústrias Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="953"
+               SIGLA-DA-EMPRESA=""
+               UF="Santa Catarina">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de máquinas e equipamentos"
+                                          SUBSETOR="Fabricação de motores, bombas, compressores e equipamentos de transmissão"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="12">Atividades de engenharia não-rotineira inclusive o desenvolvimento de protótipo, cabeça de série ou planta-piloto para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Joinville" CNPJ="84720630000120" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Embraco - Empresa Brasileira de Compressores S/A"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="2"
+               SIGLA-DA-EMPRESA=""
+               UF="Santa Catarina">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de produtos de metal, exceto máquinas e equipamentos"
+                                          SUBSETOR="Fabricação de tanques, reservatórios metálicos e caldeiras"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <CRITICAS-SUGESTOES/>
+</GRUPO-DE-PESQUISA>

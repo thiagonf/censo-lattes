@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA NRO-ID-GRUPO="9189490968695940" ANO-CENSO="2014">
+   <PESQUISADORES>
+      <PESQUISADOR NRO-ID-CNPQ="3640021939880443"
+                   NOME-COMPLETO="Marcelo Ribeiro Vasconcelos Diniz"
+                   NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEXO="M"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-IC="Não"
+                   BOLSA-NIVEL=""
+                   BOLSA-CATEGORIA=""/>
+      <PESQUISADOR NRO-ID-CNPQ="1700219648154970"
+                   NOME-COMPLETO="Elaine Henriques Teixeira Pereira"
+                   NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEXO="F"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-IC="Não"
+                   BOLSA-NIVEL=""
+                   BOLSA-CATEGORIA=""/>
+      <PESQUISADOR NRO-ID-CNPQ="0514758679257871" NOME-COMPLETO="Ana Luiza Bittencourt Paiva"
+                   NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEXO="F"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-IC="Não"
+                   BOLSA-NIVEL=""
+                   BOLSA-CATEGORIA="">
+         <TOTAIS-PRODUCAO>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2012" TOT-BIBL-PERIODICO-NAC="0" TOT-BIBL-PERIODICO-INT="0"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="2"
+                            TOT-BIBL="2"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="0"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="1"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="1"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+         </TOTAIS-PRODUCAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NRO-ID-CNPQ="0442181008381284"
+                 NOME-COMPLETO="Marta Lamounier Moura Vargas Corgozinho"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="5158221284487917" NOME-COMPLETO="Paulo Gaio Leite"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9240889457448158"
+               NOME-DA-EMPRESA="Serviço de Bioquímica"
+               SIGLA-DA-EMPRESA="IBU"
+               NATUREZA-JURIDICA="Órgão Público do Poder Executivo Estadual ou do Distrito Federal"
+               CNPJ="61821344000156"
+               RAZAO-SOCIAL-DA-EMPRESA=""
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"/>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5211856319316870"
+               NOME-DA-EMPRESA="Instituto de Ciências Biológicas"
+               SIGLA-DA-EMPRESA="UFMG"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               CNPJ="17217985000104"
+               RAZAO-SOCIAL-DA-EMPRESA="Instituto de Ciências Biológicas"
+               LOCALIDADE="Belo Horizonte"
+               CIDADE="Belo Horizonte"
+               UF="MG"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

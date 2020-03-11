@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA DATA-ATUALIZACAO="03122010" ESTRATIFICACAO=""
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="120000"
+                   NRO-ID-GRUPO="0330106CJE72DF"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO ANO-DE-CRIACAO="1990" AREA-PREDOMINANTE="Química"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           NOME-DA-INSTITUICAO="Universidade Estadual Paulista Julio de Mesquita Filho"
+                           NOME-DA-UNIDADE="Departamento de Físico-Química"
+                           NOME-DO-GRUPO="GRUPO DE MATERIAIS MAGNÉTICOS E COLÓIDES"
+                           NOME-DO-ORGAO="Instituto de Química de Araraquara"
+                           SIGLA-DA-INSTITUICAO="UNESP"
+                           UF-DA-INSTITUICAO="SP">
+      <LIDERES>
+         <PRIMEIRO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Miguel Jafelicci Junior"
+                         NRO-ID-CNPQ="7182671143702858"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO BAIRRO="Quitandinha" CEP="14801970" CIDADE="Araraquara" DDD="016"
+                                       E-MAIL="jafeli@iq.unesp.br"
+                                       FAX="33016692"
+                                       HOME-PAGE="www.iq.unesp.br"
+                                       LOGRADOURO-E-COMPLEMENTO="Rua Prof. Francisco Degni, s/n"
+                                       RAMAL=""
+                                       TELEFONE="33016651"
+                                       UF="SP"/>
+      <REPERCUSSOES>O Grupo investiga a Química de Colóides enfatizando as dispersões coloidais e suas aplicações na Química de Materiais. As linhas de pesquisa envolvem sistemas tais como, química preparativa e caracterização de materiais inorgânicos tecnologicamente significativos e relevantes para aplicações de propriedades magnéticas, ópticas, eletroquímicas e catalíticas. No contexto da química de colóides e de superfícies, há o interesse particular nos sistemas de materiais com estruturação em nanoescala (1-100 nm de diâmetro). Esses materiais, além das propriedades tradicionalmente conhecidas e devidas ao volume estendido, apresentam as propriedades advindas da elevada relação de superfície/volume e do efeito quântico de confinamento dos elétrons no volume restrito da nanopartícula.  As partículas coloidais na escala nanométrica ainda podem se auto-organizar em cristais coloidais, materiais nanoestruturados e filmes auto-organizados, isolados ou parte de materiais compósitos. Há portanto, duas linhas de pesquisa, Química de Colóides e de Superfícies e Química de Materiais, com projetos sobre síntese de nanomateriais por redução química com poliol e hidretos, desenvolvimento de material magnético para biomedicina, sensores, refrigeração magnética em temperatura ambiente, plasmônica. Dispersão coloidal de nanopartículas de óxidos simples e mistos, metálicas e ligas, com conformação de fase única, e partículas caroço@casca de composição metálica, óxido, polímero, contendo ainda moléculas de complexos metálicos. As técnicas convencionais de investigação físico-química das amostras são difração de raios X por pó, microscopias eletrônicas, espectroscopias  infravermelho e Raman, espectroscopia Mossbauer, análise térmica, medidas magnéticas, medida de ângulo de contato, espalhamento de luz (DLS), medidas de área de superfície, tamanho, potencial zeta.  Veja publicações, teses, dissertações nos CVs Lattes dos membros.</REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodrigo Fernando Costa Marques"
+                   NRO-ID-CNPQ="2115942621694174"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Magnéticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Colóides e Superfícies"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="1C" NACIONALIDADE="B"
+                   NOME-COMPLETO="Marian Rosaly Davolos"
+                   NRO-ID-CNPQ="4284809342546287"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisco José dos Santos"
+                   NRO-ID-CNPQ="7025793451504606"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Colóides e Superfícies"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="1D" NACIONALIDADE="B"
+                   NOME-COMPLETO="Miguel Jafelicci Junior"
+                   NRO-ID-CNPQ="7182671143702858"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Magnéticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Colóides e Superfícies"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Momotaro Imaizumi"
+                   NRO-ID-CNPQ="7634173363142790"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Magnéticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="Iniciação Científica" BOLSA-NIVEL="  " NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Caio Carvalho dos Santos"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="2839764434445148"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="1"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Doutorado" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Eloiza da Silva Nunes"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="4019603533072368"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="2"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Colóides e Superfícies"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Iniciação Tecnológica" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Ensino Profissional de nível técnico"
+                 NOME-COMPLETO="Douglas Ricardo de Assis"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="5143297615418231"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="3"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Doutorado" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Rafael Admar Bini"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="5146547834095124"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="4"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Colóides e Superfícies"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Doutorado" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Maria Aparecida Santiago da Silva"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="6681407067336003"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="5"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Iniciação Científica" BOLSA-NIVEL="  " NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Curso de curta duração"
+                 NOME-COMPLETO="Daniel Ramos Pereira"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="8539424248897650"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="6"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Wesley Renato Viali"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="8783679369399364"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="7"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Magnéticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Curso de curta duração"
+                 NOME-COMPLETO="Taciane Pereira da Costa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Miguel Jafelicci Junior"
+                 NRO-ID-CNPQ="8894572721456246"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="8"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <TECNICOS>
+      <TECNICO ATIVIDADE-NO-GRUPO="Analista Químico" GRAU-DE-ESCOLARIDADE="Graduação"
+               NOME-COMPLETO="Neide Aparecida Felicio Perrucci"
+               SEQUENCIA-TECNICO="1"/>
+      <TECNICO ATIVIDADE-NO-GRUPO="Técnico em Raios-X"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               NOME-COMPLETO="Ricardo José Biagio"
+               SEQUENCIA-TECNICO="2"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Magnéticos"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar métodos de preparação e caracterizar materiais com funções magnéticas. Materiais magnéticos de óxidos metálicos e metais dispersos com partículas micro- e nanométricas, e do tipo caroço@casca. Ferritas, Manganitas, Metais Ligas de metais de transição e de terras raras em estado finamente dividido, visando à obtenção de materiais funcionais auto-organizados. As aplicações são para gravação magnética de alta eficiência e materiais magnetocalóricos para refrigeração magnética. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">pigmentos magnéticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">materiais magnéticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="23">magnetocalórico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="24">propriedades magnéticas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="49">colóides magnéticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="50">transportadores magnéticos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Rodrigo Fernando Costa Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="374961"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Miguel Jafelicci Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="110140"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Momotaro Imaizumi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="52497"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Wesley Renato Viali" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="665581"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="144"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Química de Interfaces"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Físico-Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="165"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="14" SETOR="Educação" SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="40" SETOR="Desenvolvimento de novos materiais"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="119" SETOR="Outros setores"
+                                SUBSETOR="Industria Eletro-Eletrônica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Materiais"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar materiais com foco em método de preparação, composição química, estrutura e microestrutura, propriedades magnéticas de óxidos simples e mistos, metais e ligas, na forma finamente dividida e em nanopartículas. Transformações de resíduos de processos e caracterização para fins de agregar valor ao produto. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">materiais magnéticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="12">nanopartícula</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="21">resíduos industriais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="48">partícula caroço@casca</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="53">funcionalização da superfície</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Rodrigo Fernando Costa Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="374961"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marian Rosaly Davolos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14161"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Miguel Jafelicci Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="110140"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Caio Carvalho dos Santos" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3607909"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Douglas Ricardo de Assis" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3095319"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Maria Aparecida Santiago da Silva" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="695352"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Wesley Renato Viali" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="665581"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="144"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Físico Química Inorgânica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Química Inorgânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="159"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Química de Interfaces"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Físico-Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="165"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="11" SETOR="Educação" SUBSETOR="Educação superior"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="40" SETOR="Desenvolvimento de novos materiais"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="127"
+                                SETOR="Atividades no campo das nanotecnologias e desenvolvimento de nanoprodutos"
+                                SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Química de Colóides e Superfícies"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar a preparação e propriedades físico-químicas de dispersões coloidais para fins de obter materiais inorgânicos ou compósitos nanoestruturados. Estudo de monocamadas moleculares (Langmuir-Blodget) de complexos luminescentes.  Diagrama de fases de surfatantes e microemulsoes. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="28">surfatantes e microemulsões</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="44">nanopartícula magnética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="45">partícula multifincional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="46">materiais nanoestruturados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="47">dispersões coloidais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="48">partícula caroço@casca</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Rodrigo Fernando Costa Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="374961"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Francisco José dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="71418"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Miguel Jafelicci Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="110140"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Eloiza da Silva Nunes" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="841721"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rafael Admar Bini" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="551692"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="144"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Físico-Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="161"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Química de Interfaces"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Físico-Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="165"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="11" SETOR="Educação" SUBSETOR="Educação superior"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="40" SETOR="Desenvolvimento de novos materiais"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="62" SETOR="Produtos e processos biotecnológicos"
+                                SUBSETOR="Produtos e processos biotecnológicos vinculados à saúde humana ou dos animais"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Materiais Multifuncionais"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="pesquisar materiais magnéticos nanoestruturados e modificar a interface dotando de (multi)funções para aplicação em biomedicina, diagnóstico clínico e terapias. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="39">bioensaios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="40">imagem magnética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="42">magnetocalóricos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="43">refrigeração magnética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="51">liberação controlada de fármacos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="52">fluído magnético</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Rodrigo Fernando Costa Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="374961"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Francisco José dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="71418"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Miguel Jafelicci Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="110140"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Momotaro Imaizumi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="52497"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Eloiza da Silva Nunes" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="841721"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rafael Admar Bini" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="551692"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Daniel Ramos Pereira" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3441136"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Taciane Pereira da Costa" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2360997"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="144"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Química de Interfaces"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Físico-Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="165"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Biofísica"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="313"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="11" SETOR="Educação" SUBSETOR="Educação superior"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="51" SETOR="Fabricação de produtos químicos"
+                                SUBSETOR="Fabricação de produtos farmacêuticos"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="76"
+                                SETOR="Fabricação de Equipamentos de Instrumentação médico-hospitalares, instrumentos de precisão e ópticos, equipamentos para automação industrial, cronômetros e relógios"
+                                SUBSETOR="Fabricação de equipamentos de instrumentação médico-hospitalar, odontológico e de laboratórios"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA CIDADE="Sao Carlos" CNPJ="09048457000140" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Procell Ind. Com. Imp. e Exp. de Biomateriais e Prods. Biotecnológicos Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="32753"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de produtos diversos"
+                                          SUBSETOR="Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <CRITICAS-SUGESTOES>O Diretório de Grupo de Pesquisa é um sistema de referência nacional da pesquisa e permite iniciativas de busca e cooperação científica. O sistema de formulários do Lattes implantado pelo CNPq facilita o acompanhamento dos grupos e projetos, e a visualização da gestão da pesquisa e dos resultados. Como sugestão acho importante incluir a figura do co-orientador de projetos da PG porque a pesquisa é bastante multidisciplinar e há projetos que requerem especialidades diversificadas da experiência do orientador.  Sugere-se ainda, em termos de grupo, a inclusão de uma área para as principais publicações, que pode ser limitada aos 5 trabalhos mais importantes do grupo ou nos últimos 3 anos.  </CRITICAS-SUGESTOES>
+</GRUPO-DE-PESQUISA>

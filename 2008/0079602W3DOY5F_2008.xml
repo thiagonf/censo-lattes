@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA DATA-ATUALIZACAO="19112008" ESTRATIFICACAO=""
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="120000"
+                   NRO-ID-GRUPO="0079602W3DOY5F"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO ANO-DE-CRIACAO="1997" AREA-PREDOMINANTE="Administração"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Sociais Aplicadas"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Campinas"
+                           NOME-DA-UNIDADE="Departamento de Política Científica e Tecnológica"
+                           NOME-DO-GRUPO="GEMPI - Grupo de Estudos de Empresas e Inovação"
+                           NOME-DO-ORGAO="Instituto de Geociências"
+                           SIGLA-DA-INSTITUICAO="UNICAMP"
+                           UF-DA-INSTITUICAO="SP">
+      <LIDERES>
+         <PRIMEIRO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Ruy de Quadros Carvalho"
+                         NRO-ID-CNPQ="0870593828183273"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+         <SEGUNDO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Sérgio Robles Reis de Queiroz"
+                        NRO-ID-CNPQ="8337842414613455"
+                        PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO BAIRRO="Barão Geraldo" CEP="13083970" CIDADE="Campinas" DDD="19"
+                                       E-MAIL="ruyqc@ige.unicamp.br"
+                                       FAX="35214555"
+                                       HOME-PAGE="http://www.ige.unicamp.br"
+                                       LOGRADOURO-E-COMPLEMENTO="Cidade Universitária"
+                                       RAMAL="14457"
+                                       TELEFONE="35214557"
+                                       UF="SP"/>
+      <REPERCUSSOES>O GEMPI - Grupo de Estudos de Empresas e Inovação é formado por professores, pesquisadores e alunos de mestrado e doutorado do Departamento de Política Científica e Tecnológica (DPCT), do IGE/UNICAMP. O GEMPI se dedica à pesquisa do processo de inovação tecnológica nas empresas industriais e de serviços, com ênfase na realidade brasileira. As várias dimensões da inovação e seus condicionantes numa economia em desenvolvimento estão no escopo dos estudos do grupo. Os focos de sua produção recente traduzem seus interesses em vários níveis de pesquisa e intervenção. A preocupação em entender os limites e possibilidades da aprendizagem e da inovação na empresa, numa economia periférica e internacionalizada, revela-se nas pesquisas sobre globalização e capacitação tecnológica. Nessa linha, destacam-se, de um lado, os trabalhos sobre a P&amp;amp;D e a inovação tecnológica em subsidiárias de empresas transnacionais, bem como sobre as perspectivas de capacitação em empresas brasileiras inseridas em cadeias globais. De outro, o GEMPI tem acumulado conhecimento sobre os desafios que o mesmo processo de internacionalização coloca para os campeões nacionais da inovação. Mais recentemente, a linha analítica do GEMPI tem se estendido para compreender a investigação sobre estratégias das empresas e suas práticas de gerenciamento estratégico da inovação e da tecnologia. Finalmente, mas não menos importante, o GEMPI tem dedicado parte importante de sua energia no desenvolvimento de metodologias para a mensuração dos vários aspectos relacionados com o processo de inovação tecnológica, seus resultados e custos envolvidos. Nessa linha, os pesquisadores do GEMPI tiveram papel importante no desenvolvimento e implementação de surveys de inovação (PAEP da Fundação SEADE e Diretório da Pesquisa Privada da FINEP), bem como dos Indicadores de Ciência, Tecnologia e Inovação em SP, da FAPESP. Com base nessa experiência, o GEMPI oferece o curso de extensão Gestão Estratégica da Inovação Tecnológica.</REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="1D" NACIONALIDADE="B"
+                   NOME-COMPLETO="Ruy de Quadros Carvalho"
+                   NRO-ID-CNPQ="0870593828183273"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Pollyana de Carvalho Varrichio"
+                   NRO-ID-CNPQ="1221101596912192"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Edmundo Inácio Júnior"
+                   NRO-ID-CNPQ="1608673584881629"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Ionara Costa"
+                   NRO-ID-CNPQ="2215233800729848"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Flávia Luciane Consoni"
+                   NRO-ID-CNPQ="3178864999293864"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Glicia Vieira dos Santos"
+                   NRO-ID-CNPQ="3331091276265413"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Sabine Righetti"
+                   NRO-ID-CNPQ="3785638307721158"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Especialização">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Strachman"
+                   NRO-ID-CNPQ="4070106176104935"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Alair Helena Ferreira"
+                   NRO-ID-CNPQ="5657973910153609"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Rubia Auxiliadora Constancio Quintão"
+                   NRO-ID-CNPQ="6641057925648179"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Esther Menezes"
+                   NRO-ID-CNPQ="7216783746255191"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Eliane Cristina Franco"
+                   NRO-ID-CNPQ="7471129537375702"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Mariana Nunciaroni Zanatta"
+                   NRO-ID-CNPQ="8112452059263187"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Sérgio Robles Reis de Queiroz"
+                   NRO-ID-CNPQ="8337842414613455"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="14"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Andre Tosi Furtado"
+                   NRO-ID-CNPQ="8444233927942764"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="15"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Doutorado" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Edilaine Venancio Camillo"
+                   NRO-ID-CNPQ="9060974474062619"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="16"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Muriel de Oliveira Gavira"
+                   NRO-ID-CNPQ="9242473336905917"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="17"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Andréa Santos de Deus"
+                   NRO-ID-CNPQ="9454698073423460"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="18"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Graduação">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Luciana Cristina Lenhari"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Ruy de Quadros Carvalho"
+                 NRO-ID-CNPQ="1950320356042015"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="1"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Maria Helena Costa Resnizky"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Ruy de Quadros Carvalho"
+                 NRO-ID-CNPQ="2569630784280859"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="2"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 NOME-COMPLETO="Fernando Oliveira Santos"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Sérgio Robles Reis de Queiroz"
+                 NRO-ID-CNPQ="5322043607802930"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="3"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Mariana Corrêa Barra"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Sérgio Robles Reis de Queiroz"
+                 NRO-ID-CNPQ="9428511149719616"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="4"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 NOME-COMPLETO="Anapatrícia Morales Vilha"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Ruy de Quadros Carvalho"
+                 NRO-ID-CNPQ="9529188963395388"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="5"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <TECNICOS>
+      <TECNICO ATIVIDADE-NO-GRUPO="\Outra Função" GRAU-DE-ESCOLARIDADE="Graduação"
+               NOME-COMPLETO="Rafael Mimura de Melo"
+               SEQUENCIA-TECNICO="3"/>
+      <TECNICO ATIVIDADE-NO-GRUPO="\Outra Função" GRAU-DE-ESCOLARIDADE="Graduação"
+               NOME-COMPLETO="Lucca Vichr Lopes"
+               SEQUENCIA-TECNICO="2"/>
+      <TECNICO ATIVIDADE-NO-GRUPO="\Outra Função" GRAU-DE-ESCOLARIDADE="Graduação"
+               NOME-COMPLETO="Feliphe Augusto Andreoli"
+               SEQUENCIA-TECNICO="1"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Globalização e Localização das Atividades Tecnológicas em Empresas Transnacionais"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Entender como a interação entre as estratégias de empresas transnacionais e as políticas nacionais condicionam a localização da P&amp;amp;D e demais atividades tecnológicas dessas empresas.   "
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="0">Internacionalização da P&amp;D</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Globalização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Transnacionais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Ruy de Quadros Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19981"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Pollyana de Carvalho Varrichio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="558212"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Flávia Luciane Consoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="408420"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Eduardo Strachman"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74668"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Alair Helena Ferreira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="474537"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Rubia Auxiliadora Constancio Quintão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="160102"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Esther Menezes" SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="178284"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Mariana Nunciaroni Zanatta"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222146"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Sérgio Robles Reis de Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="29974"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Andre Tosi Furtado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="43698"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Edilaine Venancio Camillo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="311905"
+                               SEQUENCIA-PESQUISADOR="11"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Muriel de Oliveira Gavira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="183131"
+                               SEQUENCIA-PESQUISADOR="12"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Luciana Cristina Lenhari" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="534689"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Maria Helena Costa Resnizky" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="32452"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Mariana Corrêa Barra" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="311911"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Economia"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mudança Tecnológica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Economia Industrial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="964"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="72"
+                                SETOR="Fabricação e montagem de veículos automotores para transporte de carga e passageiros"
+                                SUBSETOR="Fabricação e montagem de automóveis, caminhões, ônibus e tratores e demais máquinas e implementos agrícolas, reboques e carrocerias"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="77"
+                                SETOR="Fabricação de Equipamentos de Instrumentação médico-hospitalares, instrumentos de precisão e ópticos, equipamentos para automação industrial, cronômetros e relógios"
+                                SUBSETOR="Fabricação de máquinas, aparelhos e equipamentos de sistemas eletrônicos dedicados à automação industrial e controle do processo produtivo"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gestão Estratégica da Inovação Tecnológica"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Entender como as características do ambiente de negócios brasileiro condicionam as práticas de organização e gerenciamento estratégico da inovação e da tecnologia adotadas pelas empresas brasileiras, considerando diferenças entre setores e tamanhos; entender a difusão e adaptação de práticas adotadas nos países mais industrializados.    "
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">gerenciamento da inovação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">prospecção e seleção de tecnologias</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">gestão de portfólio de projetos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">gestão do desenvolvimento de produtos e processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">cooperação e alianças para a inovação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">estratégia competitiva e estratégia de inovação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Ruy de Quadros Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19981"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Flávia Luciane Consoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="408420"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Glicia Vieira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="418335"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Rubia Auxiliadora Constancio Quintão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="160102"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Sérgio Robles Reis de Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="29974"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Andre Tosi Furtado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="43698"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Muriel de Oliveira Gavira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="183131"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Luciana Cristina Lenhari" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="534689"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Maria Helena Costa Resnizky" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="32452"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Anapatrícia Morales Vilha" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="534675"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="889"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="69"
+                                SETOR="Fabricação de material eletrônico e de aparelhos e equipamentos de comunicação"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="75"
+                                SETOR="Fabricação e montagem de veículos automotores para transporte de carga e passageiros"
+                                SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indicadores de Ciência, Tecnologia e Inovação"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de metodologia para construção de indicadores de CT&amp;amp;I. Planejamento, implementação e análise de surveys de inovação tecnológica. Metodologias de tratamento estatísticos de indicadores de inovação. Análise dos padrões de inovação e esforço tecnológico de setores industriais e de serviços. Pesquisa da influência de atributos econômicos das empresas, tais como tamanho, nacionalidade e setor de atuação, sobre seus desempenho inovador e seu esforço tecnológico."
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="9">Indi</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">Indicadores de C&amp;T</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Ruy de Quadros Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19981"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Edmundo Inácio Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="314765"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Ionara Costa" SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="126883"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Sabine Righetti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="829315"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Eliane Cristina Franco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="749840"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Sérgio Robles Reis de Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="29974"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Andre Tosi Furtado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="43698"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Edilaine Venancio Camillo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="311905"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Andréa Santos de Deus"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175175"
+                               SEQUENCIA-PESQUISADOR="9"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Fernando Oliveira Santos" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="904786"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Mariana Corrêa Barra" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="311911"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Economia"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mudança Tecnológica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Economia Industrial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="964"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="101"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SUBSETOR="Política econômica e administração pública em geral"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA CIDADE="Brasilia" CNPJ="00070698000111" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="CEB - Companhia Energética de Brasília"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="1127"
+               SIGLA-DA-EMPRESA=""
+               UF="Distrito Federal">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Eletricidade e gás" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Sao Paulo" CNPJ="01615814000101" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Unilever Bestfoods Brasil Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="32286"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de produtos alimentícios"
+                                          SUBSETOR="Fabricação de outros produtos alimentícios"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Guarulhos" CNPJ="03509521000167" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Visteon Sistemas Automotivos Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="31725"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de veículos automotores, reboques e carrocerias"
+                                          SUBSETOR="Fabricação de peças e acessórios para veículos automotores"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Sao Jose dos Campos" CNPJ="07689002000189" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Embraer - Empresa Brasileira de Aeronáutica S/A"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="34068"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de outros equipamentos de transporte, exceto veículos automotores"
+                                          SUBSETOR="Fabricação de aeronaves"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Ouro Preto" CNPJ="17155730000164" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Cemig - Companhia Energética de Minas Gerais"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="126"
+               SIGLA-DA-EMPRESA=""
+               UF="Minas Gerais">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Eletricidade e gás" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Sao Paulo" CNPJ="20730099000194" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Sadia S/A"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="2516"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Não informado"
+                                          SUBSETOR="Não informado"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="E" ANO-CENSO="2002" NRO-ID-GRUPO="8119602GR67SPJ">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                   TITULACAO-MAXIMA="Doutorado"
+                   NRO-ID-CNPQ="4698561100156884"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Verçulina Firmino dos Santos"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Não Informado"
+                   TITULACAO-MAXIMA="Doutorado"
+                   NRO-ID-CNPQ="8611771439700897"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Carlos Augusto Matos de Carvalho"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Cleres Lisboa Alvarenga Veras"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Lyzandro Fernandes Furtado"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Araneiza Rodrigues da Silva"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Andréia Lima Possebon Ribeiro"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Diogo Figueiredo de Oliveira"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Maias Agricola Ltda" NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="02789619"/>
+      <EMPRESA NOME-DA-EMPRESA="E. J. M. Da Silva Junior - Me"
+               NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="03662738"/>
+      <EMPRESA NOME-DA-EMPRESA="Teodomiro Braz De Azevedo &amp; Cia Ltda"
+               NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="04018202"/>
+      <EMPRESA NOME-DA-EMPRESA="Brasil E Andrade Ltda" NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="84025808"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

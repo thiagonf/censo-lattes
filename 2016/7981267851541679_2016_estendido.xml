@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA NRO-ID-GRUPO="7981267851541679" ANO-CENSO="2016">
+   <PESQUISADORES>
+      <PESQUISADOR NRO-ID-CNPQ="8422671953715132" NOME-COMPLETO="Antonio Herbert Lancha Junior"
+                   NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEXO="M"
+                   STA-ORIENTADOR-DOUTORADO="Sim"
+                   STA-ORIENTADOR-MESTRADO="Sim"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-IC="Sim"
+                   BOLSA-NIVEL="1A"
+                   BOLSA-CATEGORIA="Produtividade em Pesquisa">
+         <DOCENTE-PROGRAMAS>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Bioquímica"
+                              GRANDE-AREA-PROGRAMA="Ciências Biológicas"
+                              NOME-PROGRAMA="Biologia Funcional e Molecular"
+                              CODIGO-PROGRAMA="33003017040P8"/>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Educação Física"
+                              GRANDE-AREA-PROGRAMA="Ciências da Saúde"
+                              NOME-PROGRAMA="Educação Física"
+                              CODIGO-PROGRAMA="33002010084P9"/>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="4" AREA-PROGRAMA="Histologia"
+                              GRANDE-AREA-PROGRAMA="Ciências Biológicas"
+                              NOME-PROGRAMA="Ciências (Biologia Celular e Tecidual)"
+                              CODIGO-PROGRAMA="33002010024P6"/>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="3" AREA-PROGRAMA="Fisiologia"
+                              GRANDE-AREA-PROGRAMA="Ciências Biológicas"
+                              NOME-PROGRAMA="Fisiologia do Exercicio"
+                              CODIGO-PROGRAMA="33009015047P0"/>
+         </DOCENTE-PROGRAMAS>
+         <TOTAIS-PRODUCAO>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2014" TOT-BIBL-PERIODICO-NAC="3" TOT-BIBL-PERIODICO-INT="7"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="0"
+                            TOT-BIBL="10"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="0"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="1"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="1"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2015" TOT-BIBL-PERIODICO-NAC="3" TOT-BIBL-PERIODICO-INT="3"
+                            TOT-BIBL-LIVRO="2"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="0"
+                            TOT-BIBL="8"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="0"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="0"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2016" TOT-BIBL-PERIODICO-NAC="0" TOT-BIBL-PERIODICO-INT="5"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="1"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="0"
+                            TOT-BIBL="6"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="1"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="1"
+                            TOT-ORIE-DOUTORADO-CONC="1"
+                            TOT-ORIE-MESTRADO-CONC="1"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="2"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+         </TOTAIS-PRODUCAO>
+      </PESQUISADOR>
+      <PESQUISADOR NRO-ID-CNPQ="1709968253015428">
+         <DOCENTE-PROGRAMAS>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Educação Física"
+                              GRANDE-AREA-PROGRAMA="Ciências da Saúde"
+                              NOME-PROGRAMA="Educação Física"
+                              CODIGO-PROGRAMA="33002010084P9"/>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Clínica Médica"
+                              GRANDE-AREA-PROGRAMA="Ciências da Saúde"
+                              NOME-PROGRAMA="Medicina (Ciências Médicas)"
+                              CODIGO-PROGRAMA="33002010171P9"/>
+         </DOCENTE-PROGRAMAS>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NRO-ID-CNPQ="5279151084844875" NOME-COMPLETO="Aline Vasques da Costa"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="0232363199706250" NOME-COMPLETO="Ayane de Sá Resende"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="9871939687545357" NOME-COMPLETO="Geovana Silva Fogaça Leite"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="0232363199706250" NOME-COMPLETO="Ayane de Sá Resende"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="5279151084844875" NOME-COMPLETO="Aline Vasques da Costa"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="9871939687545357" NOME-COMPLETO="Geovana Silva Fogaça Leite"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="4200336623732865" NOME-COMPLETO="Vitor de Salles Painelli"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="4200336623732865" NOME-COMPLETO="Vitor de Salles Painelli"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6455635959472417"
+               NOME-DA-EMPRESA="Unité de Recherche Nutrition, Métabolisme, Aquaculture"
+               SIGLA-DA-EMPRESA="INRA/UR NuMeA"
+               NATUREZA-JURIDICA=""
+               CNPJ="EX36435045"
+               RAZAO-SOCIAL-DA-EMPRESA="Institut National de la Recherche Agronomique"
+               LOCALIDADE=""
+               CIDADE=""
+               UF=""/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

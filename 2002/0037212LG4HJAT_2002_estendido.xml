@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="null" ANO-CENSO="2002" NRO-ID-GRUPO="0037212LG4HJAT">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Graduação"
+                   NRO-ID-CNPQ="1560905701606596"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="José Flávio de Lima Rosa"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Mestrado"
+                   NRO-ID-CNPQ="6075829433982556"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="José Roberto Salomão"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Cmc Cogumelos Medicinais E Comestiveis Ltda"
+               NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="04164686"/>
+      <EMPRESA NOME-DA-EMPRESA="Microbiol Comercio E Industria De Alimentos Ltda Me"
+               NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="73784225"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

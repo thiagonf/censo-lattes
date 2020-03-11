@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="6432935903924528"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="134835"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="02052016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="9684444008469480" CODIGO-AREA-PREDOMINANTE="60500000"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Santa Cecília"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNISANTA"
+                           NOME-DA-INSTITUICAO="Universidade Santa Cecília"
+                           AREA-PREDOMINANTE="Planejamento Urbano e Regional"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Sociais Aplicadas"
+                           ANO-DE-CRIACAO="2009"
+                           NOME-DO-GRUPO="Núcleo Brasileiro de Estudos Portuários, Marítimos e Territoriais - NEPOMT">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="6396359949800551" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Luiz Antonio de Paula Nunes"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="9720401102464934" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Adilson Luiz Gonçalves"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3548500" DDDFAX="13"
+                                       LONGITUDE="-46.32169780000004"
+                                       LATITUDE="-23.9643245"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Santos"
+                                       NUMERO="277"
+                                       COMPLEMENTO="Rua Oswaldo Cruz, 277, sala 127 A Bloco M"
+                                       LOGRADOURO="Universidade Santa Cecília"
+                                       HOME-PAGE="www.unisanta.br/nepomt"
+                                       E-MAIL="lnunes@unisanta.br"
+                                       FAX="99772-3538"
+                                       RAMAL=""
+                                       TELEFONE="3202-7100"
+                                       DDD="13"
+                                       CEP="11045907"
+                                       CIDADE="Santos"
+                                       UF="SP"
+                                       BAIRRO="Boqueirão"/>
+      <REPERCUSSOES>Sobre o lançamento do Grupo de Pesquisa:15/6 - ANUP - http://www.anup.com.br/noticia_detalhe.php?not_id=581317/6 ? Intelog - http://www.newslog.com.br/site/default.asp?TroncoID=907492&amp;SecaoID=508074&amp;SubsecaoID=526093&amp;Template=../artigosnoticias/user_exibir.asp&amp;ID=394831&amp;Titulo=Unisanta%20institui%20n%FAcleo%20portu%E1rio18/06 - Unisanta - http://www.unisanta.br/noticia/ciencia/exibe.asp?cd=5996&amp;it=4&amp;ft=018/06 - webtranspo - http://www.webtranspo.com.br/modais/aquaviario/7768-unisanta-institui-nucleo-portuario.html18/06 ? Jornal da Orla - http://www.jornaldaorla.com.br/bloco_de_notas.asp?cd_bloco_notas=9019/6 - Fiordehttp://www.fiorde.com.br/I_FiordeOnline_Not.asp?not=30386Sobre o Seminário de Excelência Profissional:07/08 ? Idéias 10 - http://www.ideias10.com.br/noticias_integra.asp?cd_noticia=4807/08 ? Revoluçãohttp://www.revolucaomkt.com.br/clipping_integra.asp?codigo=53950Sobre Projeto de Pesquisa do Núcleo:Puerto Madero ? 10/11 - Unisantahttp://www.unisanta.br/noticia/eventos/exibe.asp?cd=6445&amp;it=10&amp;ft=0Sobre o II Fórum Portuário (Gargalos Logísticos):29/11 ? A Tribunahttp://www.atribuna.com.br/noticias.asp?idnoticia=8040&amp;idDepartamento=10&amp;idCategoria=029/11 ? Codesphttp://www.portodesantos.com/imprensa/mostra_clipping.php?id=12567&amp;PHPSESSID=bbdbd9d8ab4e4ced6003783c2f2bd27b1/12 ? Codesphttp://www.portodesantos.com/imprensa/mostra_clipping.php?id=125801/12 - Unisantahttp://www.unisanta.br/noticia/baixada/exibe.asp?cd=6514&amp;it=2&amp;ft=03/12 - Inteloghttp://www.newslog.com.br/site/default.asp?TroncoID=907492&amp;SecaoID=508074&amp;SubsecaoID=526093&amp;Template=../artigosnoticias/user_exibir.asp&amp;ID=534191&amp;Titulo=Autoridades%20defendem%20qualifica%E7%E3o%20da%20m%E3o%20de%20obra%20voltada%20ao%20setor%20portu%E1rio3/12 - ABTTChttp://www.abttc.com.br/view.aspx?id=7674/12 - Canal Aquaviáriohttp://www.canalaquaviario.com.br/SC_ultimasnoticias2.asp?id=4254</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="SECCO JUNIOR, A." TITULACAO-MAXIMA="Especialização"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8293513190463288"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Aguinaldo Secco Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sustentabilidade: Projeto e Tecnologia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento e Projeto do Espaço Urbano</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento e Projetos da Edificação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LISBOA, F. R. A." TITULACAO-MAXIMA="Especialização"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0421918032886396"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fernanda Regina Almeida Lisboa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="O desenvolvimento da multimodalidade e a logística portuária"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Café, Porto e Cidade - Uma relação muito mais que econômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Balanço de Pagamentos; Finanças Internacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Comércio Exterior</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Economia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Negócios Internacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Política Internacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral da Economia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOARES, W. L. P.;SOARES, WASHINGTON LUIZ PEREIRA"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9916852622631002"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Washington Luiz Pereira Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="O desenvolvimento da multimodalidade e a logística portuária"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Café, Porto e Cidade - Uma relação muito mais que econômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração de Empresas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração Portuária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Transportes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento de Transportes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BANAT, Ana Kalassa El;EL BANAT, Ana Kalassa"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1419061079859617"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Kalassa El Banat">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Café, Porto e Cidade - Uma relação muito mais que econômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Artes Visuais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenho e gravura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>História da Arte</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VALE, M. R. S." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9596507338400441"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcia Regina Silva do Vale">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a zona costeira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="O Trabalho Portuário e Marítimo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração Educacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Antropologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino-Aprendizagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento Educacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Política Educacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS NETO, M." TITULACAO-MAXIMA="Especialização"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3750105780266970"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Manoel dos Santos Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sustentabilidade: Projeto e Tecnologia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Música</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pintura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Representação Gráfica em 2D e 3D</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTANA, Sidney Emidio de" TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6009012783734815"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sidney Emidio de Santana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Porto, Petróleo e Gás"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração da Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração de Empresas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração de Recursos Humanos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mercadologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LIMA JUNIOR, N. G." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6224386553322692"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Nelson Goncalves de Lima Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sustentabilidade: Projeto e Tecnologia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MATOS, M. C. P." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3282306738175328"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Cristina Pereira Matos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="O Trabalho Portuário e Marítimo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências da Saúde</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Humanas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Sociais Aplicadas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharias</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NUNES, L. A. P." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6396359949800551"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Antonio de Paula Nunes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a zona costeira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Café, Porto e Cidade - Uma relação muito mais que econômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos de Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>História da Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>História da Arte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Arquitetura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria do Urbanismo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SIMÕES JUNIOR, J." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5221018469618724"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Julio Simões Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="O Trabalho Portuário e Marítimo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Contábeis</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Economia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DIAS, D. B. B." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2509640592490096"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Débora Blanco Bastos Dias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a zona costeira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento Urbano e Regional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GONÇALVES, A. L." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9720401102464934"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Adilson Luiz Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="O desenvolvimento da multimodalidade e a logística portuária"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Café, Porto e Cidade - Uma relação muito mais que econômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="O Trabalho Portuário e Marítimo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Construção Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Infraestrutura Urbana</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Literatura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Portos: Operações Portuárias</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ANDALAFT, R." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9099099167298297"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ricardo Andalaft">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sustentabilidade: Projeto e Tecnologia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecossistemas Urbanos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Restauro e Preservação do Patrimônio Histórico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sustentabilidade Humana</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="GONSALES, P. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ ANTONIO DE PAULA NUNES"
+                 NRO-ID-CNPQ-ORIENTADOR="6396359949800551"
+                 SEQUENCIA-ESTUDANTE="5479520"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1134886537694249"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Patrícia Santaella Gonsales">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL="" BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADILSON LUIZ GONCALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="9720401102464934"
+                 SEQUENCIA-ESTUDANTE="858891"
+                 SEXO=""
+                 NRO-ID-CNPQ="9794983680987395"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline Leite Torres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CHINEM, P. C." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADILSON LUIZ GONCALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="9720401102464934"
+                 SEQUENCIA-ESTUDANTE="4470096"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7942073475692243"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Patrícia de Castro Chinem">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais e Componentes de Construção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Construtivos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUARMANI, L. A. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADILSON LUIZ GONCALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="9720401102464934"
+                 SEQUENCIA-ESTUDANTE="6107856"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2282470862087789"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lydia Aparecida Cabral Guarmani">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Portos e Vias Navegáveis; Projeto e Construção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SECCO, T. T." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="AGUINALDO SECCO JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="8293513190463288"
+                 SEQUENCIA-ESTUDANTE="6037029"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8662873145835994"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tainá Tavares Secco">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LINDER, M. N." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADILSON LUIZ GONCALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="9720401102464934"
+                 SEQUENCIA-ESTUDANTE="6107916"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4753090106233665"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcelli Nogueira Linder">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Construtivos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>transporte</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, V. V." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADILSON LUIZ GONCALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="9720401102464934"
+                 SEQUENCIA-ESTUDANTE="6399403"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1919084743872670"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vitor Veloso de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CORREIA, V. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADILSON LUIZ GONCALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="9720401102464934"
+                 SEQUENCIA-ESTUDANTE="6115559"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3120352700358184"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vinicius Ferreira Correia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7339762240322356"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisas relacionadas com o planejamento urbano e regional, portuário e logístico, a partir de uma ótica ampliada pelo foco da sustentabilidade, econômica, ambiental e social."
+                         NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a cidade"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">logística</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">porto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">cidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">planejamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">sustentabilidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9916852622631002" NOME-COMPLETO="Washington Luiz Pereira Soares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2623126"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6396359949800551" NOME-COMPLETO="Luiz Antonio de Paula Nunes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="331315"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5221018469618724" NOME-COMPLETO="Julio Simões Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2771384"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2509640592490096" NOME-COMPLETO="Débora Blanco Bastos Dias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="643277"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9720401102464934" NOME-COMPLETO="Adilson Luiz Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="621550"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9099099167298297" NOME-COMPLETO="Ricardo Andalaft"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5372190"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1134886537694249" NOME-COMPLETO="Patrícia Santaella Gonsales"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5479520"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9794983680987395" NOME-COMPLETO="Aline Leite Torres"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="858891"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7942073475692243" NOME-COMPLETO="Patrícia de Castro Chinem"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4470096"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2282470862087789" NOME-COMPLETO="Lydia Aparecida Cabral Guarmani"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6107856"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8662873145835994" NOME-COMPLETO="Tainá Tavares Secco"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6037029"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4753090106233665" NOME-COMPLETO="Marcelli Nogueira Linder"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6107916"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1919084743872670" NOME-COMPLETO="Vitor Veloso de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6399403"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3120352700358184" NOME-COMPLETO="Vinicius Ferreira Correia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6115559"
+                             SEQUENCIA-ESTUDANTE="8"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60200006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="60200006"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Administração"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="914"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60500000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="60500000"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Planejamento Urbano e Regional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="992"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31001025" CODIGO-ESPECIALIDADE="31001025"
+                                  CODIGO-SUB-AREA="31001009"
+                                  CODIGO-AREA="31000002"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Economia dos Transportes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Planejamento de Transportes"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Transportes"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="589"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                SUBSETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6217949523669700"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisas relacionadas com o planejamento urbano, regional e portuário e sua relação com as comunidades existentes nessa área e com o planejamento e preservação da Zona Costeira."
+                         NOME-DA-LINHA-DE-PESQUISA="As relações entre o porto e a zona costeira"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">porto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">planejamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">meio ambiente</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">zoneamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">ecotoxicologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">comunidades locais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9596507338400441" NOME-COMPLETO="Marcia Regina Silva do Vale"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="697631"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6396359949800551" NOME-COMPLETO="Luiz Antonio de Paula Nunes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="331315"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2509640592490096" NOME-COMPLETO="Débora Blanco Bastos Dias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="643277"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20500009" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="20500009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ecologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="281"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="70807027" CODIGO-ESPECIALIDADE="70807027"
+                                  CODIGO-SUB-AREA="70807000"
+                                  CODIGO-AREA="70800006"
+                                  CODIGO-GRANDE-AREA="70000000"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Educação Permanente"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1203"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60500000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="60500000"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Planejamento Urbano e Regional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="992"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                SUBSETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.70"
+                                SUBSETOR="Atividades de sedes de empresas e de consultoria em gestão empresarial"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5631282352417739"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisas relacionadas com o desenvolvimento do trabalho portuário e marítimo e seus aspectos sociais, legais, econômicos e culturais."
+                         NOME-DA-LINHA-DE-PESQUISA="O Trabalho Portuário e Marítimo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">porto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">trabalhador</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">comunidades locais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">educação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9596507338400441" NOME-COMPLETO="Marcia Regina Silva do Vale"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="697631"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3282306738175328" NOME-COMPLETO="Maria Cristina Pereira Matos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="476680"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5221018469618724" NOME-COMPLETO="Julio Simões Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2771384"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9720401102464934" NOME-COMPLETO="Adilson Luiz Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="621550"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="70807027" CODIGO-ESPECIALIDADE="70807027"
+                                  CODIGO-SUB-AREA="70807000"
+                                  CODIGO-AREA="70800006"
+                                  CODIGO-GRANDE-AREA="70000000"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Educação Permanente"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1203"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60203005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="60203005"
+                                  CODIGO-AREA="60200006"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Administração de Setores Específicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Administração"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="927"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60503033" CODIGO-ESPECIALIDADE="60503033"
+                                  CODIGO-SUB-AREA="60503009"
+                                  CODIGO-AREA="60500000"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aspectos Sociais do Planejamento Urbano e Regional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Serviços Urbanos e Regionais"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Planejamento Urbano e Regional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1006"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.9" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="N.78"
+                                SUBSETOR="Seleção, agenciamento e locação de mão-de-obra"
+                                SETOR="Atividades administrativas e serviços complementares"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6967226766415089"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Organizar os trabalhos de levantamento, análise e registro de dados sobre a relação entre o comércio do café, as instalações portuárias e o desenvolvimento da cidade de Santos e região. Serão considerados dois eixos de abordagem: A Paisagem Urbana &#150; representada pelo patrimônio industrial e cultural existente - e o Trabalho &#150; representado pelo desenvolvimento tecnológico dos transportes e das operações portuárias e pela memória do trabalhador."
+                         NOME-DA-LINHA-DE-PESQUISA="Café, Porto e Cidade - Uma relação muito mais que econômica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">café</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Santos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Trabalho</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Patrimônio</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">porto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">cidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0421918032886396" NOME-COMPLETO="Fernanda Regina Almeida Lisboa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2893237"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9916852622631002" NOME-COMPLETO="Washington Luiz Pereira Soares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2623126"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1419061079859617" NOME-COMPLETO="Ana Kalassa El Banat"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="476674"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6396359949800551" NOME-COMPLETO="Luiz Antonio de Paula Nunes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="331315"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9720401102464934" NOME-COMPLETO="Adilson Luiz Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="621550"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60203005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="60203005"
+                                  CODIGO-AREA="60200006"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Logística"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Administração de Setores Específicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Administração"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="927"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60501049" CODIGO-ESPECIALIDADE="60501049"
+                                  CODIGO-SUB-AREA="60501006"
+                                  CODIGO-AREA="60500000"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="História Urbana"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fundamentos do Planejamento Urbano e Regional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Planejamento Urbano e Regional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="997"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31003036" CODIGO-ESPECIALIDADE="31003036"
+                                  CODIGO-SUB-AREA="31003001"
+                                  CODIGO-AREA="31000002"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Operação de Sistemas de Transporte"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações de Transportes"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Transportes"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="598"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3823878985724969"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Revelar a situação de ascessibilidade portuária a partir da investigação da ralidade de infraestrutura dos portos públicos brasileiros no intuito de fundamentar restrições de projetos multimodais propondo práticas organizacionais para uma gestão sustentável na logística portuária"
+                         NOME-DA-LINHA-DE-PESQUISA="O desenvolvimento da multimodalidade e a logística portuária"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">logística</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">porto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">sustentabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">multimodalidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">contêiner</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">transporte</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0421918032886396" NOME-COMPLETO="Fernanda Regina Almeida Lisboa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2893237"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9916852622631002" NOME-COMPLETO="Washington Luiz Pereira Soares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2623126"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9720401102464934" NOME-COMPLETO="Adilson Luiz Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="621550"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60203005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="60203005"
+                                  CODIGO-AREA="60200006"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Logística"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Administração de Setores Específicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Administração"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="927"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60503084" CODIGO-ESPECIALIDADE="60503084"
+                                  CODIGO-SUB-AREA="60503009"
+                                  CODIGO-AREA="60500000"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transporte e Tráfego Urbano e Regional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Serviços Urbanos e Regionais"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Planejamento Urbano e Regional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1011"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31003036" CODIGO-ESPECIALIDADE="31003036"
+                                  CODIGO-SUB-AREA="31003001"
+                                  CODIGO-AREA="31000002"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Operação de Sistemas de Transporte"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações de Transportes"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Transportes"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="598"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M" SUBSETOR=""
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9329250344901661"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O conceito de sustentabilidade é tão amplo e genérico quanto o próprio significado da palavra, pois sua aplicação tem se estendido para pessoas, processos, objetos etc. O objetivo desta linha de pesquisa é agrupar estudos que relacionem esse conceito aplicado ao projeto e às tecnologias de construção em áreas portuárias e litorâneas."
+                         NOME-DA-LINHA-DE-PESQUISA="Sustentabilidade: Projeto e Tecnologia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">ecologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">litoral</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">arquitetura</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">design</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">projeto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">tecnologia</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8293513190463288" NOME-COMPLETO="Aguinaldo Secco Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="647640"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3750105780266970" NOME-COMPLETO="Manoel dos Santos Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="687118"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6224386553322692" NOME-COMPLETO="Nelson Goncalves de Lima Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="73064"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9099099167298297" NOME-COMPLETO="Ricardo Andalaft"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5372190"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20503008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20503008"
+                                  CODIGO-AREA="20500009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="sustentabilidade da construção"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ecologia Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ecologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="284"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60402016" CODIGO-ESPECIALIDADE="60402016"
+                                  CODIGO-SUB-AREA="60402008"
+                                  CODIGO-AREA="60400005"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Planejamento e Projetos da Edificação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projeto de Arquitetura e Urbanismo"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Arquitetura e Urbanismo"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="982"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60503025" CODIGO-ESPECIALIDADE="60503025"
+                                  CODIGO-SUB-AREA="60503009"
+                                  CODIGO-AREA="60500000"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Estudos da Habitação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Serviços Urbanos e Regionais"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Planejamento Urbano e Regional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1005"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="F" SUBSETOR="" SETOR="Construção"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2410834216850855"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Realizar pesquisas para avaliar desafios, projetos, vantagens e benefícios na gestão de empresas e qualificação de mão de obra para o setor de Petróleo e Gás e sua interface com o Porto de Santos e a Região Metropolitana da Baixada Santista."
+                         NOME-DA-LINHA-DE-PESQUISA="Porto, Petróleo e Gás"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">petróleo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">gás</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">pré-sal</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">qualificação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">mão de obra</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6009012783734815" NOME-COMPLETO="Sidney Emidio de Santana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="726111"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60201053" CODIGO-ESPECIALIDADE="60201053"
+                                  CODIGO-SUB-AREA="60201002"
+                                  CODIGO-AREA="60200006"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Administração de Recursos Humanos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Administração de Empresas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Administração"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="920"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.70"
+                                SUBSETOR="Atividades de sedes de empresas e de consultoria em gestão empresarial"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9723521638970994"
+               RAZAO-SOCIAL-DA-EMPRESA="Associação dos Amigos do Museu do Café"
+               NATUREZA-JURIDICA="Associação Privada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="02634914000130"
+               LOCALIDADE="Santos"
+               CIDADE="Santos"
+               UF="SP"
+               SIGLA-DA-EMPRESA="AAMC"
+               NOME-DA-EMPRESA="Associação dos Amigos do Museu do Café"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="S.94.30-8/00"
+                                          SUBSETOR="Atividades de associações de defesa de direitos sociais"
+                                          SETOR="Atividades de organizações associativas"
+                                          GRANDE-SETOR="Outras atividades de serviços"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="S.94.99-5/00"
+                                          SUBSETOR="Atividades de organizações associativas não especificadas anteriormente"
+                                          SETOR="Atividades de organizações associativas"
+                                          GRANDE-SETOR="Outras atividades de serviços"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="S.94.93-6/00"
+                                          SUBSETOR="Atividades de organizações associativas não especificadas anteriormente"
+                                          SETOR="Atividades de organizações associativas"
+                                          GRANDE-SETOR="Outras atividades de serviços"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

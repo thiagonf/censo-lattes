@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA NRO-ID-GRUPO="4095886608443595" ANO-CENSO="2016">
+   <PESQUISADORES>
+      <PESQUISADOR NRO-ID-CNPQ="8143639447604139" NOME-COMPLETO="Jonas Rodrigues de Menezes Filho"
+                   NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEXO="M"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-IC="Não"
+                   BOLSA-NIVEL=""
+                   BOLSA-CATEGORIA=""/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NRO-ID-CNPQ="3650175409912190" NOME-COMPLETO="Karoline Evelyn Barbosa Gomes"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="7137340426701306"
+                 NOME-COMPLETO="Gabrielle Alessandra Socorro do Nascimento"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="3480466063506119" NOME-COMPLETO="Ketlen Gomes da Costa"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="3480466063506119" NOME-COMPLETO="Ketlen Gomes da Costa"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Ensino Médio (2o grau)"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="3650175409912190" NOME-COMPLETO="Karoline Evelyn Barbosa Gomes"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Ensino Médio (2o grau)"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="7137340426701306"
+                 NOME-COMPLETO="Gabrielle Alessandra Socorro do Nascimento"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Ensino Médio (2o grau)"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="2241180318897284" NOME-COMPLETO="Angelilton Araújo de Moraes"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="2241180318897284" NOME-COMPLETO="Angelilton Araújo de Moraes"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Ensino Médio (2o grau)"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1372773828054579"
+               NOME-DA-EMPRESA="Fundação Hospital Adriano Jorge"
+               SIGLA-DA-EMPRESA="FHAJ"
+               NATUREZA-JURIDICA="Órgão Público do Poder Executivo Estadual ou do Distrito Federal"
+               CNPJ="06168092000108"
+               RAZAO-SOCIAL-DA-EMPRESA="Fundação Hospital Adriano Jorge"
+               LOCALIDADE="Manaus"
+               CIDADE="Manaus"
+               UF="AM"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

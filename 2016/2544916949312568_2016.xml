@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="2544916949312568"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="113518"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="21102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="3319120712209037" CODIGO-AREA-PREDOMINANTE="20500009"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Centro Universitário de Patos de Minas"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="MG"
+                           SIGLA-DA-INSTITUICAO="UNIPAM"
+                           NOME-DA-INSTITUICAO="Centro Universitário de Patos de Minas"
+                           AREA-PREDOMINANTE="Ecologia"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Biológicas"
+                           ANO-DE-CRIACAO="2016"
+                           NOME-DO-GRUPO="Grupos de Estudos e Pesquisas em Ecologia">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="9492272191431202" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Lorrayne de Barros Bosquetti"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3148004" DDDFAX=""
+                                       LONGITUDE="-46.514015793800354"
+                                       LATITUDE="-18.57441837788892"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Patos de Minas"
+                                       NUMERO="808"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Rua Major Gote - até 217/218"
+                                       HOME-PAGE=""
+                                       E-MAIL="lorrayneb@unipam.edu.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="3823-0242"
+                                       DDD="34"
+                                       CEP="38702054"
+                                       CIDADE="Patos de Minas"
+                                       UF="MG"
+                                       BAIRRO="Alto dos Caiçaras"/>
+      <REPERCUSSOES>Elaborar trabalhos e pesquisas que visem o desenvolvimento institucional, local e regional na área de Ecologia Aplicada e Sustentabilidade ao mesmo tempo em que desenvolve intercâmbio de informações em eventos e habilidades e competências de discentes em cursos internos ao UNIPAM que são estendidos à sociedade através de nosso Portal Unieventos (do UNIPAM). Além disso, visamos o desenvolvimento acadêmico e científico de profissionais e alunos com praticas de iniciação científica e extensão, bem como produção de artigos científicos.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="BOSQUETTI, L. B." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9492272191431202"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lorrayne de Barros Bosquetti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ECOLOGIA TEÓRICA E APLICADA"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Divulgação Científica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Farmácia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Histologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Morfologia Externa</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Coletiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Taxonomia de Fanerógamos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GONÇALVES, R. C;GONÇALVES, REGINA CÉLIA"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6862429613938694"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Regina Célia Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ECOLOGIA TEÓRICA E APLICADA"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>GESTÃO AMBIENTAL</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Limnologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia da água</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento Ambiental</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="UBER BUCEK, E.;Bucek, E. U.;Bucek, E.;Uber-bucek, E;Uber-Bucek, Elizabeth;Elizabeth Uber Bucek;Bucek, Elizabeth Uber;Uber-Buceck, E"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8132745651429773"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Elizabeth Uber Bucek">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ECOLOGIA TEÓRICA E APLICADA"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Farmacognosia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fitoterápicos, Fitoderivados e Plantas Medicinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Secagem e Inativação Microbiana de Produtos Vegetais e Resíduos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Silvicultura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Farmacêutica e Farmacotécnica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, H. H.;ARAÚJO, HUGO HUMBERTO DE"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LORRAYNE DE BARROS BOSQUETTI"
+                 NRO-ID-CNPQ-ORIENTADOR="9492272191431202"
+                 SEQUENCIA-ESTUDANTE="5289543"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0028446441740376"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hugo Humberto de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ECOLOGIA TEÓRICA E APLICADA"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Anatomia Vegetal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Geral</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Botânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA NETO, J. F." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LORRAYNE DE BARROS BOSQUETTI"
+                 NRO-ID-CNPQ-ORIENTADOR="9492272191431202"
+                 SEQUENCIA-ESTUDANTE="5480508"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9425345502460890"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Ferreira Silva Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ECOLOGIA TEÓRICA E APLICADA"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NOGUEIRA, J. L. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LORRAYNE DE BARROS BOSQUETTI"
+                 NRO-ID-CNPQ-ORIENTADOR="9492272191431202"
+                 SEQUENCIA-ESTUDANTE="4856555"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8819520384609317"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Lucas Caetano Nogueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ECOLOGIA TEÓRICA E APLICADA"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="DIRIGENTES E ADMINISTRADORES DE ENTIDADES PATRONAIS E DOS TRABALHADORES E DE OUTROS"
+               TITULO-OCUPACAO="Dirigentes de entidades patronais"
+               CODIGO-CBO="1142-10"
+               NIVEL-DE-TREINAMENTO="Especialização"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="DIAS, A. A. V.;DIAS, AMANDA APARECIDA VIEIRA;APARECIDA VIEIRA DIAS, AMANDA"
+               NRO-ID-CNPQ="6749592505717629"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Dirigentes de entidades patronais"
+               NOME-COMPLETO="Amanda Aparecida Vieira Dias"
+               SEQUENCIA-TECNICO="3866299"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1965383675290859"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver habilidades e competências nos discentes interessados na área de ecologia.Promover desenvoltura em produção de artigos científicos.Estender à comunidade: educação, conhecimento e aplicação prática da teoria."
+                         NOME-DA-LINHA-DE-PESQUISA="ECOLOGIA TEÓRICA E APLICADA"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">interaçoes ecologicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">BOTÂNICA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sustentabilidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8132745651429773" NOME-COMPLETO="Elizabeth Uber Bucek"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="57073"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6862429613938694" NOME-COMPLETO="Regina Célia Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="667388"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9492272191431202" NOME-COMPLETO="Lorrayne de Barros Bosquetti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="324912"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8819520384609317" NOME-COMPLETO="José Lucas Caetano Nogueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4856555"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0028446441740376" NOME-COMPLETO="Hugo Humberto de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5289543"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9425345502460890" NOME-COMPLETO="João Ferreira Silva Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5480508"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20503008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20503008"
+                                  CODIGO-AREA="20500009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ecologia Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ecologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="284"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20502001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20502001"
+                                  CODIGO-AREA="20500009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ecologia de Ecossistemas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ecologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="283"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0085829717932128"
+               RAZAO-SOCIAL-DA-EMPRESA="Empresa de Pesquisa Agropecuária de Minas Gerais"
+               NATUREZA-JURIDICA="Empresa Pública"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="17138140000123"
+               LOCALIDADE="Belo Horizonte"
+               CIDADE="Belo Horizonte"
+               UF="MG"
+               SIGLA-DA-EMPRESA="EPAMIG"
+               NOME-DA-EMPRESA="Empresa de Pesquisa Agropecuária de Minas Gerais"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.2"
+                                          SUBSETOR="Testes e análises técnicas"
+                                          SETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                          SUBSETOR="Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+                                          SETOR="Pesquisa e desenvolvimento científico"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="18">Atividades de consultoria técnica não englobadas em qualquer das categorias anteriores</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4906499613550270"
+               RAZAO-SOCIAL-DA-EMPRESA="Câmara de Ensino de Graduação, Pós-Graduação, Pesquisa e Extensão"
+               NATUREZA-JURIDICA="Associação Privada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="25452301000187"
+               LOCALIDADE="Uberaba"
+               CIDADE="Uberaba"
+               UF="MG"
+               SIGLA-DA-EMPRESA="UNIUBE"
+               NOME-DA-EMPRESA="Câmara de Ensino de Graduação, Pós-Graduação, Pesquisa e Extensão"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="18">Atividades de consultoria técnica não englobadas em qualquer das categorias anteriores</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

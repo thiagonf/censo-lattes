@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="E" ANO-CENSO="2002" NRO-ID-GRUPO="41166014PZ6FR1">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                   TITULACAO-MAXIMA="null"
+                   NRO-ID-CNPQ="1345611606547188"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Daniella Maria dos Santos Dias"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira">
+         <DOCENTE-PROGRAMAS>
+            <DOCENTE-PROGRAMA CODIGO-PROGRAMA="15004015003P0" NOME-PROGRAMA="DIREITO"
+                              GRANDE-AREA-PROGRAMA="Ciências Sociais Aplicadas"
+                              AREA-PROGRAMA="Direito"
+                              CONCEITO-CAPES="3"/>
+            <DOCENTE-PROGRAMA CODIGO-PROGRAMA="15001016003P1" NOME-PROGRAMA="DIREITO"
+                              GRANDE-AREA-PROGRAMA="Ciências Sociais Aplicadas"
+                              AREA-PROGRAMA="Direito"
+                              CONCEITO-CAPES="4"/>
+         </DOCENTE-PROGRAMAS>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Uniao De Ensino Superior Do Para"
+               NATUREZA-JURIDICA="Entidades sem Fins Lucrativos"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="15752686"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

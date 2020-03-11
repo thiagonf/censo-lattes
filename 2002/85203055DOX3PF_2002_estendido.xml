@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="null" ANO-CENSO="2002" NRO-ID-GRUPO="85203055DOX3PF">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Graduação"
+                   NRO-ID-CNPQ="0988257700565653"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Charles Fiamoncini"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Graduação"
+                   NRO-ID-CNPQ="1113700736924365"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Paulo Ricardo Fonseca Blank"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Mestrado"
+                   NRO-ID-CNPQ="1625706737414256"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Manuel Steidle"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="null"
+                   NRO-ID-CNPQ="4371044159938541"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Eduardo Terra Dupuy"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Graduação"
+                   NRO-ID-CNPQ="5910101528040592"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Eduardo Ferreira"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Graduação"
+                   NRO-ID-CNPQ="7248482199044879"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Luiz Daniel Mendes de Lima"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Thales Sousa Carneiro"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Mecaf Eletronica S/A" NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="100 a 499"
+               SUB-CNPJ="68168426"/>
+      <EMPRESA NOME-DA-EMPRESA="Procomp Indústria Eletrônica Ltda"
+               NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="54083035"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

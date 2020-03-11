@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="E" ANO-CENSO="2002" NRO-ID-GRUPO="1590602GBEPFB2">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Especialização"
+                   NRO-ID-CNPQ="1769013248237100"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Saul Lempert Leyvi"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Especialização"
+                   NRO-ID-CNPQ="5885875635928146"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Luiz Fernando Abend"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Monique Fogel Oscar"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Luis Cleber de Souza Santana"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Luana Lucia dos Santos Theobald"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Carla da Costa Barros"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Juliana de Souza Werneck"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Methodos Consultoria Ltda"
+               NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="40281362"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

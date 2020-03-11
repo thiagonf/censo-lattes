@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="2534301435783626"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="101525"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="18102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="8353554970600111" CODIGO-AREA-PREDOMINANTE="10500006"
+                           NOME-DA-UNIDADE="Departamento de Física"
+                           NOME-DO-ORGAO="Departamento de Física"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UEL"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Londrina"
+                           AREA-PREDOMINANTE="Física"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="1998"
+                           NOME-DO-GRUPO="Aspectos Geométricos dos Campos Quânticos">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="1581488231966321" PAIS-DE-NASCIMENTO="RSS" NACIONALIDADE="E"
+                         NOME-COMPLETO="Andrei Aleksandrovich Bytsenko"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="3281813556900403" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Antonio Edson Gonçalves"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4113700" DDDFAX="43"
+                                       LONGITUDE="-51.204378604888916"
+                                       LATITUDE="-23.32622280721177"
+                                       CAIXA-POSTAL="6001"
+                                       LOCALIDADE="Londrina"
+                                       NUMERO="380"
+                                       COMPLEMENTO="Rodovia Celso Garcia Cid, Km 380"
+                                       LOGRADOURO="ACF Universidade Estadual de Londrina"
+                                       HOME-PAGE="http://www.uel.br/grupos/gaqf"
+                                       E-MAIL="aabyts@gmail.com"
+                                       FAX="3714166"
+                                       RAMAL=""
+                                       TELEFONE="33714266"
+                                       DDD="43"
+                                       CEP="86051980"
+                                       CIDADE="Londrina"
+                                       UF="PR"
+                                       BAIRRO="Jardim Portal de Versalhes 1"/>
+      <REPERCUSSOES>O grupo de Aspectos Geométricos dos Campos Quânticos e Objetos Estendidos (GAGCQ), do Departamento de Física da UEL, é cadastrado no diretório de grupos do CNPq e certificado pela Instituição. Criado em 1988 pelo Prof. Andrei Bytsenko, contava inicialmente com a participação dos Professores Antonio Edson Gonçalves e Wellington da Cruz. O principal objetivo do grupo é investigar o alcance do que pode ser chamado de ?Geometria Quântica dos Campos? em teoria quântica, teoria de cordas e membranas, física de buracos negros e cosmologia. Dentro deste objetivo, podemos citar alguns temas de pesquisas, especificamente em:·Entropia de buracos negros, associada com o modelo sigma supersimétrico, ·Anomalia conforme e forma sobre vector bundle em variedades hiperbólicas,·Produto de operadores em espaços localmente simétricos de primeira ordem e a anomalia conforme,· Monopolos de Dirac no espaço de Erest-Schwarzschild, · Técnicas de regularização com o uso da função zeta, ·Contribuições não-pla</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GONÇALVES, Antonio Edson" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3281813556900403"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antonio Edson Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria Quantica de Campos em espaços Curvos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Clássica e Física Quântica; Mecânica e Campos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física das Partículas Elementares e Campos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geometria Diferencial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Helayël-Neto, J.A." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4044332658989430"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jose Abdalla Helayël - Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria Quantica de Campos em espaços Curvos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação em Periferias Urbanas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>História das Ciências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos e Técnicas de Ensino</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral de Partículas e Campos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BYTSENKO, Andrei Aleksandrovich;BYTSENKO, A. A.;Bytsenko, Andrey A.;BYTSENKO, ANDREY A"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1581488231966321"
+                   PAIS-DE-NASCIMENTO="RUS"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Andrei Aleksandrovich Bytsenko">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria Quantica de Campos em espaços Curvos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geometria Diferencial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Supercordas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Supersimetria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral de Partículas e Campos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Topologia das Variedades</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LUNA, R. M." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1345535677670739"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodrigo Moreno Luna">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GUIMARÃES, M. E. X." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0732210491984563"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Emília Xavier Guimarães">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria Quantica de Campos em espaços Curvos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral de Partículas e Campos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SILVA, L. G. T.;Luis Gustavo T. Silva"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA EMILIA XAVIER GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="0732210491984563"
+                 SEQUENCIA-ESTUDANTE="3464299"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2743017222703550"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luis Gustavo Tomaz Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria Quantica de Campos em espaços Curvos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Relatividade e Gravitação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5137716706609505"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Não Informado"
+                         NOME-DA-LINHA-DE-PESQUISA="Teoria Quantica de Campos em espaços Curvos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">geometira quãntica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">objetos estendidos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">((super) cordas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">(super) gravidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">D-branes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">geometria diferencial</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3281813556900403" NOME-COMPLETO="Antonio Edson Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="49367"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4044332658989430" NOME-COMPLETO="Jose Abdalla Helayël - Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17103"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1581488231966321" NOME-COMPLETO="Andrei Aleksandrovich Bytsenko"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="167693"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0732210491984563" NOME-COMPLETO="Maria Emília Xavier Guimarães"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="63245"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2743017222703550" NOME-COMPLETO="Luis Gustavo Tomaz Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3464299"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10503013" CODIGO-ESPECIALIDADE="10503013"
+                                  CODIGO-SUB-AREA="10503005"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teoria Geral de Partículas e Campos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física das Partículas Elementares e Campos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="105"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10103015" CODIGO-ESPECIALIDADE="10103015"
+                                  CODIGO-SUB-AREA="10103007"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geometria Diferencial"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geometria e Topologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="19"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104011" CODIGO-ESPECIALIDADE="10104011"
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Matemática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="26"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7949789765291784"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O objetivo desta linha de trabalho é a de pesquisar o papel  fundamental das homologias, cohomologias e álgebras de Lie o que nos conduz naturalmente  a outros problemas relacionados com a quantização de modelos sigma  não-lineares e gravidade. O comportamento quântico destes modelos pode ser interpretado  algebricamente  por meio de deformações infinitesimais das correspondentes algebra de Lie g. "
+                         NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">homologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">cohomologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Algebra de Lie</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3281813556900403" NOME-COMPLETO="Antonio Edson Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="49367"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1581488231966321" NOME-COMPLETO="Andrei Aleksandrovich Bytsenko"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="167693"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1345535677670739" NOME-COMPLETO="Rodrigo Moreno Luna"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2057772"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501010" CODIGO-ESPECIALIDADE="10501010"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos Matemáticos da Física"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="91"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10503013" CODIGO-ESPECIALIDADE="10503013"
+                                  CODIGO-SUB-AREA="10503005"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teoria Geral de Partículas e Campos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física das Partículas Elementares e Campos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="105"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10103023" CODIGO-ESPECIALIDADE="10103023"
+                                  CODIGO-SUB-AREA="10103007"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Topologia Algébrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geometria e Topologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="20"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5086811331322199"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade de São Paulo"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="63025530000104"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="USP"
+               NOME-DA-EMPRESA="Universidade de São Paulo"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0028045738565236"
+               RAZAO-SOCIAL-DA-EMPRESA="The Abdus Salam International Centre for Theoretical Physics"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Trieste"
+               CIDADE="Trieste"
+               UF=""
+               SIGLA-DA-EMPRESA="ICTP"
+               NOME-DA-EMPRESA="International Centre For Theoretical Physics"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5757408411045782"
+               RAZAO-SOCIAL-DA-EMPRESA="Fundação Instituto de Física Teórica"
+               NATUREZA-JURIDICA="Associação Privada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="60960176000117"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="IFT"
+               NOME-DA-EMPRESA="Fundação Instituto de Física Teórica"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5331193435993664"
+               RAZAO-SOCIAL-DA-EMPRESA="Scuola Internazionale Superiore di Studi Avanzati Trieste"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE=""
+               CIDADE=""
+               UF=""
+               SIGLA-DA-EMPRESA="SISSA"
+               NOME-DA-EMPRESA="International School for Advanced Studies"
+               SEQUENCIA-EMPRESA="3">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2297500881986700"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Federal Fluminense"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="28523215000106"
+               LOCALIDADE="Niterói"
+               CIDADE="Niterói"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="UFF"
+               NOME-DA-EMPRESA="Universidade Federal Fluminense"
+               SEQUENCIA-EMPRESA="4">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3671827318505873"
+               RAZAO-SOCIAL-DA-EMPRESA="Centro Brasileiro de Pesquisas Físicas"
+               NATUREZA-JURIDICA="Órgão Público do Poder Executivo Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="04044443000135"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="CBPF"
+               NOME-DA-EMPRESA="Centro Brasileiro de Pesquisas Físicas"
+               SEQUENCIA-EMPRESA="5">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                          SUBSETOR="Administração do estado e da política econômica e social"
+                                          SETOR="Administração pública, defesa e seguridade social"
+                                          GRANDE-SETOR="Administração pública, defesa e seguridade social"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="18102016" DATA-ENTRADA="14032012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1345535677670739"
+               NOME-DO-EGRESSO="Rodrigo Moreno Luna"/>
+      <EGRESSO DATA-SAIDA="18102016" DATA-ENTRADA="12112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1345535677670739"
+               NOME-DO-EGRESSO="Rodrigo Moreno Luna"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

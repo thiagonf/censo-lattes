@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="3318389976988411"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="222145"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="12042015"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="8246793424516429" CODIGO-AREA-PREDOMINANTE="80200001"
+                           NOME-DA-UNIDADE="Departamento de Letras e Artes"
+                           NOME-DO-ORGAO="Departamento de Letras e Artes"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="BA"
+                           SIGLA-DA-INSTITUICAO="UESC"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Santa Cruz"
+                           AREA-PREDOMINANTE="Letras"
+                           GRANDE-AREA-PREDOMINANTE="Ling¿¿stica, Letras e Artes"
+                           ANO-DE-CRIACAO="2008"
+                           NOME-DO-GRUPO="ESTUDOS EM L¿NGUAS E LITERATURAS ESTRANGEIRAS - ELLE ">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7439506521096432" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Isa¿as Francisco de Carvalho"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="5034490748499037" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Cl¿udia Paulino de Lanis Patr¿cio"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2913606" DDDFAX="73"
+                                       LONGITUDE="-39.04637969999999"
+                                       LATITUDE="-14.7935051"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Ilh¿us"
+                                       NUMERO="Km 16"
+                                       COMPLEMENTO="Campus Soane Nazar¿ de Andrade, Rodovia Jorge Amado"
+                                       LOGRADOURO="Universidade Estadual de Santa Cruz"
+                                       HOME-PAGE="https://sites.google.com/site/estesinversos/elle"
+                                       E-MAIL="isaiasfcarvalho@gmail.com"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="36805088"
+                                       DDD="73"
+                                       CEP="45662900"
+                                       CIDADE="Ilh¿us"
+                                       UF="BA"
+                                       BAIRRO="Salobrinho"/>
+      <REPERCUSSOES>Propomos um espa¿o ¿ pesquisa que contemple caminhos trilhados por seus componentes e que abra perspectivas na interface l¿nguas/literaturas estrangeiras, bem como a intera¿¿o docente-discente, no curso de Letras da UESC (Ilh¿us-Bahia), com perspectivas de interc¿mbio com grupos de pesquisa nacionais e internacionais. Al¿m do vi¿s interdisciplinar, tal complementaridade dos campos liter¿rio e lingu¿stico permite um olhar culturalmente mais amplo ¿ teoria e ¿ pr¿xis pedag¿gica, na compreens¿o de que o papel de educador se fundamenta no ensino, na pesquisa e na extens¿o.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="COIMBRA, L. S." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3214409199573012"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ludmila Scarano Coimbra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Artes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avalia¿¿o de material did¿tico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educa¿¿o</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino-Aprendizagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FROSSARD, E. C. M." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1044208452577915"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Elaine Cristina Medeiros Frossard">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿nguas Estrangeiras Modernas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria e An¿lise Ling¿¿stica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ORTEGA, R. S." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6815697595879539"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Raquel da Silva Ortega">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de l¿ngua espanhola</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de literaturas hisp¿nicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Forma¿¿o de professores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lingua Espanhola</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>LITERATURAS HISP¿NICAS</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BERGSLEITHNER, J. M." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4545189340083860"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Joara Martin Bergsleithner">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Psicoling¿¿stica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SARMIENTO, J. F." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3560293515908185"
+                   PAIS-DE-NASCIMENTO="ARG"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Juan Facundo Sarmiento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de idiomas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LANIS, C. P." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5034490748499037"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cl¿udia Paulino de Lanis Patr¿cio">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PRADO, J. S." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4374976778856241"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jocilene Santana Prado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Did¿tica das l¿nguas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALMEIDA, L." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4147029498997539"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Laura de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lexicologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿nguas Estrangeiras Modernas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Terminologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARVALHO, I. F.;CARVALHO, ISAIAS FRANCISCO DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7439506521096432"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Isa¿as Francisco de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cr¿tica Cultural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de L¿ngua Inglesa</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Literatura P¿s Colonial Caribenha de L¿ngua Inglesa</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Literaturas Angl¿fonas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Outras Literaturas Vern¿culas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Produ¿¿o de Texto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SANTANA, K. S." NIVEL-DE-TREINAMENTO="Gradua¿¿o" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIA PAULINO DE LANIS PATRICIO"
+                 NRO-ID-CNPQ-ORIENTADOR="5034490748499037"
+                 SEQUENCIA-ESTUDANTE="4460871"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9016273386809299"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Kamilla Souza Santana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CERQUEIRA, Aliana Georgia C." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUDMILA SCARANO COIMBRA"
+                 NRO-ID-CNPQ-ORIENTADOR="3214409199573012"
+                 SEQUENCIA-ESTUDANTE="2771783"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3602844140113861"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aliana Georgia Carvalho Cerqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS SOBRINHA, C. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUDMILA SCARANO COIMBRA"
+                 NRO-ID-CNPQ-ORIENTADOR="3214409199573012"
+                 SEQUENCIA-ESTUDANTE="3644559"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7173232725165625"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cec¿lia Souza Santos Sobrinha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, E. A. M." NIVEL-DE-TREINAMENTO="Gradua¿¿o" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="4524054"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8040126401523017"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eric Adan Miranda da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Marketing Esportivo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, R. C." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIA PAULINO DE LANIS PATRICIO"
+                 NRO-ID-CNPQ-ORIENTADOR="5034490748499037"
+                 SEQUENCIA-ESTUDANTE="3642615"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7233792332205882"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ramaiane Costa Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, Y. A. B." NIVEL-DE-TREINAMENTO="Gradua¿¿o"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="4810137"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2333609813953191"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Yuri Andrei Batista Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿nguas extrangeiras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BORGES, S. R." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="4655329"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5846734829702560"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Shalon Rocha Borges">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>LIBRAS - L¿ngua Brasileira de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿nguas Estrangeiras Aplicadas ¿s Negocia¿¿es Internacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿nguas Estrangeiras e (Inter)Culturalidade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>M¿todos e T¿cnicas de Ensino</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, N. S. D." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIA PAULINO DE LANIS PATRICIO"
+                 NRO-ID-CNPQ-ORIENTADOR="5034490748499037"
+                 SEQUENCIA-ESTUDANTE="5034014"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7537513043501031"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="N¿vea Silva Dias de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿ngua Portuguesa</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PASSOS, S. N." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIA PAULINO DE LANIS PATRICIO"
+                 NRO-ID-CNPQ-ORIENTADOR="5034490748499037"
+                 SEQUENCIA-ESTUDANTE="3146083"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0570833030428711"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sara Nascimento Passos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CERQUEIRA, G. B." NIVEL-DE-TREINAMENTO="Gradua¿¿o"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIA PAULINO DE LANIS PATRICIO"
+                 NRO-ID-CNPQ-ORIENTADOR="5034490748499037"
+                 SEQUENCIA-ESTUDANTE="4580407"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3340467551707332"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Giselle Bomfim Cerqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ASSIS, L. I. S." NIVEL-DE-TREINAMENTO="Gradua¿¿o" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIA PAULINO DE LANIS PATRICIO"
+                 NRO-ID-CNPQ-ORIENTADOR="5034490748499037"
+                 SEQUENCIA-ESTUDANTE="4288352"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7375232649993195"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luana Isabel Silva De Assis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, T. A. S." NIVEL-DE-TREINAMENTO="Gradua¿¿o"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="4438829"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3110682561146228"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thales Alberto da Silva Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BRITO, D. S." NIVEL-DE-TREINAMENTO="Gradua¿¿o" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ELAINE CRISTINA MEDEIROS FROSSARD"
+                 NRO-ID-CNPQ-ORIENTADOR="1044208452577915"
+                 SEQUENCIA-ESTUDANTE="3805585"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6734079201743360"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="David Santos Brito">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VARGAS, N. S." NIVEL-DE-TREINAMENTO="Gradua¿¿o" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ELAINE CRISTINA MEDEIROS FROSSARD"
+                 NRO-ID-CNPQ-ORIENTADOR="1044208452577915"
+                 SEQUENCIA-ESTUDANTE="4542831"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0666650296088833"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Natasha Susmaga Vargas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PAIX¿O, B. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Inicia¿¿o Cient¿fica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="833878"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1331966588633037"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="B¿rbara Albuquerque da Paix¿o">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Filosofia Antiga</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Filosofia da Linguagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hist¿ria da Filosofia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Literatura anglofonica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Literatura Brasileira</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Literaturas Cl¿ssicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="THIBES, L. C." NIVEL-DE-TREINAMENTO="Gradua¿¿o" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="4756365"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5715241418117304"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luana Caetano Thibes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿nguas Estrangeiras Modernas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, I. D. C." NIVEL-DE-TREINAMENTO="Gradua¿¿o"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ELAINE CRISTINA MEDEIROS FROSSARD"
+                 NRO-ID-CNPQ-ORIENTADOR="1044208452577915"
+                 SEQUENCIA-ESTUDANTE="4933096"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5400633932561748"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Igor Daniel Costa dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Outra</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ESTEVES, L. B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="3870212"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3975136047744389"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Laurenci Barros Esteves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ling¿¿stica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lingu¿stica do Texto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, A. C." NIVEL-DE-TREINAMENTO="Gradua¿¿o" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ELAINE CRISTINA MEDEIROS FROSSARD"
+                 NRO-ID-CNPQ-ORIENTADOR="1044208452577915"
+                 SEQUENCIA-ESTUDANTE="4243964"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4955830071402903"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Allan Cabral Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CASTRO, Tam¿ris R." NIVEL-DE-TREINAMENTO="Gradua¿¿o"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="3838773"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6792889715908544"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tam¿ris Ramos de Castro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="QUINTO, V. C. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="2748331"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8824773527961557"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="V¿nia Carla de Santana Quinto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Antropologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educa¿¿o</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ESPECIALIZA¿¿O GEST¿O EDUCACIONAL COM ¿NFASE PEDAG¿GICO</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hist¿ria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>M¿todos e T¿cnicas de Ensino</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sociologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARA¿JO, S¿rgio Machado" NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ISAIAS FRANCISCO DE CARVALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7439506521096432"
+                 SEQUENCIA-ESTUDANTE="4472682"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0256604209350576"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="S¿rgio Machado de Ara¿jo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ci¿ncias Humanas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino-Aprendizagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>L¿ngua Inglesa</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2545066365863423"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar os processos cognitivos e instrucionais, analisar e elaborar material did¿tico, bem como avaliar a influ¿ncia das emo¿¿es e sentimentos no processo de ensino/aprendizagem de l¿ngua estrangeira, tanto em contexto de forma¿¿o (inicial e continuada), quanto no exerc¿cio docente na escola b¿sica."
+                         NOME-DA-LINHA-DE-PESQUISA="Ensino e Aprendizagem em L¿nguas Estrangeiras"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">ensino</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">aprendizagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">l¿nguas estrangeiras</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">literaturas estrangeiras</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Emo¿¿es e sentimentos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3214409199573012" NOME-COMPLETO="Ludmila Scarano Coimbra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="834831"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1044208452577915"
+                               NOME-COMPLETO="Elaine Cristina Medeiros Frossard"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2168645"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4545189340083860" NOME-COMPLETO="Joara Martin Bergsleithner"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="639111"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3560293515908185" NOME-COMPLETO="Juan Facundo Sarmiento"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3700348"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5034490748499037"
+                               NOME-COMPLETO="Cl¿udia Paulino de Lanis Patr¿cio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2217336"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4374976778856241" NOME-COMPLETO="Jocilene Santana Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2668445"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4147029498997539" NOME-COMPLETO="Laura de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="746366"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7439506521096432" NOME-COMPLETO="Isa¿as Francisco de Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="213864"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9016273386809299" NOME-COMPLETO="Kamilla Souza Santana"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4460871"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3602844140113861"
+                             NOME-COMPLETO="Aliana Georgia Carvalho Cerqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2771783"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7173232725165625" NOME-COMPLETO="Cec¿lia Souza Santos Sobrinha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3644559"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8040126401523017" NOME-COMPLETO="Eric Adan Miranda da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4524054"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5846734829702560" NOME-COMPLETO="Shalon Rocha Borges"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4655329"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3340467551707332" NOME-COMPLETO="Giselle Bomfim Cerqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4580407"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7375232649993195" NOME-COMPLETO="Luana Isabel Silva De Assis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4288352"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3110682561146228" NOME-COMPLETO="Thales Alberto da Silva Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4438829"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6734079201743360" NOME-COMPLETO="David Santos Brito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3805585"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0666650296088833" NOME-COMPLETO="Natasha Susmaga Vargas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4542831"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5400633932561748" NOME-COMPLETO="Igor Daniel Costa dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4933096"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4955830071402903" NOME-COMPLETO="Allan Cabral Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4243964"
+                             SEQUENCIA-ESTUDANTE="12"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="80202004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="80202004"
+                                  CODIGO-AREA="80200001"
+                                  CODIGO-GRANDE-AREA="80000002"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ensino e Aprendizagem de L¿nguas Estrangeiras"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="L¿nguas Estrangeiras Modernas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Letras"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ling¿¿stica, Letras e Artes"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1251"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educa¿¿o" SETOR="Educa¿¿o"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4475470834912318"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Promover interlocu¿¿es entre obras de escritores(as) brasileiros(as) e angl¿fonos (as), tomados como representantes de vozes diasp¿ricas p¿s-coloniais, especialmente no espa¿o das cartografias imaginadas do Caribe Estendido e do Atl¿ntico Negro. Enfatizam-se os representantes do entre-lugar da literatura em torno da di¿spora africana, das negritudes e das identidades l¿quidas, na interface entre hist¿ria e est¿ria, realidade e fic¿¿o, epos e romance."
+                         NOME-DA-LINHA-DE-PESQUISA="Cr¿tica Cultural: literaturas brasileira e angl¿fona"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Outriza¿¿o produtiva</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">P¿s-colonial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Decolonial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Caribe Estendido</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Atl¿ntico Negro</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7439506521096432" NOME-COMPLETO="Isa¿as Francisco de Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="213864"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2333609813953191" NOME-COMPLETO="Yuri Andrei Batista Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4810137"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1331966588633037" NOME-COMPLETO="B¿rbara Albuquerque da Paix¿o"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="833878"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5715241418117304" NOME-COMPLETO="Luana Caetano Thibes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4756365"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3975136047744389" NOME-COMPLETO="Laurenci Barros Esteves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3870212"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6792889715908544" NOME-COMPLETO="Tam¿ris Ramos de Castro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3838773"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8824773527961557" NOME-COMPLETO="V¿nia Carla de Santana Quinto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2748331"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0256604209350576" NOME-COMPLETO="S¿rgio Machado de Ara¿jo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4472682"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="80200001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="80200001"
+                                  CODIGO-GRANDE-AREA="80000002"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Cr¿tica Cultural e Literatura"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Letras"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ling¿¿stica, Letras e Artes"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1249"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educa¿¿o" SETOR="Educa¿¿o"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9440495289611400"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar as principais figuras das literaturas hisp¿nicas do s¿culo XX."
+                         NOME-DA-LINHA-DE-PESQUISA="As Literaturas Hisp¿nicas contempor¿neas "
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Estudos liter¿rios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Modernidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">P¿s-modernidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6815697595879539" NOME-COMPLETO="Raquel da Silva Ortega"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="338388"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5034490748499037"
+                               NOME-COMPLETO="Cl¿udia Paulino de Lanis Patr¿cio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2217336"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9016273386809299" NOME-COMPLETO="Kamilla Souza Santana"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4460871"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7233792332205882" NOME-COMPLETO="Ramaiane Costa Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3642615"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7537513043501031" NOME-COMPLETO="N¿vea Silva Dias de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5034014"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0570833030428711" NOME-COMPLETO="Sara Nascimento Passos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3146083"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3340467551707332" NOME-COMPLETO="Giselle Bomfim Cerqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4580407"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7375232649993195" NOME-COMPLETO="Luana Isabel Silva De Assis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4288352"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="80208002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="80208002"
+                                  CODIGO-AREA="80200001"
+                                  CODIGO-GRANDE-AREA="80000002"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Literaturas Hisp¿nicas contempor¿neas "
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Literaturas Estrangeiras Modernas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Letras"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ling¿¿stica, Letras e Artes"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1257"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educa¿¿o" SETOR="Educa¿¿o"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8246793424516429"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Estadual de Santa Cruz"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="40738999000195"
+               LOCALIDADE="Ilh¿us"
+               CIDADE="Ilh¿us"
+               UF="BA"
+               SIGLA-DA-EMPRESA="UESC"
+               NOME-DA-EMPRESA="Universidade Estadual de Santa Cruz">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educa¿¿o superior"
+                                          SETOR="Educa¿¿o"
+                                          GRANDE-SETOR="Educa¿¿o"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que n¿o se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remunera¿¿o que n¿o se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="12042015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="PESQUISADOR"
+               NRO-ID-CNPQ="1267243719297020"
+               NOME-DO-EGRESSO="Ces¿rio Alvim Pereira Filho"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="PESQUISADOR"
+               NRO-ID-CNPQ="6382414445111789"
+               NOME-DO-EGRESSO="Nair Floresta Andrade Neta"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="PESQUISADOR"
+               NRO-ID-CNPQ="4614316853996892"
+               NOME-DO-EGRESSO="Rog¿rio Soares de Oliveira"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8172151659250437"
+               NOME-DO-EGRESSO="Rafaela Leal Lopes Andrade"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9172575768688399"
+               NOME-DO-EGRESSO="Gustavo Fagundes Magalh¿es"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1975495388213074"
+               NOME-DO-EGRESSO="Juliana de Oliveira Melo"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6552384834163361"
+               NOME-DO-EGRESSO="Laylla Sousa Rodrigues"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2494404295758544"
+               NOME-DO-EGRESSO="Dalila Gomes da Silva"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

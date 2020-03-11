@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA SISTEMA-ORIGEM-XML="SGXML" DATA-ATUALIZACAO="27062002"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   HORA-ATUALIZACAO="011649"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS">
+   <IDENTIFICACAO-DO-GRUPO NOME-DO-GRUPO="LABSOLDA/INSTITUTO DE MECATRÔNICA" ANO-DE-CRIACAO="1974"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           AREA-PREDOMINANTE="Engenharia Mecânica"
+                           NOME-DA-INSTITUICAO="Reitoria"
+                           SIGLA-DA-INSTITUICAO="UFSC"
+                           UF-DA-INSTITUICAO="SC"
+                           NOME-DO-PAIS-DA-INSTITUICAO="Brasil"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           FLAG-AGENCIA-FOMENTO="N"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           NOME-DO-ORGAO="Centro Tecnológico"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Mecânica">
+      <LIDERES>
+         <PRIMEIRO-LIDER NOME-COMPLETO="Jair Carlos Dutra" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO LOGRADOURO-E-COMPLEMENTO="Campus Universitário" BAIRRO="Trindade" UF="SC"
+                                       CIDADE="FLORIANOPOLIS"
+                                       CEP="88040900"
+                                       DDD="48"
+                                       TELEFONE="2342783"
+                                       RAMAL=""
+                                       FAX="2346516"
+                                       E-MAIL="labsolda@emc.ufsc.br"
+                                       HOME-PAGE="www.labsolda.ufsc.br"/>
+      <REPERCUSSOES>O LABSOLDA tem gerado ao longo de sua existência capacitação em tecnologia da soldagem, cujas repercussões abrangem um espectro bastante amplo, as quais podem ser descritas como:    1. Formação de pessoal de alto nível nos cursos de graduação, mestrado e doutorado em função de uma excelente infra-estrutura, tanto física, como humana, montada ao longo dos anos, fruto de um trabalho contínuo e articulado com a comunidade externa.    2. Produção de uma quantidade respeitável de publicações anuais e um livro.    3. Participação em mais de sete exposições técnicas, incluindo duas Feiras Internacionais de Mecânica.    4. Fornecimento de equipamentos de soldagem, de instrumentação e de serviços para mais de trinta clientes, propiciando vínculos cooperativos com o LABSOLDA.    5. Desenvolvimento de procedimentos inéditos de soldagem em função da versatilidade dos equipamentos projetados. É o caso do trabalho cooperativo com a ELETROSUL (hoje GERASUL) para a recuperação das partes cavitadas de turbinas hidráulicas, a partir de 1995. A partir de 1998 este trabalho foi estendido para a Companhia Paranaense de Energia Elétrica (COPEL), através do projeto ROBOTURB que envolve agora vários Laboratórios do Centro Tecnológico da UFSC. No tocante à soldagem submarina, vários procedimentos de soldagem foram desenvolvidos, os quais impuseram também o desenvolvimento e fabricação de fontes de energia para soldagem, que já estão sendo utilizadas em campo.      Todas as repercussões do trabalho do LABSOLDA podem ser melhor observadas na 'home-page': www.labsolda.ufsc.br            </REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-COMPLETO="Moises Alves de Oliveira" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de instrumentação de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Processos de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="6"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento da Soldagem TIG e Plasma com Alimentação Automática de Arame"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Marcelo Ferreira Motta" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Processos de soldagem"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Raul Gohr Junior" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de instrumentação de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Processos de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Soldagem Subaquática Molhada e Hiperbárica a Seco"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Automatização e sensoreamento"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="6"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento da Soldagem TIG e Plasma com Alimentação Automática de Arame"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Víctor Manuel Vergara Díaz" NACIONALIDADE="E"
+                   PAIS-DE-NASCIMENTO="CHL">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="7"
+                                  NOME-DA-LINHA-DE-PESQUISA="Recobrimento Metálico por Deposição de Pós Utilizando Soldagem Plasma de Arco Transferido"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Carlos Eduardo Iconomos Baixo" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de instrumentação de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Processos de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Soldagem Subaquática Molhada e Hiperbárica a Seco"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Jair Carlos Dutra" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de instrumentação de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Processos de soldagem"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Soldagem Subaquática Molhada e Hiperbárica a Seco"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Automatização e sensoreamento"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="6"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento da Soldagem TIG e Plasma com Alimentação Automática de Arame"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-COMPLETO="Fabrício Badalotti Brandão" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Raul Gohr Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Automatização e sensoreamento"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Carlos Eduardo Broering" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jair Carlos Dutra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de instrumentação de soldagem"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Abílio Orcioli Neto" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jair Carlos Dutra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Processos de soldagem"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Carolina Brum Medeiros" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jair Carlos Dutra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de instrumentação de soldagem"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Paulo Roberto Armanini Jr" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jair Carlos Dutra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Automatização e sensoreamento"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Gustavo Martins Mendes" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jair Carlos Dutra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Automatização e sensoreamento"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Jarbas Renato Bortolini" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Carlos Eduardo Iconomos Baixo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Automatização e sensoreamento"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Fernando Pellizzaro" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Carlos Eduardo Iconomos Baixo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Soldagem Subaquática Molhada e Hiperbárica a Seco"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="1"
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de instrumentação de soldagem"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Instrumentação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">MIG/MAG</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Mecanização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="12">equipamentos de soldagem a arco</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="13">micro plasma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="17">TIG Alimentado Automaticamente</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Moises Alves de Oliveira"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raul Gohr Junior"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Carlos Eduardo Iconomos Baixo"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Carlos Eduardo Broering"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Carolina Brum Medeiros"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="2"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Robotização"/>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="3"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Conversão e Retificação da Energia Elétrica"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Outros setores"
+                                SUB-SETOR="Indústria Metal-Mecânica"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="3"
+                                SETOR="Fabricação de máquinas e equipamentos, inclusive máquinas-ferramenta"
+                                SUB-SETOR="Fabricação de máquinas com componentes de mecânica de precisão"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="2"
+                                SETOR="Fabricação de Equipamentos de Instrumentação médico-hospitalares, instrumentos de precisão e ópticos, equipamentos para automação industrial, cronômetros e relógios"
+                                SUB-SETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="2"
+                         NOME-DA-LINHA-DE-PESQUISA="Processos de soldagem"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">MIG/MAG</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Plasma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">TIG</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">eletrodo revestido</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="15">sensores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="16">soldagem a arco</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Moises Alves de Oliveira"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marcelo Ferreira Motta"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raul Gohr Junior"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Carlos Eduardo Iconomos Baixo"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Abílio Orcioli Neto"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Processos de Fabricação, Seleção Econômica"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Outros setores"
+                                SUB-SETOR="Indústria Metal-Mecânica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="3"
+                         NOME-DA-LINHA-DE-PESQUISA="Soldagem Subaquática Molhada e Hiperbárica a Seco"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Arco voltaico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Ensaios mecânicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">Soldagem hiperbárica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="9">Soldagem molhada</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">eletrodo revestido</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="19">Eletrodo Tubular</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raul Gohr Junior"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Carlos Eduardo Iconomos Baixo"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Fernando Pellizzaro"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="2"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Processos de Fabricação, Seleção Econômica"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Outros setores"
+                                SUB-SETOR="Indústria Metal-Mecânica"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="2"
+                                SETOR="Logística de transporte, armazenagem e comunicações"
+                                SUB-SETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="5"
+                         NOME-DA-LINHA-DE-PESQUISA="Automatização e sensoreamento"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Automatização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Instrumentação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Mecanização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="14">sensoreamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raul Gohr Junior"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Fabrício Badalotti Brandão"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Paulo Roberto Armanini Jr"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Gustavo Martins Mendes"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Jarbas Renato Bortolini"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="2"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Sistemas Eletrônicos de Medida e de Controle"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="3" SETOR="Outros setores"
+                                SUB-SETOR="Industria Eletro-Eletrônica"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Outros setores"
+                                SUB-SETOR="Indústria Metal-Mecânica"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="2"
+                                SETOR="Fabricação de máquinas e equipamentos, inclusive máquinas-ferramenta"
+                                SUB-SETOR="Fabricação de máquinas com componentes de mecânica de precisão"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="6"
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento da Soldagem TIG e Plasma com Alimentação Automática de Arame"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Plasma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="17">TIG Alimentado Automaticamente</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="18">Plasma Alimentado Automaticamente</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Moises Alves de Oliveira"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jair Carlos Dutra"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raul Gohr Junior"/>
+         </PESQUISADORES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Robotização"/>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="2"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Processos de Fabricação, Seleção Econômica"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Outros setores"
+                                SUB-SETOR="Indústria Metal-Mecânica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="7"
+                         NOME-DA-LINHA-DE-PESQUISA="Recobrimento Metálico por Deposição de Pós Utilizando Soldagem Plasma de Arco Transferido"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de equipamentos e de procedimentos para o recobrimento metálico por deposição de pós, utilizando a soldagem plasma de arco transferido.">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Plasma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="20">PTA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="21">Arco tr</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Víctor Manuel Vergara Díaz"/>
+         </PESQUISADORES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  NOME-AREA-DO-CONHECIMENTO="Engenharia de Materiais e Metalúrgica"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Metalurgia de Transformação"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Soldagem"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Outros setores"
+                                SUB-SETOR="Indústria Metal-Mecânica"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="IMC- Engenharia de Soldagem, Instrumentação e Automação Ltda."
+               SIGLA-DA-EMPRESA="IMC"
+               UF="SC"
+               CIDADE="FLORIANOPOLIS"
+               CNPJ="73226599000150"
+               SEGMENTO-ECONOMICO="Terciário"
+               NATUREZA-JURIDICA="Privada">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA SETOR="Fabricação de máquinas e equipamentos"
+                                          SUB-SETOR="Fabricação de outras máquinas e equipamentos de uso específico"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO>Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO>Atividades de engenharia não-rotineira inclusive o desenvolvimento de protótipo, cabeça de série ou planta-piloto para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO>Atividades de engenharia não-rotineira inclusive o desenvolvimento/fabricação de equipamentos para o grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO>Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO>Transferência de recursos financeiros do grupo para o parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO>Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

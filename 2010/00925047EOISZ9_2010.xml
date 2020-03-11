@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA DATA-ATUALIZACAO="12112010" ESTRATIFICACAO=""
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="120000"
+                   NRO-ID-GRUPO="00925047EOISZ9"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO ANO-DE-CRIACAO="2008" AREA-PREDOMINANTE="Zootecnia"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Agrárias"
+                           NOME-DA-INSTITUICAO="Empresa Brasileira de Pesquisa Agropecuaria"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-GRUPO="Sistemas de Produção Aquicola de Iscas Vivas"
+                           NOME-DO-ORGAO="Centro de Pesquisa Agropecuária de Clima Temperado"
+                           SIGLA-DA-INSTITUICAO="EMBRAPA"
+                           UF-DA-INSTITUICAO="RS">
+      <LIDERES>
+         <PRIMEIRO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Marco Aurélio Rotta"
+                         NRO-ID-CNPQ="0285222459778029"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+         <SEGUNDO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Márcia Mayumi Ishikawa"
+                        NRO-ID-CNPQ="0690724997310610"
+                        PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO BAIRRO="Zona Rural" CEP="96001970" CIDADE="Pelotas" DDD="53"
+                                       E-MAIL="rotta.marco@cpact.embrapa.br"
+                                       FAX="32758219"
+                                       HOME-PAGE=""
+                                       LOGRADOURO-E-COMPLEMENTO="Rodovia BR 392, km 78, Caixa Postal 403"
+                                       RAMAL="8267"
+                                       TELEFONE="32758267"
+                                       UF="RS"/>
+      <REPERCUSSOES>A pesca, em suas modalidades profissional e esportiva, constitui uma importante atividade econômica em Mato Grosso do Sul. Para a captura desses peixes são utilizadas grandes quantidades de iscas vivas, como tuviras, lambaris, caranguejos, muçuns e cascudos. Atualmente, a maioria das iscas vivas utilizadas no Pantanal é proveniente da pesca extrativa. No Estado, cerca de dois mil isqueiros estão envolvidos nesta atividade, com uma estimativa de captura de 36 milhões de iscas ao ano, das quais 15% a 30% acabam morrendo devido ao manejo inadequado durante a coleta, armazenamento e transporte. A extração das iscas vivas vem ocorrendo de maneira pouco controlada, evidenciando alterações na estrutura das populações e no ambiente onde são capturadas, principalmente nos aguapés, ambiente preferencial da tuvira. A escolha desta espécie como principal isca viva está relacionada à sua alta taxa de sobrevivência em ambientes confinados. Frente aos problemas relacionados à coleta de iscas vivas, uma das soluções possíveis é a sua produção em cativeiro, com o desenvolvimento de sistemas de produção adaptados à cada espécie, objetivo principal deste grupo de pesquisa. Os resultados esperados são o conhecimento das patologias, a caracterização genética da população na natureza, a definição dos sistemas de reprodução em cativeiro, da nutrição e do manejo alimentar e o conhecimento dos custos e receitas de produção das principais espécies utilizadas como iscas vivas. A primeira espécie em estudo é tuvira (Gymnotus sp.), visto seu apelo regional, sendo posteriormente estendido à outras espécies, como lambari, muçum e caranguejo, conforme demandas futuras. Os impactos esperados no desenvolvimento dessas tecnologias é a diminuição da pesca extrativa de iscas vivas no Pantanal e o estímulo a uma nova atividade econômica, suprindo a demanda futura do turismo de pesca, de forma a estimular a utilização harmônica da biodiversidade e o desenvolvimento sustentável de nossa região.</REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Marco Aurélio Rotta"
+                   NRO-ID-CNPQ="0285222459778029"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção do Lambari"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="2" NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Cesar Venere"
+                   NRO-ID-CNPQ="0397087873707987"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética de Populações de Tuvira no Pantanal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabiana Satake"
+                   NRO-ID-CNPQ="0679830494634122"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação Parasitológica e Caracterização Hematológica da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Márcia Mayumi Ishikawa"
+                   NRO-ID-CNPQ="0690724997310610"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação Parasitológica e Caracterização Hematológica da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Emiko Kawakami de Resende"
+                   NRO-ID-CNPQ="1092109335160026"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="2" NACIONALIDADE="B"
+                   NOME-COMPLETO="Lurdes Foresti de Almeida Toledo"
+                   NRO-ID-CNPQ="2601667366344802"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética de Populações de Tuvira no Pantanal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="2" NACIONALIDADE="B"
+                   NOME-COMPLETO="Hamilton Hisano"
+                   NRO-ID-CNPQ="3550295705331011"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabiana Cavichiolo"
+                   NRO-ID-CNPQ="6452707611069747"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação Parasitológica e Caracterização Hematológica da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Debora Karla Silvestre Marques"
+                   NRO-ID-CNPQ="7295240740507949"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética de Populações de Tuvira no Pantanal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Bruna de Oliveira Parente"
+                   NRO-ID-CNPQ="7705752917486862"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Especialização">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação Parasitológica e Caracterização Hematológica da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Issakar Lima Souza"
+                   NRO-ID-CNPQ="8637998818801756"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética de Populações de Tuvira no Pantanal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Santiago Benites de Pádua"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Márcia Mayumi Ishikawa"
+                 NRO-ID-CNPQ="4490649927713999"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="1"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação Parasitológica e Caracterização Hematológica da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Luiz Carlos Acorci Filho"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Marco Aurélio Rotta"
+                 NRO-ID-CNPQ="7138554593407308"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="2"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção do Lambari"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Rômulo Gonçalves Costa Junior"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Hamilton Hisano"
+                 NRO-ID-CNPQ="7983341637743926"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="3"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Alina Paula de Carvalho Martelli"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Márcia Mayumi Ishikawa"
+                 NRO-ID-CNPQ="8418051785334720"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="4"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação Parasitológica e Caracterização Hematológica da Tuvira"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <TECNICOS>
+      <TECNICO ATIVIDADE-NO-GRUPO="Técnico de Laboratório" GRAU-DE-ESCOLARIDADE="Graduação"
+               NOME-COMPLETO="Bianca Rafaela Fiori Tamporoski"
+               SEQUENCIA-TECNICO="2"/>
+      <TECNICO ATIVIDADE-NO-GRUPO="Assistente de Pesquisa"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               NOME-COMPLETO="Luiz Carlos Acorci"
+               SEQUENCIA-TECNICO="1"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção da Tuvira"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisar, desenvolver e validar tecnologias nas áreas de patologia, comportamento, nutrição e reprodução que permitam o estabelecimento do sistema de produção da Tuvira (Gymnotus sp.) em cativeiro. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="0">Tuvira</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Gymnotus</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Reprodução</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Nutrição</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Patologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Pantanal</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marco Aurélio Rotta"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="366261"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Fabiana Satake" SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="707108"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Márcia Mayumi Ishikawa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="389841"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Emiko Kawakami de Resende"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11341"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Hamilton Hisano"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="524042"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Fabiana Cavichiolo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="274604"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Bruna de Oliveira Parente"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2336715"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Santiago Benites de Pádua" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2452987"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Luiz Carlos Acorci Filho" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2608663"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rômulo Gonçalves Costa Junior" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2197036"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Alina Paula de Carvalho Martelli" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2414289"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Zootecnia"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nutrição e Alimentação Animal"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="814"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Reprodução Animal"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="848"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Recursos Pesqueiros e Engenharia de Pesca"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Piscicultura"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aqüicultura"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="868"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="3"
+                                SETOR="Agricultura, pecuária, silvicultura, exploração florestal"
+                                SUBSETOR="Produção animal, inclusive serviços veterinários"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="117" SETOR="Desenvolvimento rural" SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistema de Produção do Lambari"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisar, desenvolver e validar tecnologias nas áreas de comportamento, manejo, nutrição, reprodução e economia que permitam o estabelecimento do sistema de produção do Lambari (Astyanax sp.) em cativeiro. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Reprodução</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Lambari</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Piaba</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">Tambiú</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="9">Sistema de Produção</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">Análise Econômica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marco Aurélio Rotta"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="366261"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Luiz Carlos Acorci Filho" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2608663"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Zootecnia"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Produção Animal"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="824"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Reprodução Animal"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="848"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Recursos Pesqueiros e Engenharia de Pesca"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Piscicultura"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aqüicultura"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="868"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="3"
+                                SETOR="Agricultura, pecuária, silvicultura, exploração florestal"
+                                SUBSETOR="Produção animal, inclusive serviços veterinários"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="117" SETOR="Desenvolvimento rural" SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética de Populações de Tuvira no Pantanal"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Gerar subsídios para o manejo e conservação da tuvira (Gymnotus sp.) em ambiente natural, como também informações para a escolha de matrizes para o desenvolvimento dos sitemas de cultivo. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Reprodução</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">Genética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="12">Recursos Pesqueiros</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="13">Caracterização gênica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Paulo Cesar Venere"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="93231"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lurdes Foresti de Almeida Toledo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="647"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Debora Karla Silvestre Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="354614"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Issakar Lima Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98068"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Recursos Pesqueiros e Engenharia de Pesca"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Manejo e Conservação de Recursos Pesqueiros de Águas Interiores"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Recursos Pesqueiros de Águas Interiores"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="863"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Recursos Pesqueiros e Engenharia de Pesca"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Piscicultura"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aqüicultura"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="868"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="92" SETOR="Pesca, aqüicultura e maricultura"
+                                SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação Parasitológica e Caracterização Hematológica da Tuvira"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Avaliar a infestação parasitológica e caracterizar morfologicamente as células do sangue periférico da Tuvira (Gyminotus sp) coletadas pelos isqueiros no Mato Grosso do Sul, de forma auxiliar o desenvolvimento do manejo sanitário desta espécie no sistema de cultivo."
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="14">Avaliação parasitológica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="15">Caracterização morfológica do sangue</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="16">Eritrograma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="17">Leucograma</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Fabiana Satake" SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="707108"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Márcia Mayumi Ishikawa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="389841"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Fabiana Cavichiolo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="274604"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Bruna de Oliveira Parente"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2336715"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Santiago Benites de Pádua" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2452987"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Alina Paula de Carvalho Martelli" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2414289"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Patologia Animal"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="844"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Recursos Pesqueiros e Engenharia de Pesca"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Piscicultura"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aqüicultura"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="868"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="92" SETOR="Pesca, aqüicultura e maricultura"
+                                SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA CIDADE="Campo Grande" CNPJ="26859629000185" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Parada Do Pescador Isca Viva Ltda Me"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="1822"
+               SIGLA-DA-EMPRESA=""
+               UF="Mato Grosso do Sul">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Não informado" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Não informado"
+                                          SUBSETOR=""/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="17">Transferência de tecnologia desenvolvida pelo parceiro para o grupo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="21">Treinamento de pessoal do parceiro pelo grupo, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="11">Transferência de recursos financeiros do grupo para o parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="15">Transferência de insumos materiais para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

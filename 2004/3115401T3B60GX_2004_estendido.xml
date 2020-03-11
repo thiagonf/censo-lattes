@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="null" ANO-CENSO="2004" NRO-ID-GRUPO="3115401T3B60GX">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Graduação"
+                   NRO-ID-CNPQ="7881112110790446"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Ivar Viana Brandi"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                   TITULACAO-MAXIMA="Especialização - Residência médica"
+                   NRO-ID-CNPQ="9236969981188779"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Alice Mascarenhas Tejo"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Associacao Das Pioneiras Sociais"
+               NATUREZA-JURIDICA="Entidades sem Fins Lucrativos"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="37113180"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

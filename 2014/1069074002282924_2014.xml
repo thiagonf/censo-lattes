@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="1069074002282924"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="093212"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="18082014"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="4799573312471806" CODIGO-AREA-PREDOMINANTE="40100006"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Faculdade de Medicina de São José do Rio Preto"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="FAMERP"
+                           NOME-DA-INSTITUICAO="Faculdade de Medicina de São José do Rio Preto"
+                           AREA-PREDOMINANTE="Medicina"
+                           GRANDE-AREA-PREDOMINANTE="Ciências da Saúde"
+                           ANO-DE-CRIACAO="2009"
+                           NOME-DO-GRUPO="Transplante de órgãos e células e medicina regenerativa">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2638221506741605" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Mario Abbud Filho"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3549805" DDDFAX=""
+                                       LONGITUDE="-49.39324399999998"
+                                       LATITUDE="-20.8444101"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="São José do Rio Preto"
+                                       NUMERO="1516"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Avenida Brigadeiro Faria Lima"
+                                       HOME-PAGE=""
+                                       E-MAIL="heloisa@famerp.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="32015739"
+                                       DDD="17"
+                                       CEP="15090000"
+                                       CIDADE="São José do Rio Preto"
+                                       UF="SP"
+                                       BAIRRO="Vila São José"/>
+      <REPERCUSSOES/>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="BAPTISTA, M.A.S.F;Baptista, MA;Baptista, M.A.S.F.;BAPTISTA, MARIA A. S. F.;BAPTISTA, M. A. S. F.;BAPTISTA MA;BAPTISTA, MARIA ALICE FERREIRA;BAPTISTA, MARIA ALICE SPERTO FERREIRA;BAPTISTA, M.A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1305586796643601"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Alice Sperto Ferreira Baptista">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na toxicidade crônica dos inibidores da calciuneurina."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na progressão da doença renal crônica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Experimentais de Transplantes em animais de laboratório"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="AVALIAÇÃO DO PERFIL MOLECULAR DE CITOCINAS E QUIMIOCINAS INFLAMATÓRIAS EM RINS DE DOADORES DE CRITÉRIOS ESTENDIDOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Anatomia Patológica e Patologia Clínica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Clínica Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Nefrologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MENDES, GE;Mendes GEF;Mendes GE;Mendes, Gloria Elisa Florido;Glória E.F. Mendes;MENDES, GLÓRIA E.F.;MENDES, G. E."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5542051531032417"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Glória Elisa Florido Mendes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Experimentais de Transplantes em animais de laboratório"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Farmacologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia Geral</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiopatologia Renal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Toxicologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LOPES FILHO, J. D.;Lopes-Filho, JoÃO D."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4397770182100706"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Damasceno Lopes Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CALDAS, H. C.;Caldas, Heloisa Cristina;CALDAS, H;Caldas, Heloisa C.;Caldas, H.C.;Heloisa Cristina Caldas"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0925801342254577"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Heloisa Cristina Caldas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na toxicidade crônica dos inibidores da calciuneurina."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na progressão da doença renal crônica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Experimentais de Transplantes em animais de laboratório"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="AVALIAÇÃO DO PERFIL MOLECULAR DE CITOCINAS E QUIMIOCINAS INFLAMATÓRIAS EM RINS DE DOADORES DE CRITÉRIOS ESTENDIDOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cirurgia Experimental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Nefrologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Fernandes I.M.M;Fernandes-Charpiot, I.M.M.;Fernandes, I.;Fernandes, Ida"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3241374773308189"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na toxicidade crônica dos inibidores da calciuneurina."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na progressão da doença renal crônica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Experimentais de Transplantes em animais de laboratório"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="AVALIAÇÃO DO PERFIL MOLECULAR DE CITOCINAS E QUIMIOCINAS INFLAMATÓRIAS EM RINS DE DOADORES DE CRITÉRIOS ESTENDIDOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeito da terapia imunossupressora no perfil de expressão gênica do fator de transcrição FOXP3+ em receptores de transplantes renais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Clínica Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Nefrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transplante de Órgãos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transplante Experimental</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ABBUD FILHO, M.;Abbud Filho, Mário;ABBUDFILHO, M;Abbud-Filho, Mario;Abbud-Filho, M.;Abbud-Filho, Mário;FILHO, M. A.;Mario Abbud-Filho;MARIO ABBUD-FILHO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2638221506741605"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Mario Abbud Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na toxicidade crônica dos inibidores da calciuneurina."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na progressão da doença renal crônica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Experimentais de Transplantes em animais de laboratório"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aspectos moleculares de rim policistico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="AVALIAÇÃO DO PERFIL MOLECULAR DE CITOCINAS E QUIMIOCINAS INFLAMATÓRIAS EM RINS DE DOADORES DE CRITÉRIOS ESTENDIDOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeito da terapia imunossupressora no perfil de expressão gênica do fator de transcrição FOXP3+ em receptores de transplantes renais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Autoimunidade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia de transplante</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunosupressão</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Nefrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transplante de Órgãos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KAWASAKI-OYAMA, Rosa Sayoko;OYAMA, Rosa Sayoko Kawasaki;Caldas, H. C."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6505437764789599"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rosa Sayoko Kawasaki-Oyama">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bilogia Molecular Humana</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cancer</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Citogenética Humana</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cultura de Células</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PAVARINO, E.C.;PAVARINO-BERTELLI, E.C.;BERTELLI, E.C.P.;Pavarino, E. C.;Pavarino, Erika Cristina;Pavarino-Bertelli, Érika C.;Pavarino, Érika Cristina;Cristina, Erika;PAVARINO-BERTELLI, ERIKA C.;PAVARINO-BERTELLI, ERIKA CRISTINA;PAVARINO-BERTELLI, E.C"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0612014399350447"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Érika Cristina Pavarino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GOLONI-BERTOLLO, E M;GOLONI-BERTOLLO, E. M.;BERTOLLO, E.M;GOLONI, E.M;Goloni-Bertollo, Eny Maria;Goloni-Bertollo, Eny M.;BERTOLLO, ENY M. G.;GOLONIBERTOLLO, E;GOLONI-BERTOLLO, E.M;GOLONI-BERTOLLO, ENI MARIA;BERTOLLO, E;GOLONI-BERTOLLO, E.M.;BERTOLLO, EM;GOLONI-BERTOLLO, EM;Maria Goloni Bertollo,  E;Eny Maria Goloni Bertollo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9176636696202692"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eny Maria Goloni-Bertollo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BRAILE, D. M.;Braile, D. M.;Braile, Domingo Marcolino;Domingo M. Braile;BRAILE, DOMINGO M;BRAILE, DOMINGO M.;BRAILE, D.;BRAILE, DOMINGO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0145375616627760"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Domingo Marcolino Braile">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biomateriais e Materiais Biocompatíveis</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cirurgia Cardiovascular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cirurgia Experimental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Educacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="FLORIM, G. M. S;Florim, Greiciane M;FLORIM, GREICIANE M.;FLORIM, GREICIANE MARIA DA SILVA;Florim, Greiciane S;FLORIM, GREICIANE S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ABBUD FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2638221506741605"
+                 SEQUENCIA-ESTUDANTE="2673801"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5702637936935890"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Greiciane Maria da Silva Florim">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MAZETI, C. M.;Mazeti, Camila M.;MAZETI, CAMILA;MAZETI, CAMILA MONTORO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ABBUD FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2638221506741605"
+                 SEQUENCIA-ESTUDANTE="2634474"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0832358878579717"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Camila Montoro Mazeti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="AVALIAÇÃO DO PERFIL MOLECULAR DE CITOCINAS E QUIMIOCINAS INFLAMATÓRIAS EM RINS DE DOADORES DE CRITÉRIOS ESTENDIDOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeito da terapia imunossupressora no perfil de expressão gênica do fator de transcrição FOXP3+ em receptores de transplantes renais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, J. C. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ABBUD FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2638221506741605"
+                 SEQUENCIA-ESTUDANTE="4187902"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3180985669013829"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Julio César Razera de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DIAS, C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ABBUD FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2638221506741605"
+                 SEQUENCIA-ESTUDANTE="2630135"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3897655395104803"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cinthia Dias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARTINS, D. P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ABBUD FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2638221506741605"
+                 SEQUENCIA-ESTUDANTE="4177240"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4252536544080882"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Denise Poltronieri Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aspectos moleculares de rim policistico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAMARGO, P. M." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ABBUD FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2638221506741605"
+                 SEQUENCIA-ESTUDANTE="2420585"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0455018582371131"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Priscila Mata Camargo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Efeito da terapia imunossupressora no perfil de expressão gênica do fator de transcrição FOXP3+ em receptores de transplantes renais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9453564311881259"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Considerando os efeitos farmacológicos dos ácidos graxos polinsaturados (PUFAs) Omega 3 que modificam os produtos do ácido araquidônico (AA) e aumentam a produção de eicosanóides vasodilatadores e citocinas antiinflamatórias é possível que o uso terapêutico do óleo de peixe, rico em Omega 3 tenha potencial para evitar ou minimizar a nefrotoxicidade induzida pelo uso de TAC."
+                         NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na toxicidade crônica dos inibidores da calciuneurina."
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">ácidos graxos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">imunossupressor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">óleo de peixe</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1305586796643601"
+                               NOME-COMPLETO="Maria Alice Sperto Ferreira Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="147868"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0925801342254577" NOME-COMPLETO="Heloisa Cristina Caldas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="421038"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3241374773308189"
+                               NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="780855"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nefrologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0005177395882971"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Avaliar os efeitos farmacológicos dos PUFAS tipo Omega 3 nos mecanismos fisiopatológicos envolvidos na progressão da fibrose tecidual que ocorre como resposta fisiológica à perda progressiva da massa renal."
+                         NOME-DA-LINHA-DE-PESQUISA="Efeitos dos PUFAS na progressão da doença renal crônica."
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">ácidos graxos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Insuficiência renal cronica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Ômega 3</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1305586796643601"
+                               NOME-COMPLETO="Maria Alice Sperto Ferreira Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="147868"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0925801342254577" NOME-COMPLETO="Heloisa Cristina Caldas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="421038"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3241374773308189"
+                               NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="780855"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nefrologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3000476356541947"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa tem como objetivo o desenvolvimento de modelos experimentais de transplantes renais em ratos. Esses modelos são importantes para o estudo dos mecanismos envolvidos na fisiopatologia da disfunção e vasculopatia crônica dos transplantes, e para avaliação dos efeitos de drogas imunossupressoras e de estratégias visando prevenir a progressão da disfunção crônica do órgão transplantado."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelos Experimentais de Transplantes em animais de laboratório"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">transplante experimental</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Rejeição crônica do enxerto</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1305586796643601"
+                               NOME-COMPLETO="Maria Alice Sperto Ferreira Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="147868"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5542051531032417" NOME-COMPLETO="Glória Elisa Florido Mendes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="433873"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0925801342254577" NOME-COMPLETO="Heloisa Cristina Caldas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="421038"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3241374773308189"
+                               NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="780855"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nefrologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5630054187122536"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa tem como objetivo investigar a presença e as  conseqüências do Microquimerismo Fetal em pacientes acometidos por doenças auto-imunes e receptores de transplantes de órgãos sólidos vascularizados."
+                         NOME-DA-LINHA-DE-PESQUISA="Investigação de Microquimerismo Fetal em Doenças Auto-Imunes e Transplantes de Órgãos."
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Lupus</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">microquimerismo</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1305586796643601"
+                               NOME-COMPLETO="Maria Alice Sperto Ferreira Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="147868"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0925801342254577" NOME-COMPLETO="Heloisa Cristina Caldas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="421038"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3241374773308189"
+                               NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="780855"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0612014399350447" NOME-COMPLETO="Érika Cristina Pavarino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="234635"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5702637936935890" NOME-COMPLETO="Greiciane Maria da Silva Florim"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2673801"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3180985669013829" NOME-COMPLETO="Julio César Razera de Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4187902"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nefrologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1914776118107849"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A Insuficiência renal crônica (IRC) constitui um problema de saúde pública. A terapia celular associada à bioengenharia tecidual pode ser uma alternativa para o tratamento da IRC.  Obstáculos metodológicos para implantação dessas células no tecido lesado produziram resultados controvertidos. Essa linha de pesquisa visa avaliar se as CT implantadas sobre matriz de colágeno retarda a progressão da IRC."
+                         NOME-DA-LINHA-DE-PESQUISA="Terapia celular e Engenharia de Tecido no tratamento da Doença Renal Crônica experimental"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">terapia celular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Biomaterial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Engenharia de tecido</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1305586796643601"
+                               NOME-COMPLETO="Maria Alice Sperto Ferreira Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="147868"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5542051531032417" NOME-COMPLETO="Glória Elisa Florido Mendes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="433873"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4397770182100706" NOME-COMPLETO="João Damasceno Lopes Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="765433"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0925801342254577" NOME-COMPLETO="Heloisa Cristina Caldas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="421038"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3241374773308189"
+                               NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="780855"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6505437764789599" NOME-COMPLETO="Rosa Sayoko Kawasaki-Oyama"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="72525"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0612014399350447" NOME-COMPLETO="Érika Cristina Pavarino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="234635"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9176636696202692" NOME-COMPLETO="Eny Maria Goloni-Bertollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="76092"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145375616627760" NOME-COMPLETO="Domingo Marcolino Braile"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="132592"
+                               SEQUENCIA-PESQUISADOR="10"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3897655395104803" NOME-COMPLETO="Cinthia Dias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2630135"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nefrologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4744010932990121" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Aspectos moleculares de rim policistico."
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">insuficiência renal crônica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4252536544080882" NOME-COMPLETO="Denise Poltronieri Martins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4177240"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0116722208582651"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O transplante renal é o tratamento indicado para pacientes com IRC. A escassez de órgãos para realização do procedimento fez com que transplantadores passassem a utilizar rins de doadores falecidos com critérios estendidos (DCE). Resultados do uso desse tipo de órgãos ainda são controversos, tornando-se fundamental compreender esses órgãos e compará-los com o rim padrão (DCS). A mensuração das mudanças no perfil de transcrição gênica do órgão do doador pode auxiliar na caracterização de rins."
+                         NOME-DA-LINHA-DE-PESQUISA="AVALIAÇÃO DO PERFIL MOLECULAR DE CITOCINAS E QUIMIOCINAS INFLAMATÓRIAS EM RINS DE DOADORES DE CRITÉRIOS ESTENDIDOS"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">transplante</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1305586796643601"
+                               NOME-COMPLETO="Maria Alice Sperto Ferreira Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="147868"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0925801342254577" NOME-COMPLETO="Heloisa Cristina Caldas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="421038"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3241374773308189"
+                               NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="780855"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0832358878579717" NOME-COMPLETO="Camila Montoro Mazeti"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2634474"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nefrologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1780248691439501"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="As células Treg, cujo principal marcador é um fator de transcrição denominado FOXP3, têm sido relacionadas à sobrevida do transplante renal, mas os fatores que influenciam a fisiopatogênese dessas células são desconhecidos. Tregs tem o papel nos mecanismos anti-inflamatórios e de tolerância imunológica. Essas células tem sido detectadas no sangue periférico e em biópsias do enxerto de receptores de transplante renal e sua presença correlacionada com rejeição crônica e sobrevida do enxerto."
+                         NOME-DA-LINHA-DE-PESQUISA="Efeito da terapia imunossupressora no perfil de expressão gênica do fator de transcrição FOXP3+ em receptores de transplantes renais "
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Transplante renal</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3241374773308189"
+                               NOME-COMPLETO="Ida Maria Maximina Fernandes Charpiot"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="780855"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2638221506741605" NOME-COMPLETO="Mario Abbud Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17341"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0832358878579717" NOME-COMPLETO="Camila Montoro Mazeti"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2634474"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0455018582371131" NOME-COMPLETO="Priscila Mata Camargo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2420585"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Nefrologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3441343160148040" OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         NOME-DA-LINHA-DE-PESQUISA="Polimorfismos genéticos de HLA em populações humanas."
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">HLA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Polimorfismos genéticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Genética de populações</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA/>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20205007" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20205007"
+                                  CODIGO-AREA="20200005"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Genética Humana e Médica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Genética"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="253"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.4"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5086811331322199"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade de São Paulo"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="63025530000104"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="USP"
+               NOME-DA-EMPRESA="Universidade de São Paulo"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="S" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="115000"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2012"
+                   ESPECIFICACOES=""
+                   MODELO="steo one plus"
+                   MARCA="Life technology"
+                   NOME="Real time PCR"
+                   CLASSIFICACAO=""
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+   </EQUIPAMENTOS>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

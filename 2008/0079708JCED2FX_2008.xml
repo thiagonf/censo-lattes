@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA DATA-ATUALIZACAO="08102008" ESTRATIFICACAO=""
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="120000"
+                   NRO-ID-GRUPO="0079708JCED2FX"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO ANO-DE-CRIACAO="1989" AREA-PREDOMINANTE="Educação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Humanas"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Campinas"
+                           NOME-DA-UNIDADE="Departamento de Psicologia Educacional"
+                           NOME-DO-GRUPO="LEIA-LABORATORIO DE EDUCACAO E INFORMATICA APLICADA"
+                           NOME-DO-ORGAO="Faculdade de Educação"
+                           SIGLA-DA-INSTITUICAO="UNICAMP"
+                           UF-DA-INSTITUICAO="SP">
+      <LIDERES>
+         <PRIMEIRO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Afira Vianna Ripper"
+                         NRO-ID-CNPQ="7417289145385813"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO BAIRRO="Barao Geraldo" CEP="13083970" CIDADE="Campinas" DDD="19"
+                                       E-MAIL="ripper@unicamp.br"
+                                       FAX="37885576"
+                                       HOME-PAGE="http://www.leia.fae.unicamp.br"
+                                       LOGRADOURO-E-COMPLEMENTO="Cidade Universitaria Zeferino Vaz"
+                                       RAMAL=""
+                                       TELEFONE="37885585"
+                                       UF="SP"/>
+      <REPERCUSSOES>O Laboratório de Educação e Informática Aplicada. LEIA, criado em 1989, dedica-se 'a pesquisa e ao desenvolvimento na área de informática em Educação.1- Projeto Eureka: pesquisa sobre formação continuada em serviço dos professores da rede municipal de Campinas : o uso do computador como instrumento pedagógico- Desenvolvida 1990-97 foi estendido a todas as 36 escolas de ensino fundamental, 2 pré-escolas, 9 centros supletivos, cerca de 500 educadores (final 1997).  Além do relatório de pesquisa (FINEP 1999) gerou 3 dissertações de mestrado já defendidas e uma tese de doutorado em desenvolvimento. 2- Projeto  Ciência na Escola  pesquisa a apreesão por professores e alunos do ensino médio e fundamental do método científico como instrumento de pesquisa. O computador é auxiliar de pesquisa. De 1996 a 2004 foi apoiado pela Fapesp (Programa Ensino Público). Atualmente conta com financiamento da Prefeitura de Campinas. Já formou nessa linha 2 doutores e 8 mestres. Há mais 3 em formação. 2- Pesquisa sobre a relação humano computador: geraram 5  de mestrado e 3 doutorados já defendidas. Desenvolvimento de software educativo: ESCRITOR - processador de texto simplificado para iniciantes de alfabetização (e de informática). O software foi avaliado pelo CTI. Envolveu 2 bolsistas DTI e 1 bolsista ITI do Programa RAHE. Recebeu Menção Honrosa no Concurso Nacional de Software Educativo do MEC em 1998. Uma nova versão está sendo reestruturado para web e multi plataforma. 3- Vídeos Educativos: (documentários para ser usados em escolas). a) documentário sobre o Programa Eureka. Com apoio da SUCESU ? seção Campinas. b)  Informática na Pré-escola  documentário de 20 m. apresentado em congresso internacional de educação infantil. Formou 1 mestre nesta área.</REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Corinta Maria Grisolia Geraldi"
+                   NRO-ID-CNPQ="2772441310565614"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Ensino."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Informatica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Thereza Alexandre"
+                   NRO-ID-CNPQ="4826453932589385"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Informatica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formação continuada em serviço - Projeto "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria de Fátima Garcia"
+                   NRO-ID-CNPQ="6064873375484658"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Ensino."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Afira Vianna Ripper"
+                   NRO-ID-CNPQ="7417289145385813"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Ensino."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Informatica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formação continuada em serviço - Projeto "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Janelas para  o mundo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Candida Müller"
+                   NRO-ID-CNPQ="9997935968998147"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formação continuada em serviço - Projeto "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Extensão universitária"
+                 NOME-COMPLETO="Eli Teresa Cardoso"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Afira Vianna Ripper"
+                 NRO-ID-CNPQ="2541683536038387"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="1"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Ensino."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 NOME-COMPLETO="Claudinei de Camargo Santana"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Afira Vianna Ripper"
+                 NRO-ID-CNPQ="2970320445020239"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="2"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Informatica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Joseane Aparecida Zaghetti"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Afira Vianna Ripper"
+                 NRO-ID-CNPQ="5823092236375272"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="3"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Janelas para  o mundo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Cristina Aparecida Júlio"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Afira Vianna Ripper"
+                 NRO-ID-CNPQ="8625365364192693"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="4"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formação continuada em serviço - Projeto "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Eneida Baccaro Modonezi"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Afira Vianna Ripper"
+                 NRO-ID-CNPQ="9086180020313922"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="5"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Informatica."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Maria Jose Adami"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Afira Vianna Ripper"
+                 NRO-ID-CNPQ="9907916401432814"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="6"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formação continuada em serviço - Projeto "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <TECNICOS>
+      <TECNICO ATIVIDADE-NO-GRUPO="Assistente de Pesquisa" GRAU-DE-ESCOLARIDADE="Graduação"
+               NOME-COMPLETO="Eneida Baccaro"
+               SEQUENCIA-TECNICO="1"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Ensino." OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Educação continuada em serviço de professores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">método científico como instrumento de aprendizagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">aprendizagem colaborativa</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">professores-pesquidasores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Corinta Maria Grisolia Geraldi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9525"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria de Fátima Garcia"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="249253"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Afira Vianna Ripper"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2320"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Eli Teresa Cardoso" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2303716"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Psicologia"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Treinamento de Pessoal"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Psicologia do Ensino e da Aprendizagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1159"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos e Técnicas de Ensino"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ensino-Aprendizagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1192"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Educação Permanente"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1203"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="14" SETOR="Educação" SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educacao e Informatica."
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Educação continuada em serviço de professores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">aprendizagem colaborativa</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">professores-pesquidasores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">computador como instrumento pedagógico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">internet como instrumento pedagógico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">interação humano - computador</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Corinta Maria Grisolia Geraldi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9525"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Thereza Alexandre"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2304053"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Afira Vianna Ripper"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2320"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Claudinei de Camargo Santana" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="362892"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Eneida Baccaro Modonezi" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="302192"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos e Técnicas de Ensino"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ensino-Aprendizagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1192"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Educação de Adultos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1202"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Educação Permanente"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1203"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="14" SETOR="Educação" SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formação continuada em serviço - Projeto "
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Formação continuada em serviço de professores de escolas públicas compreendendo ensino fundamental e médio. o projeto desenvolvido possui o nome  Ciência na Escola  e o objetivo é formar pesquisadores entre professores e seus alunos. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="9">método de pesquisa formação continuada</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Thereza Alexandre"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2304053"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Afira Vianna Ripper"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2320"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Candida Müller"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="48101"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Cristina Aparecida Júlio" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2087933"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Maria Jose Adami" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="34847"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Educação Permanente"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1203"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="8" SETOR="Educação"
+                                SUBSETOR="Educação média de formação geral"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="10" SETOR="Educação"
+                                SUBSETOR="Educação pré-escolar e fundamental"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Janelas para  o mundo"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O objetivo é estudar como atuam instrumentos tecnológicos (computador/webcam) e que novas possibilidades de comunicação, de práticas culturais, de modificação da língua ou do surgimento de novos idiomas estes instrumentos oferecem. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">interação via web</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">intercultural</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="12">crianças de escolas públicas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Afira Vianna Ripper"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2320"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Joseane Aparecida Zaghetti" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="311487"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1201"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="12" SETOR="Educação"
+                                SUBSETOR="Formação permanente e outras atividades de ensino, inclusive educação à distância e educação especial"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA CIDADE="Cachoeirinha" CNPJ="04884369000165" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Instituto Vygotskij - Centro de Estudos e Pesq. em Educação"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="31969"
+               SIGLA-DA-EMPRESA=""
+               UF="Rio Grande do Sul">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Educação" SEQUENCIA-SETOR-DE-ATIVIDADE="1" SETOR="Educação"
+                                          SUBSETOR="Outras atividades de ensino"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <CRITICAS-SUGESTOES/>
+</GRUPO-DE-PESQUISA>

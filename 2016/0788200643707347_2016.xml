@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="0788200643707347"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="160523"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="21102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="8353554970600111" CODIGO-AREA-PREDOMINANTE="21100004"
+                           NOME-DA-UNIDADE="Departamento de Patologia Geral"
+                           NOME-DO-ORGAO="Departamento de Patologia Geral"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UEL"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Londrina"
+                           AREA-PREDOMINANTE="Imunologia"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Biológicas"
+                           ANO-DE-CRIACAO="1995"
+                           NOME-DO-GRUPO="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="4546015854605030" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Ionice Felipe"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="5287051588822791" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Ricardo Sergio Couto de Almeida"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4113700" DDDFAX="04"
+                                       LONGITUDE="-51.205883700000015"
+                                       LATITUDE="-23.3207785"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Londrina"
+                                       NUMERO="KM380"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Rodovia Celso Garcia Cid - do km 381,001 ao km 383,00"
+                                       HOME-PAGE="http://www.uel.br"
+                                       E-MAIL="ionice@uel.br"
+                                       FAX="33714267"
+                                       RAMAL=""
+                                       TELEFONE="33714267"
+                                       DDD="04"
+                                       CEP="86057250"
+                                       CIDADE="Londrina"
+                                       UF="PR"
+                                       BAIRRO="Jardim Portal de Versalhes 1"/>
+      <REPERCUSSOES> A área de interesse científico do grupo compreende conhecimento de Candida albicans quanto aos fatores de virulência e suas implicacões com a resposta imune inata e adaptativa. Para tanto foi usado camundongos como modelo animal e avaliado infeccões intraperitoneais e cutânea.Para melhorar a resposta imune foram testados lectinas concanavalina-A e Artin M. Nossa atividade de pesquisa nesta linha gerou a publicacão de 30 artigos em revistas indexadas como:J.Med Microbiol.; Fems Immunol.Med. Microbiol.;J.Med. Mycology; International Immunopharmacol. e 15 resumos estendidos sendo 2 premiados em Evento INFOCUS,Santiago, Chile (2010) e outro em Evento de Imunologia (Mederlin, Colombia, 2015).Apresentacão de 100 trabalhos em congressos Nacionais e internacionais, 5teses de Doutorado e 10 de mestrado, alem de 3 capítulos de Livro  e Cursos de Imunologia ministrados</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="WATANABE, M.A.E.;Watanabe, Maria Angelica Ehara;Watanabe, Maria Angelica Ehara Watanabe;Watanabe, Maria Angelica;WATANABE, MARIA ANGÉLICA EHARA;WATANABE, M. A. E.;WATANABE, MARIA;WATANABE, MARIA A. E."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3411343294900797"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Angelica Ehara Watanabe">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="QUIMIOCINAS E INTERLEUCINAS NA REGULAÇÃO DA RESPOSTA IMUNE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Almeida, RS;de Almeida, RSC;Almeida, R;Almeida, Ricardo Sergio;Almeida, Ricardo Sergio Couto;Almeida, R. S.;DE ALMEIDA, RICARDO SÉRGIO COUTO;Ricardo S. Almeida;Almeida, Ricardo S.;DE ALMEIDA, RICARDO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5287051588822791"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ricardo Sergio Couto de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CANDIDÍASE EXPERIMENTAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FELIPE, I.;Felipe, Ionice" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4546015854605030"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ionice Felipe">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Patogenicidade microbiana"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Caracterizacào de candidiase cutanea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="QUIMIOCINAS E INTERLEUCINAS NA REGULAÇÃO DA RESPOSTA IMUNE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CANDIDÍASE EXPERIMENTAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SVIDZINSKI, T. I. E.;Svidizinski, T. I. E.;Svidzinski, Terezinha I.E.;Svidzinski, Terezinha Inez Estivaleti;Svidzinski, Terezinha Inez Estivalet;Estivalet Svidizinski, Terezinha Inez;Svidzinski, Terezinha;Svidzinski, Terezinha I. E.;Svidzinski, TIE;ESTIVALET SVIDZINSKI, TEREZINHA INEZ;SVIDZINSKI, TEREZINHA IE;Svidzinsk TIE;SVIDZINSK, TEREZINHA INEZ ESTIVALET;Terezinha Ines Estivalet Svidzinski;SVIDZINSK, TEREZINHA INES ESTIVALET;Svidzinski, Teresinha Inez Estivalet;Svidzinski, Terezinha Ines Estivalet;Svidizinski TI;SVIDIZINSKI, TEREZINHA INEZ ESTIVALET;SVIDZINSKI, TEREZINHA I. ESTIVALET;SVIDZINSKI, T.;Svidzinsk Terezinha Inez Estivaler;Terezinha I. Estivalet Svidzinsk"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9325751411452030"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Terezinha Inez Estivalet Svidzinski">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Infecção Hospitalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micologia Humana e Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micologia Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Conchon-Costa, I.;Conchon-Costa, Ivete;CONCHON COSTA, IVETE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8087140111794414"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ivete Conchon Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CANDIDÍASE EXPERIMENTAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protozoologia Parasitária Humana</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ARAÚJO, E. J. A.;de Almeida Araújo, Eduardo José;Araújo, Eduardo J. A.;ARAÚJO, E. J. DE A.;ARAÚJO, E. J. DE. A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5687853194494173"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo José de Almeida Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Caracterizacào de candidiase cutanea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Divulgação Científica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gastroenterologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Histologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurociência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurônios entéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protozoologia de Parasitos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SEGATO, C. Z.;SEGATO-VENDRAMETO, C. Z."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IONICE FELIPE"
+                 NRO-ID-CNPQ-ORIENTADOR="4546015854605030"
+                 SEQUENCIA-ESTUDANTE="2781224"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3593377513533551"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carina Zerbetto Segato">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Histologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia Celular</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ZUCOLOTO, A. Z.;ZAPAROLI ZUCOLOTO, AMANDA"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IONICE FELIPE"
+                 NRO-ID-CNPQ-ORIENTADOR="4546015854605030"
+                 SEQUENCIA-ESTUDANTE="4436027"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0296268070291932"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Amanda Zaparoli Zucoloto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CANDIDÍASE EXPERIMENTAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAMPOIS, T.G;TACITO, CAMPOIS;CAMPOIS, T. G."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IONICE FELIPE"
+                 NRO-ID-CNPQ-ORIENTADOR="4546015854605030"
+                 SEQUENCIA-ESTUDANTE="2086007"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7422133564809455"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tacito Graminha Campois">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Patogenicidade microbiana"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Caracterizacào de candidiase cutanea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="QUIRINO, G. F. S.;da Silva Quirino, Gustavo Fernando;Fernando da Silva Quirino, Gustavo;GUSTAVO, QUIRINO;QUIRINO, G. F. D. S.;QUIRINO, GUSTAVO F. S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IONICE FELIPE"
+                 NRO-ID-CNPQ-ORIENTADOR="4546015854605030"
+                 SEQUENCIA-ESTUDANTE="3352589"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0407547052552860"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gustavo Fernando da Silva Quirino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="QUIMIOCINAS E INTERLEUCINAS NA REGULAÇÃO DA RESPOSTA IMUNE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PUPIM, A. C. E." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IONICE FELIPE"
+                 NRO-ID-CNPQ-ORIENTADOR="4546015854605030"
+                 SEQUENCIA-ESTUDANTE="3316479"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1311991845266808"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Andréia Carla Eugenio Pupim">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Caracterizacào de candidiase cutanea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análies Clínicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Farmácia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Histologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>IMUNOLOGIA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>MICROBIOLOGIA CLÍNICA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DETONI, M. B." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IONICE FELIPE"
+                 NRO-ID-CNPQ-ORIENTADOR="4546015854605030"
+                 SEQUENCIA-ESTUDANTE="5521876"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3358708640950802"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mariana Barbosa Detoni">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Caracterizacào de candidiase cutanea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6117052557460616"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="TESTAR EM CAMUNDONGOS SUIÇOS O GRAU DE PATOGENICIDADE DE ISOLADOS DE CANDIDA DE PACIENTES HIV+ , AVALIANDO-SE A TAXA DE MORTALIDADE PARA CADA AMOSTRA.  AVALIAR FATORES DE VIRULÊNCIA DOS ISOLADOS ( PRODUÇÃO DE PROTEINASES, CATALASE, FOSFOLIPASES, DIMORFISMO, e INDUÇÃO DE APOPTOSE EM FAGÓCITOS).  ANALISAR OS RECEPTORES PARA FAGOCITOSE E MECANISMOS DE DESTRUIÇÃO DE CANDIDA, APÓS ADMINISTRAÇÃO DE CONCANAVALINA-A.  AVALIAR AS CITOCINAS TNF-alfa, IFN-GAMA, IL-17,IL- 12  NA CANDIDÍASE SEM E COM CON-A"
+                         NOME-DA-LINHA-DE-PESQUISA="CANDIDÍASE EXPERIMENTAL"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">CANDIDA ALBICANS</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">FAGOCITOSE</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">LINFÓCITOS TH1 E TH2</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">CANDIDÍASE</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">celulasTh17</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5287051588822791" NOME-COMPLETO="Ricardo Sergio Couto de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="180938"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4546015854605030" NOME-COMPLETO="Ionice Felipe"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14329"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8087140111794414" NOME-COMPLETO="Ivete Conchon Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="55768"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0296268070291932" NOME-COMPLETO="Amanda Zaparoli Zucoloto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4436027"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21102007" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21102007"
+                                  CODIGO-AREA="21100004"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Imunologia Celular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Imunologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="331"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6213109784284539"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNES DE LECTINAS (ARTIN_M, CONCANAVALINA-A ) ESTÃO SENDO AVALIADOS COM RELACÃO A MELHORA DE RESPOSTA IMUNE CONTRA ISOLADOS DE C.ALBICANS DE PACIENTE HIV+ E AVALIADOS APÓS 6 , 24 , 72 HS A PRODUCÃO DE IL-10,IL-12, TNF-ALFA,IL-17 E IFN-GAMA POR CÉLULAS DO EXUDATO PERITONEAL, FÍGADO ,RINS E BAÇO. IN VITRO CO-INTERAÇÃO DE MACRÓFAGOS COM  C.ALBICANS  E ATIVIDADE DE RECEPTORES TOLL-LIKE , DECTINA -1 E RECEPTORES DE MANOSE E CORRELAÇÃO COM A PRODUÇÃO DE IL-12, TNF-ALFA E IFN-GAMA."
+                         NOME-DA-LINHA-DE-PESQUISA="MECANISMOS IMUNOLÓGICOS DE PROTEÇÃO CONTRA CANDIDÍASE"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">CANDIDA ALBICANS</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">FAGOCITOSE</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">CANDIDÍASE</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">citocinas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">ARTIN-M, CONCANAVALINA-A</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4546015854605030" NOME-COMPLETO="Ionice Felipe"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14329"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9325751411452030"
+                               NOME-COMPLETO="Terezinha Inez Estivalet Svidzinski"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="248823"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8087140111794414" NOME-COMPLETO="Ivete Conchon Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="55768"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3593377513533551" NOME-COMPLETO="Carina Zerbetto Segato"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2781224"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7422133564809455" NOME-COMPLETO="Tacito Graminha Campois"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2086007"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0407547052552860"
+                             NOME-COMPLETO="Gustavo Fernando da Silva Quirino"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3352589"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21102007" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21102007"
+                                  CODIGO-AREA="21100004"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Imunologia Celular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Imunologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="331"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8627589456676771"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Analisar as diferentes vias de fagocitose de Escheichia coli, Candida albicans e Serratia marcescens(receptores de manose,dectina-1, Toll-like receptors) mecanismos de destruição( produção de anion superóxido, óxido nítrico) e por outro lado avaliar os fatores de virulência dos patógenos sobre os fagócitos tais como: indução de apoptose, enzimas proteolíticas, dimorfismo."
+                         NOME-DA-LINHA-DE-PESQUISA="Patogenicidade microbiana"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Candida albicans, apoptose, fagocitose, proteinase</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4546015854605030" NOME-COMPLETO="Ionice Felipe"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14329"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7422133564809455" NOME-COMPLETO="Tacito Graminha Campois"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2086007"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21102007" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21102007"
+                                  CODIGO-AREA="21100004"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Imunologia Celular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Imunologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="331"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2390401949457575"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Imunorregulação das respostas imunológicas envolvendo estudos de  expressão gênica de moléculas imunológicas como quimiocinas, interleucinas  e seus receptores em   doenças inflamatórias e doenças infecciosas"
+                         NOME-DA-LINHA-DE-PESQUISA="QUIMIOCINAS E INTERLEUCINAS NA REGULAÇÃO DA RESPOSTA IMUNE"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">citocinas, imunidade celular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Candida albicans</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3411343294900797" NOME-COMPLETO="Maria Angelica Ehara Watanabe"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100008"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4546015854605030" NOME-COMPLETO="Ionice Felipe"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14329"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0407547052552860"
+                             NOME-COMPLETO="Gustavo Fernando da Silva Quirino"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3352589"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21100004" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="21100004"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Imunologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="329"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2582620329229338"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Analise histopatologica e da producão de citocinas pro e ant-inflamatórias por infeccão com Candida albicans na derme da pata traseira de camundongos BALB/c normais e diabéticos. Avaliacão da cicatrizacão com relacão ao colágeno e presenca de macrófagos M1 e M2 .Analise de efeito protetor de concanavalina-a em camundongos diabeticos com lesão cutanea por Candida albicans"
+                         NOME-DA-LINHA-DE-PESQUISA="Caracterizacào de candidiase cutanea"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">candidiase cutanea</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Citocinas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4546015854605030" NOME-COMPLETO="Ionice Felipe"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14329"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5687853194494173" NOME-COMPLETO="Eduardo José de Almeida Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="188456"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7422133564809455" NOME-COMPLETO="Tacito Graminha Campois"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2086007"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1311991845266808" NOME-COMPLETO="Andréia Carla Eugenio Pupim"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3316479"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3358708640950802" NOME-COMPLETO="Mariana Barbosa Detoni"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5521876"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21102007" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21102007"
+                                  CODIGO-AREA="21100004"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Imunologia Celular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Imunologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="331"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0938728919056959"
+               RAZAO-SOCIAL-DA-EMPRESA="Centro de Ciências Biológicas "
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="79151312000156"
+               LOCALIDADE="Maringá"
+               CIDADE="Maringá"
+               UF="PR"
+               SIGLA-DA-EMPRESA="UEM/CCB"
+               NOME-DA-EMPRESA="Centro de Ciências Biológicas "
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

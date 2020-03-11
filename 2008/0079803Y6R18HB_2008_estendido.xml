@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="null" ANO-CENSO="2008" NRO-ID-GRUPO="0079803Y6R18HB">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Doutorado"
+                   NRO-ID-CNPQ="3566239427094688"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Mario Alberto de Santana"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Ensino Médio (2o grau)"
+                   NRO-ID-CNPQ="9791672209393702"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Roberto Peixoto Mallet"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Carolina Martins Delduque"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Ludmila Medeiros Moreno"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Alexandre Costa Cristovam da Rocha"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Vinícius de Almeida  Carvalho"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Christian Felipe de Oliveira Campos"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Fernanda Tomazini Bellinati"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Joana Amélia Gonzales Freire"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Paula Barbuy Zaneti"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Luiza Delphino Lio"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Douglas Rodrigues Novais"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Eduardo Bearzoti"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Liana Ferraz Diniz"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Flora Gussonato"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Jaqueline Bonini Pascholati"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Gustavo Antonio Valezi Veloso"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Grupo Tempo" NATUREZA-JURIDICA="Entidades Empresariais"
+               FAIXA-FUNCIONARIOS="20 a 49"
+               SUB-CNPJ="51561819"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

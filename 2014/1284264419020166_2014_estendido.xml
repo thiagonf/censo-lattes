@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA NRO-ID-GRUPO="1284264419020166" ANO-CENSO="2014">
+   <PESQUISADORES>
+      <PESQUISADOR NRO-ID-CNPQ="1333051805628540" NOME-COMPLETO="Maria Cecilia Martinelli Iorio"
+                   NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEXO="F"
+                   STA-ORIENTADOR-DOUTORADO="Sim"
+                   STA-ORIENTADOR-MESTRADO="Sim"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-IC="Não"
+                   BOLSA-NIVEL="1B"
+                   BOLSA-CATEGORIA="Produtividade em Pesquisa">
+         <DOCENTE-PROGRAMAS>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Fonoaudiologia"
+                              GRANDE-AREA-PROGRAMA="Ciências da Saúde"
+                              NOME-PROGRAMA="Distúrbios da Comunicação Humana (Fonoaudiologia)"
+                              CODIGO-PROGRAMA="33009015026P3"/>
+         </DOCENTE-PROGRAMAS>
+         <TOTAIS-PRODUCAO>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2011" TOT-BIBL-PERIODICO-NAC="3" TOT-BIBL-PERIODICO-INT="3"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="4"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="11"
+                            TOT-BIBL="21"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="0"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="5"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="5"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2012" TOT-BIBL-PERIODICO-NAC="3" TOT-BIBL-PERIODICO-INT="4"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="3"
+                            TOT-BIBL="10"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="0"
+                            TOT-ORIE-DOUTORADO-CONC="1"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="1"
+                            TOT-ORIE-CONC="2"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2013" TOT-BIBL-PERIODICO-NAC="1" TOT-BIBL-PERIODICO-INT="3"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="2"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="2"
+                            TOT-BIBL="8"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="2"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="2"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="0"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2014" TOT-BIBL-PERIODICO-NAC="1" TOT-BIBL-PERIODICO-INT="3"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="3"
+                            TOT-BIBL="7"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="0"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="0"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+         </TOTAIS-PRODUCAO>
+      </PESQUISADOR>
+      <PESQUISADOR NRO-ID-CNPQ="3499728717437032">
+         <DOCENTE-PROGRAMAS>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Fonoaudiologia"
+                              GRANDE-AREA-PROGRAMA="Ciências da Saúde"
+                              NOME-PROGRAMA="Distúrbios da Comunicação Humana (Fonoaudiologia)"
+                              CODIGO-PROGRAMA="33009015026P3"/>
+         </DOCENTE-PROGRAMAS>
+      </PESQUISADOR>
+      <PESQUISADOR NRO-ID-CNPQ="6363626867862971">
+         <DOCENTE-PROGRAMAS>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Fonoaudiologia"
+                              GRANDE-AREA-PROGRAMA="Ciências da Saúde"
+                              NOME-PROGRAMA="Distúrbios da Comunicação Humana (Fonoaudiologia)"
+                              CODIGO-PROGRAMA="33009015026P3"/>
+         </DOCENTE-PROGRAMAS>
+      </PESQUISADOR>
+      <PESQUISADOR NRO-ID-CNPQ="1261977033081923">
+         <DOCENTE-PROGRAMAS>
+            <DOCENTE-PROGRAMA CONCEITO-CAPES="5" AREA-PROGRAMA="Fonoaudiologia"
+                              GRANDE-AREA-PROGRAMA="Ciências da Saúde"
+                              NOME-PROGRAMA="Distúrbios da Comunicação Humana (Fonoaudiologia)"
+                              CODIGO-PROGRAMA="33009015026P3"/>
+         </DOCENTE-PROGRAMAS>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NRO-ID-CNPQ="6596865775744542" NOME-COMPLETO="Andréa Dishtchekenian"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Extensão universitária"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="5330720259039462" NOME-COMPLETO="Fernanda Corral da Fonseca"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="2865787212281122"
+                 NOME-COMPLETO="Ruth Maria Magalhães Eringer de Souza"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="0172118693019592" NOME-COMPLETO="Rosângela Ghiringhelli"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="5182283461398499" NOME-COMPLETO="Elaine Soares Monteiro Pinto"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Não Informado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="1846339478201048" NOME-COMPLETO="Vanessa Clarizia Marchesin"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Não Informado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="5659892738150226" NOME-COMPLETO="Luciana Paula Garolla"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Não Informado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="3874295469032305" NOME-COMPLETO="Luiz Koiti Takagaki"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="6462180222849552" NOME-COMPLETO="Tiago de Melo Araujo"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Não Informado"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="3524975561274787" NOME-COMPLETO="Carla Fonseca Moraes Tonelini"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="1389683271486684"
+                 NOME-COMPLETO="Marilia Rodrigues Freitas de Souza"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="3132273672211893" NOME-COMPLETO="Samira Teixeira Bezerra"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 SEXO="F"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9821680133449129"
+               NOME-DA-EMPRESA="Centro Auditivo Widex-Brasitom "
+               SIGLA-DA-EMPRESA="WIDEX-BRASITOM"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               CNPJ="60869013000123"
+               RAZAO-SOCIAL-DA-EMPRESA="Centro Auditivo Widex-Brasitom Ltda"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA DATA-ATUALIZACAO="13102010" ESTRATIFICACAO=""
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="120000"
+                   NRO-ID-GRUPO="0072103FJDXFB8"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO ANO-DE-CRIACAO="2002" AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           NOME-DA-INSTITUICAO="Universidade de Fortaleza"
+                           NOME-DA-UNIDADE="Programa de Pós-Graduação em Informática Aplicada"
+                           NOME-DO-GRUPO="Computação Aplicada"
+                           NOME-DO-ORGAO="Vice-Reitoria de Pesquisa e Pós-Graduação"
+                           SIGLA-DA-INSTITUICAO="UNIFOR"
+                           UF-DA-INSTITUICAO="CE">
+      <LIDERES>
+         <PRIMEIRO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Plácido Rogério Pinheiro"
+                         NRO-ID-CNPQ="2546837031616846"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+         <SEGUNDO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Maria Andréia Formico Rodrigues"
+                        NRO-ID-CNPQ="9935354654905236"
+                        PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO BAIRRO="Edson Queiroz" CEP="60811341" CIDADE="Fortaleza" DDD="85"
+                                       E-MAIL="placido@unifor.br"
+                                       FAX="34773061"
+                                       HOME-PAGE="http://www.unifor.br/ppgia"
+                                       LOGRADOURO-E-COMPLEMENTO="Av. Washington Soares 1321 -  Bloco J sala 30"
+                                       RAMAL=""
+                                       TELEFONE="34773268"
+                                       UF="CE"/>
+      <REPERCUSSOES>O grupo computação aplicada tem por objetivo prover um ambiente multidisciplinar para a formação de recursos humanos, pesquisa e desenvolvimento, na área de Sistemas e Computação requeridos na atualidade, visando aplicações e solução de um grande núimero de problemas provenientes da Engenharia. São observados conceitos e técnicas úteis para a solução de diversos problemas do mundo real. Claramente, constitui-se uma maneira de abordar problemas complexos de natureza multidisciplinar, cuja solução requer obrigatoriamdente a colaboração de especialistas de várias áreas. Além disso, permite aglutinar um conjunto de pesquisadores qualificados, em uma época em que a sociedade exige que recursos escassos sejam bem utilizados.                 </REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade Desen. Tec. e Extensão Inovadora"
+                   BOLSA-NIVEL="2"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Batista Furlan Duarte"
+                   NRO-ID-CNPQ="2139814271237417"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Simbólica Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="2" NACIONALIDADE="B"
+                   NOME-COMPLETO="Plácido Rogério Pinheiro"
+                   NRO-ID-CNPQ="2546837031616846"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Matemática e Aplicações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Apoio a Decisão"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Raimir Holanda Filho"
+                   NRO-ID-CNPQ="2607811863279622"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Comunicação e Sistemas Distribuidos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisco Nivando Bezerra"
+                   NRO-ID-CNPQ="6633009717485302"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens e Visualização Científica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Maikol Magalhães Rodrigues"
+                   NRO-ID-CNPQ="7109209023016381"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Matemática e Aplicações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Cicero Nogueira dos Santos"
+                   NRO-ID-CNPQ="8306891687052522"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="16"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="Produtividade em Pesquisa" BOLSA-NIVEL="2" NACIONALIDADE="B"
+                   NOME-COMPLETO="André Luís Vasconcelos Coelho"
+                   NRO-ID-CNPQ="8377890158420707"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Inteligentes no Contexto da Computação Natural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="15"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Andréia Formico Rodrigues"
+                   NRO-ID-CNPQ="9935354654905236"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ambientes Virtuais Colaborativos para Treinamento, Simulação e Ensino"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Animação por Computador"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="APIs Gráficas para Dispositivos de Comunicação sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ambientes de Realidade Virtual e Aumentada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="12"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Diego Silveira Costa Nascimento"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="André Luís Vasconcelos Coelho"
+                 NRO-ID-CNPQ="0237930361350556"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="1"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Mateus Barros Telles do Carmo"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Andréia Formico Rodrigues"
+                 NRO-ID-CNPQ="0331257031667192"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="2"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ambientes Virtuais Colaborativos para Treinamento, Simulação e Ensino"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Animação por Computador"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Lara Carvalho Menezes"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="André Luís Vasconcelos Coelho"
+                 NRO-ID-CNPQ="1638974468868349"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="3"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Ronaldo de Sousa Moreira"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Andréia Formico Rodrigues"
+                 NRO-ID-CNPQ="1801678140194217"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="4"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Animação por Computador"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ambientes de Realidade Virtual e Aumentada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="12"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Joyce Horn Fonteles"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Andréia Formico Rodrigues"
+                 NRO-ID-CNPQ="1907768626955746"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="5"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Animação por Computador"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Wandré Araújo de Oliveira"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Francisco Nivando Bezerra"
+                 NRO-ID-CNPQ="2351721496450319"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="6"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens e Visualização Científica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Thais Cristina Sampaio Machado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Plácido Rogério Pinheiro"
+                 NRO-ID-CNPQ="2656382453883339"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="7"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Rebecca Filgueiras Pinheiro"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Plácido Rogério Pinheiro"
+                 NRO-ID-CNPQ="2776144035274637"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="8"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Matemática e Aplicações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Marcelo Lotif Araújo"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="André Luís Vasconcelos Coelho"
+                 NRO-ID-CNPQ="3358076083382222"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="9"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Inteligentes no Contexto da Computação Natural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="15"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Curso de curta duração"
+                 NOME-COMPLETO="Nelson Luiz Menon de Alencar"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Raimir Holanda Filho"
+                 NRO-ID-CNPQ="3371284519367335"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="10"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Comunicação e Sistemas Distribuidos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Rutênio Sampaio da Páscoa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Plácido Rogério Pinheiro"
+                 NRO-ID-CNPQ="3570810088544175"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="11"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Matemática e Aplicações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Wendel Bezerra Silva"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Andréia Formico Rodrigues"
+                 NRO-ID-CNPQ="3940400439924210"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="12"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Animação por Computador"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 NOME-COMPLETO="Marcos Antônio da Silva Barbosa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Raimir Holanda Filho"
+                 NRO-ID-CNPQ="4806292886402939"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="13"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Comunicação e Sistemas Distribuidos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Victor Pasknel de Alencar Ribeiro"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Raimir Holanda Filho"
+                 NRO-ID-CNPQ="4810883461983153"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="14"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Comunicação e Sistemas Distribuidos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Dráulio Brasil Soares Neto"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Raimir Holanda Filho"
+                 NRO-ID-CNPQ="4851718055172705"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="15"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Comunicação e Sistemas Distribuidos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Claudio Gomes Monteiro Filho"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="João Batista Furlan Duarte"
+                 NRO-ID-CNPQ="6643917621060225"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="16"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Simbólica Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Alvaro de Menezes Sobreira Neto"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Plácido Rogério Pinheiro"
+                 NRO-ID-CNPQ="6794860599771170"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="17"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Matemática e Aplicações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Nathanael de Castro Costa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="André Luís Vasconcelos Coelho"
+                 NRO-ID-CNPQ="7249501914380098"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="18"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="14"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="Ramir Leite Mesquita"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Andréia Formico Rodrigues"
+                 NRO-ID-CNPQ="8161923582000816"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="19"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Animação por Computador"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="APIs Gráficas para Dispositivos de Comunicação sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 NOME-COMPLETO="Edilson Rocha Porfírio Filho"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Andréia Formico Rodrigues"
+                 NRO-ID-CNPQ="8887321525068144"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="20"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="APIs Gráficas para Dispositivos de Comunicação sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Matemática e Aplicações"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=" "
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Decomposição de Grande Porte</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Programação Linear Inteira</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Processamento Paralelo</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Plácido Rogério Pinheiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="45457"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maikol Magalhães Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="276909"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rebecca Filgueiras Pinheiro" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2729060"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rutênio Sampaio da Páscoa" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="632051"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Alvaro de Menezes Sobreira Neto" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2509991"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Matemática Discreta e Combinatória"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="28"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Programação Linear, Não-Linear, Mista e Dinâmica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Pesquisa Operacional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="548"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="14" SETOR="Educação" SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="121" SETOR="Outros setores"
+                                SUBSETOR="Informacao e Gestao C&amp;T"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Simbólica Aplicada"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de métodos analítico-numéricos, através do uso do método de transformada integral e computação simbólica. As principais aplicações se concentram na solução melhorada de problemas fortemente acoplados e não-linearidades. Pretende-se reduzir o tempo de processamento, evitar ou minimizar instabilidade numérica e oferecer ao usuário novas metodologias de programação, incorporando recentes avanços da Ciência da Computação, destacando-se a inteligência artificial. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">Computação Simbólica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="13">Computação Híbrida</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="14">Transforma Integral</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="João Batista Furlan Duarte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="376859"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Claudio Gomes Monteiro Filho" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2163303"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Matemática Simbólica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="54"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ambientes Virtuais Colaborativos para Treinamento, Simulação e Ensino"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de sistemas gráficos com capacidade de visualização 3D colaborativa, voltado às áreas de Treinamento, Simulação e Ensino.  "
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="30">Ambientes Virtuais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="31">Colaboração</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="32">Treinamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="33">Simulação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="34">Ensino</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Andréia Formico Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="70970"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Mateus Barros Telles do Carmo" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2078707"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Animação por Computador"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de sistemas gráficos 3D altamente interativos, incluindo  a modelagem de colisões (broad e narrow phases) precisas, rápidas e com alta escalabilidade, bem como suas respectivas respostas "
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="35">Animação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="37">Detecção de colisão e resposta em tempo-real</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="48">Estrutura da Dados Jogos Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="49">Sistemas de partículas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="50">Corpos Rígidos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="51">Objetos Articulados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Andréia Formico Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="70970"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Mateus Barros Telles do Carmo" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2078707"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ronaldo de Sousa Moreira" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="695948"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Joyce Horn Fonteles" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2312306"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Wendel Bezerra Silva" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="524600"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ramir Leite Mesquita" SEQUENCIA-ESTUDANTE="5"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3002142"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Apoio a Decisão"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=" "
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">Método Macbeth</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">Método AHP</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="12">Modelagem de Problemas em Multicritério</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Plácido Rogério Pinheiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="45457"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="121" SETOR="Outros setores"
+                                SUBSETOR="Informacao e Gestao C&amp;T"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Comunicação e Sistemas Distribuidos"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="18">Redes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="19">Sistemas Distribuidos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Raimir Holanda Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="80704"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Nelson Luiz Menon de Alencar" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2078084"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Marcos Antônio da Silva Barbosa" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="848685"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Victor Pasknel de Alencar Ribeiro" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2217926"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Dráulio Brasil Soares Neto" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2262482"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens e Visualização Científica"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=" "
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="20">Imagens</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Francisco Nivando Bezerra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="154931"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Wandré Araújo de Oliveira" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2083205"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="APIs Gráficas para Dispositivos de Comunicação sem Fio"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de Sistemas Gráficos 3D (colaborativos ou não) para pequenos dispositivos (celulares e PDAs), utilizando as APIs gráficas 3D M3G (Mobile 3D Graphics) e OpenGL ES (OpenGL for Embedded Systems), bem como tecnologias recentes de computação para comunicação entre usuários  on-the-go  (Bluetooth, Wi-Fi, etc) "
+                         SEQUENCIA-LINHA-DE-PESQUISA="11">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="39">APIs gráficas 3D</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="40">Mobilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="41">Celulares</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="42">PDAs</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Andréia Formico Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="70970"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ramir Leite Mesquita" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3002142"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Edilson Rocha Porfírio Filho" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="142948"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ambientes de Realidade Virtual e Aumentada"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de ambientes gráficos de realidade virtual (imersivos ou não) e de realidade aumentada. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="12">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="43">ambientes gráficos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="44">Realidade virtual</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="45">Realidade aumentada</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="46">Aplicações gráficas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="47">Dispositivos de E/S com force-feefback</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Andréia Formico Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="70970"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ronaldo de Sousa Moreira" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="695948"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="108" SETOR="Saúde humana"
+                                SUBSETOR="Cuidado à saúde das pessoas"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="110" SETOR="Saúde humana"
+                                SUBSETOR="Desenvolvimento de produtos tecnológicos voltados para a saúde humana"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Metaheurísticos"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Metaheurísticas podem ser consideradas como arcabouços heurísticos de uso geral, passíveis de serem estendidos a uma ampla gama de problemas de otimização numérica ou combinatória. São por muitos consideradas como heurísticas de outras heurísticas. O objetivo-fim desta linha de pesquisa é o de construir e implementar novos arcabouços heurísticos (chamados de Sistemas Metaheurísticos), mediante a combinação e paralelização de metaheurísticas estabelecidas. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="14">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="27">Métodos de Trajetória</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="28">Métodos Populacionais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="André Luís Vasconcelos Coelho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="145047"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Diego Silveira Costa Nascimento" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2075479"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Lara Carvalho Menezes" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2960730"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Thais Cristina Sampaio Machado" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2203113"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rebecca Filgueiras Pinheiro" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2729060"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Marcelo Lotif Araújo" SEQUENCIA-ESTUDANTE="5"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2981385"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Alvaro de Menezes Sobreira Neto" SEQUENCIA-ESTUDANTE="6"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2509991"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Nathanael de Castro Costa" SEQUENCIA-ESTUDANTE="7"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2170181"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="116"
+                                SETOR="Logística de transporte, armazenagem e comunicações"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="121" SETOR="Outros setores"
+                                SUBSETOR="Informacao e Gestao C&amp;T"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Inteligentes no Contexto da Computação Natural"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O principal objetivo é conceber modelos mais adaptativos de sistemas inteligentes com base em processos/fenômenos naturais. Neste contexto, pretende-se também pesquisar novos modelos para a síntese de padrões e comportamentos similares aos observados na natureza, bem como investigar novos paradigmas de computação inteligente com base em computação quântica e molecular. Dentre as áreas de aplicação constam as de mineração de dados, otimização e modelagem/simulação de sistemas complexos. "
+                         SEQUENCIA-LINHA-DE-PESQUISA="15">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="52">Mataheurísticas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="53">Otimização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="54">Biocomputação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="André Luís Vasconcelos Coelho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="145047"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Marcelo Lotif Araújo" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2981385"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="116"
+                                SETOR="Logística de transporte, armazenagem e comunicações"
+                                SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina (AM) é uma linha de pesquisa cujo foco é a construção de programas de computador que melhoram seu desempenho por meio de experiência. As aplicações de AM vão desde o desenvolvimento de filtros de spam à elaboração de sistemas de reconhecimento facial, de sistemas de recomendação de filmes a aplicativos de tradução automática.  Os principais objetivos dessa linha de pesquisa são: aprimorar algoritmos de AM já existentes; propor novos algoritmos de AM; "
+                         SEQUENCIA-LINHA-DE-PESQUISA="16">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="55">Tradução automática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="56">sistemas de recomendação de filmes</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Cicero Nogueira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="300111"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="128" SETOR="Neurociências" SUBSETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA CIDADE="Maracanau" CNPJ="02948030000230" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Esmaltec S/A"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="2905"
+               SIGLA-DA-EMPRESA=""
+               UF="Ceará">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de máquinas, aparelhos e materiais elétricos"
+                                          SUBSETOR="Fabricação de eletrodomésticos"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="21">Treinamento de pessoal do parceiro pelo grupo, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Indaiatuba" CNPJ="03084096000101" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Celestica do Brasil Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="2271"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                          SUBSETOR="Fabricação de equipamentos de informática e periféricos"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Caucaia" CNPJ="04659917000153" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Central Geradora Termelétrica Fortaleza S/A"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="32183"
+               SIGLA-DA-EMPRESA=""
+               UF="Ceará">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Eletricidade e gás" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Fortaleza" CNPJ="04841072000112" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="HS Tecnologia da Informação Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="32184"
+               SIGLA-DA-EMPRESA=""
+               UF="Ceará">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Informação e comunicação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Atividades de prestação de serviços de informação"
+                                          SUBSETOR="Tratamento de dados, hospedagem na internet e outras atividades relacionadas"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Fortaleza" CNPJ="07047251000170" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Coelce - Companhia Energética do Ceará"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="973"
+               SIGLA-DA-EMPRESA=""
+               UF="Ceará">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Eletricidade e gás" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Cascavel" CNPJ="07092232000328" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Cascaju AgroIndustrial S/A"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="32186"
+               SIGLA-DA-EMPRESA=""
+               UF="Ceará">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Indústrias de transformação" SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Fabricação de produtos alimentícios"
+                                          SUBSETOR="Fabricação de conservas de frutas, legumes e outros vegetais"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="14">Desenvolvimento de software não-rotineiro para o grupo pelo parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA CIDADE="Fortaleza" CNPJ="73688517000199" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Fotossensores Tecnologia Eletrônica Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="32187"
+               SIGLA-DA-EMPRESA=""
+               UF="Ceará">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Transporte, armazenagem e correio"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Armazenamento e atividades auxiliares dos transportes"
+                                          SUBSETOR="Atividades auxiliares dos transportes terrestres"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="11">Transferência de recursos financeiros do grupo para o parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <CRITICAS-SUGESTOES/>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="E" ANO-CENSO="2002" NRO-ID-GRUPO="0192704JDDJOPU">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                   TITULACAO-MAXIMA="Mestrado"
+                   NRO-ID-CNPQ="2842756624163042"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Sim"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Silvia Moehlecke Copé"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Adriana Fraga da Silva"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Clarisse Callegari Jacques"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Carolina Aveline Deitos Rosa"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Guilherme Eichner"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Mariana Petry Cabral"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Rodrigo Costa Angrizani"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="João Darcy de Moura Saldanha"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Rio Grande Energia S.A." NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="02016439"/>
+      <EMPRESA NOME-DA-EMPRESA="Tractebel Energia S.A." NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="02474103"/>
+      <EMPRESA NOME-DA-EMPRESA="Companhia Estadual De Energia Eletrica"
+               NATUREZA-JURIDICA="Empresas Públicas e de Economia Mista"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="92715812"/>
+      <EMPRESA NOME-DA-EMPRESA="Emproflora Empresa De Proj Florestais E Amb Ltda"
+               NATUREZA-JURIDICA="Empresas Privadas"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="02278386"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

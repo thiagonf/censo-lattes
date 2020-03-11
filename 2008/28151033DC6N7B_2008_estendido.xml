@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="null" ANO-CENSO="2008" NRO-ID-GRUPO="28151033DC6N7B">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Mestrado"
+                   NRO-ID-CNPQ="9640212647012536"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Reginaldo Araújo Falcão"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="José Alex Medeiros de Lima"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Kinara Gomes Santos Falcão"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Masculino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Adorilson Bezerra de Araújo"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Techvirtual Design Produções e Desenvolvimento Ltda"
+               NATUREZA-JURIDICA="Entidades Empresariais"
+               FAIXA-FUNCIONARIOS="Até 19"
+               SUB-CNPJ="05504330"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

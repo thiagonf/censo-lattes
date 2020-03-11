@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA DATA-ATUALIZACAO="03092010" ESTRATIFICACAO=""
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="120000"
+                   NRO-ID-GRUPO="0021107YW7QNQD"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO ANO-DE-CRIACAO="1995" AREA-PREDOMINANTE="Geociências"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Pernambuco"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Cartográfica"
+                           NOME-DO-GRUPO="Modelagem e Análise Espacial para Sistemas de Geoinformação"
+                           NOME-DO-ORGAO="Centro de Tecnologia"
+                           SIGLA-DA-INSTITUICAO="UFPE"
+                           UF-DA-INSTITUICAO="PE">
+      <LIDERES>
+         <PRIMEIRO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Lucilene Antunes Correia Marques de Sá"
+                         NRO-ID-CNPQ="6563320576886201"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+         <SEGUNDO-LIDER NACIONALIDADE="B" NOME-COMPLETO="Jose Luiz Portugal"
+                        NRO-ID-CNPQ="8537775027062397"
+                        PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO BAIRRO="Cidade Universitária" CEP="50740530" CIDADE="Recife" DDD="81"
+                                       E-MAIL="lacms@ufpe.br"
+                                       FAX="21268235"
+                                       HOME-PAGE="http://www.ufpe.br/decart"
+                                       LOGRADOURO-E-COMPLEMENTO="Rua Acad. Hélio Ramos, s/n"
+                                       RAMAL=""
+                                       TELEFONE="21267947"
+                                       UF="PE"/>
+      <REPERCUSSOES>Os Sistemas de Geoinformações - SIG  têm como objetivo principal executar análises com base em dados espaciais. A análise espacial permite obter um grande número de informações, a partir de uma quantidade reduzida de dados de fenômenos concretos, que acontecem em um determinado espaço físico. A Modelagem de dados espaciais passa por três fases distintas: abstração do mundo real, definição do modelo conceitual e elaboração do modelo físico. A abstração do mundo real e a definição do modelo conceitual, formam a base para a coleta dos dados espaciais, que permite a construção do modelo físico com a implementação da aplicação no sistema. A atuação do grupo será no sentido de:  - demonstrar a necessidade do conhecimento do espaço físico-territorial, tanto métrico quanto semântico, bem como das relações espaço-temporais, para a gestão sócio-econômica e territorial;  - estudar questões relativas a normalização de dados espaciais; direitos autoriais do produtores de bases de dados espaciais; e habilitação profissional;   - demonstrar que a aplicabilidade dos SIGs pode ser eficiente e produtiva, capacitando entidades públicas e privadas;  - disseminar conhecimento em Ciências Cartográficas e Tecnologias da Geoinformação.</REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Simone Sayuri Sato"
+                   NRO-ID-CNPQ="2942420315995364"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Nadja Glheuca da Silva Dutra Montenegro"
+                   NRO-ID-CNPQ="3253461043257270"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Lúcia Bezerra Candeias"
+                   NRO-ID-CNPQ="4950530398212920"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Numérica de Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Silvane Karoline Silva Paixão"
+                   NRO-ID-CNPQ="5893219868770889"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Lucilene Antunes Correia Marques de Sá"
+                   NRO-ID-CNPQ="6563320576886201"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Numérica de Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="E"
+                   NOME-COMPLETO="Jürgen Wilhelm Philips"
+                   NRO-ID-CNPQ="7496095027894017"
+                   PAIS-DE-NASCIMENTO="Alemanha"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Jose Luiz Portugal"
+                   NRO-ID-CNPQ="8537775027062397"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Numérica de Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Edilce Figueiredo Burity"
+                   NRO-ID-CNPQ="8611637625129234"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Andrea Flávia Tenório Carneiro"
+                   NRO-ID-CNPQ="8970416309536045"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="F"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Numérica de Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcello Benigno Borges de Barros Filho"
+                   NRO-ID-CNPQ="9018602479662912"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Mestrado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcelo Antonio Nero"
+                   NRO-ID-CNPQ="9273397846584540"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   TITULACAO-MAXIMA="Doutorado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B" NIVEL-DE-TREINAMENTO=""
+                 NOME-COMPLETO="José Rosemário Galindo Marinho"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Ana Lúcia Bezerra Candeias"
+                 NRO-ID-CNPQ="0533229767977896"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="1"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Thatiana Lima Vasconcelos"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="2721755366820457"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="2"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Mestrado" BOLSA-NIVEL="  " NACIONALIDADE="E"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Arlindo Jose Charles"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="2878719400106577"
+                 PAIS-DE-NASCIMENTO="Moçambique"
+                 SEQUENCIA-ESTUDANTE="3"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 NOME-COMPLETO="Karina Conceição Gomes Machado de Araújo"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="3116321756193947"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="4"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Marny Pessoa Silva de Araújo"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="3174271230409535"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="5"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Shirlei Martins dos Santos"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="3892294532061507"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="6"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Caio César de Araújo Barbosa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="4339157374149860"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="7"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Edla Siqueira de Farias"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="4635860325714758"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="8"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Ivy Nunes dos Santos Lima"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="5329321889354051"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="9"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Ligia Albuquerque de Alcântara"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="5489774183958660"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="10"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Moisés Batista Leal Júnior"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="5865514518849876"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="11"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="Doutorado" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Rafaella Chrystiane de Moura Matos"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Ana Lúcia Bezerra Candeias"
+                 NRO-ID-CNPQ="5933802541085270"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="12"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Gustavo Brasileiro Coelho"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jose Luiz Portugal"
+                 NRO-ID-CNPQ="6464569027016921"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="13"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Ana Carolina Schuler Correia"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="6586062801452140"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="14"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Ivaceli dos Santos Bezerra"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="7106649312618996"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="15"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Thyago de Almeida Silveira"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jose Luiz Portugal"
+                 NRO-ID-CNPQ="7394790599040642"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="16"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Numérica de Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="José Gleidson Dantas da Cunha"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="7483875754559641"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="17"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 NOME-COMPLETO="Maria Stela Queiroga Arruda"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Andrea Flávia Tenório Carneiro"
+                 NRO-ID-CNPQ="7958351049366037"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="18"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 NOME-COMPLETO="Nelson Marisco"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jürgen Wilhelm Philips"
+                 NRO-ID-CNPQ="8106689507420956"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="19"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Paulo Roberto Florencio de Abreu e Silva"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Andrea Flávia Tenório Carneiro"
+                 NRO-ID-CNPQ="8317517642436355"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="20"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Especialização"
+                 NOME-COMPLETO="Kleber Ramos de Carvalho"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucilene Antunes Correia Marques de Sá"
+                 NRO-ID-CNPQ="8900446523532883"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="21"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 NOME-COMPLETO="Rosemary Batista do Nascimento"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Jose Luiz Portugal"
+                 NRO-ID-CNPQ="8918742862397008"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="22"
+                 SEXO="F">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE BOLSA-CATEGORIA="" BOLSA-NIVEL="" NACIONALIDADE="B"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 NOME-COMPLETO="Ivan Dornelas Falcone de Melo"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Andrea Flávia Tenório Carneiro"
+                 NRO-ID-CNPQ="9554155045189995"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 SEQUENCIA-ESTUDANTE="23"
+                 SEXO="M">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Numérica de Superfície"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar questões relacionadas ao comportamento da superfície terrestre aplicando Modelo Digital de Terreno - MDT, e de quaisquer outras superfícies, que possam ser definidas por coordenadas tridimensionais, como por exemplo, a distribuição espacial de ocorrências de doenças endêmicas e as características morfológicas de ossos do corpo humano. Para tanto, são desenvolvidos estudos com base geometria analítica e descritiva, cálculo numérico, estatísitica e geoestatísca, entre outros."
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dados Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Geoestatística</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="12">Visualização Tridimensional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="18">Modelo Digital de Terreno</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="19">Representação de superfícies</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Ana Lúcia Bezerra Candeias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="63904"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lucilene Antunes Correia Marques de Sá"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="118495"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jose Luiz Portugal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="240860"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Andrea Flávia Tenório Carneiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="69761"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Thyago de Almeida Silveira" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2429793"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geodésia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="215"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="350"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="91"
+                                SETOR="Desenvolvimento de programas (software) e prestação de serviços em informática"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="113" SETOR="Saúde humana"
+                                SUBSETOR="Políticas, planejamento e gestão em saúde"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="121" SETOR="Outros setores"
+                                SUBSETOR="Informacao e Gestao C&amp;T"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Direitos Autorais e Normalização de Bases Dados Espaciais"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Contatar com pesquisadores nacionais e internacionais para integrar estudos de normas para dados espaciais, bases de dados espaciais e metadados. Pesquisar interoperabilidade. Levantar questões objetivando regulamentar os direitos autorais dos proprietários de bases dados espaciais, para que sejam pagos os custos do investimento financeiro, e que os direitos sejam estendidos aos subprodutos gerados a partir das bases. Questionar a habilitação profissional no âmbito da engenharia e arquitetura "
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistema de Referência Geodésico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Modelagem de Dados Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Estrutura de Dados Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="11">Direitos Autorais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="13">Habilitação Profissional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="17">Interoperabilidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Simone Sayuri Sato"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="393115"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Silvane Karoline Silva Paixão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262755"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lucilene Antunes Correia Marques de Sá"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="118495"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jürgen Wilhelm Philips"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="126842"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jose Luiz Portugal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="240860"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Edilce Figueiredo Burity"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="428366"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Andrea Flávia Tenório Carneiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="69761"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marcelo Antonio Nero"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="223790"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Edla Siqueira de Farias" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="338762"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Maria Stela Queiroga Arruda" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="433314"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Paulo Roberto Florencio de Abreu e Silva"
+                             SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="338389"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ivan Dornelas Falcone de Melo" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="299971"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="178"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="350"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="121" SETOR="Outros setores"
+                                SUBSETOR="Informacao e Gestao C&amp;T"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="124" SETOR="Outros setores"
+                                SUBSETOR="Qualidade e Produtividade"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Dados Espaciais"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A modelagem de dados espaciais estuda metodologias para o desenvolvimento de sistemas. O objetivo é estudar a transposição de eventos ou fenômenos, descritos por dados espaciais, para um formato compreensível ao programa computacional,  tornando possível desenvolver análises espaciais e produzir de informações. Deve-se considerar a questão custo/benefício. O custo na aquisição de dados espaciais pode chegar até 80% do valor total da implementação em um SIG."
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dados Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Metodologias para desenvolvimento de sistemas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Abstração do Mundo Real</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">Modelo Conceitual</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="9">Implementação de sistemas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">Projeto Cartográfico</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Simone Sayuri Sato"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="393115"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Silvane Karoline Silva Paixão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262755"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lucilene Antunes Correia Marques de Sá"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="118495"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jose Luiz Portugal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="240860"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marcelo Antonio Nero"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="223790"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Shirlei Martins dos Santos" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="171852"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ivy Nunes dos Santos Lima" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2360102"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Moisés Batista Leal Júnior" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="601357"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Kleber Ramos de Carvalho" SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="239225"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="178"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="91"
+                                SETOR="Desenvolvimento de programas (software) e prestação de serviços em informática"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="121" SETOR="Outros setores"
+                                SUBSETOR="Informacao e Gestao C&amp;T"/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="122" SETOR="Outros setores"
+                                SUBSETOR="Informática"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Aplicações em Sistemas de Geoinformação"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicar metodologias para o desenvolvimento de sistemas nas mais diversas áreas atuação dos dados espaciais. Avaliar as metodologias empregadas para identificar quais as que mais se adequam a um conjunto de aplicações que possuem características semelhantes. Estudar implementações de SIG e de mapas interativos na Internet. Disseminar o emprego dos sistemas de geoinformação tendo com base conceitos das ciências cartográficas."
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dados Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Modelagem de Dados Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Estrutura de Dados Espaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="9">Implementação de sistemas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="14">Visualização Cartográfica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="15">Aquisição de Dados Espaciais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Nadja Glheuca da Silva Dutra Montenegro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="432261"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Ana Lúcia Bezerra Candeias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="63904"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Silvane Karoline Silva Paixão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262755"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lucilene Antunes Correia Marques de Sá"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="118495"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jürgen Wilhelm Philips"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="126842"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Jose Luiz Portugal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="240860"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Edilce Figueiredo Burity"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="428366"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Andrea Flávia Tenório Carneiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="69761"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Marcello Benigno Borges de Barros Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="477885"
+                               SEQUENCIA-PESQUISADOR="9"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="José Rosemário Galindo Marinho" SEQUENCIA-ESTUDANTE="1"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2360813"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Thatiana Lima Vasconcelos" SEQUENCIA-ESTUDANTE="2"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="480773"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Arlindo Jose Charles" SEQUENCIA-ESTUDANTE="3"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3307374"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Karina Conceição Gomes Machado de Araújo"
+                             SEQUENCIA-ESTUDANTE="4"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="543643"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Marny Pessoa Silva de Araújo" SEQUENCIA-ESTUDANTE="5"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="162534"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Shirlei Martins dos Santos" SEQUENCIA-ESTUDANTE="6"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="171852"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Caio César de Araújo Barbosa" SEQUENCIA-ESTUDANTE="7"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2510075"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ivy Nunes dos Santos Lima" SEQUENCIA-ESTUDANTE="8"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2360102"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ligia Albuquerque de Alcântara" SEQUENCIA-ESTUDANTE="9"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="835732"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rafaella Chrystiane de Moura Matos" SEQUENCIA-ESTUDANTE="10"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2303150"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Gustavo Brasileiro Coelho" SEQUENCIA-ESTUDANTE="11"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="521915"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ana Carolina Schuler Correia" SEQUENCIA-ESTUDANTE="12"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="338770"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ivaceli dos Santos Bezerra" SEQUENCIA-ESTUDANTE="13"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="604268"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="José Gleidson Dantas da Cunha" SEQUENCIA-ESTUDANTE="14"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="338443"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Maria Stela Queiroga Arruda" SEQUENCIA-ESTUDANTE="15"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="433314"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Nelson Marisco" SEQUENCIA-ESTUDANTE="16"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="264298"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Kleber Ramos de Carvalho" SEQUENCIA-ESTUDANTE="17"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="239225"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rosemary Batista do Nascimento" SEQUENCIA-ESTUDANTE="18"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="797662"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Ivan Dornelas Falcone de Melo" SEQUENCIA-ESTUDANTE="19"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="299971"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="2"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="350"/>
+            <AREA-DO-CONHECIMENTO NOME-DA-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Não informado"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Não informado"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="889"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="15"
+                                SETOR="Produtos e serviços voltados para a defesa e proteção do meio ambiente, incluindo o desenvolvimento sustentado"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="16"
+                                SETOR="Planejamento e gestão das cidades, inclusive política e planejamento habitacional"
+                                SUBSETOR=""/>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="121" SETOR="Outros setores"
+                                SUBSETOR="Informacao e Gestao C&amp;T"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA CIDADE="Sao Carlos" CNPJ="05240092000109" NATUREZA-JURIDICA=""
+               NOME-DA-EMPRESA="Satellite Geomatica Eng S S Ltda"
+               SEGMENTO-ECONOMICO=""
+               SEQUENCIA-EMPRESA="35326"
+               SIGLA-DA-EMPRESA=""
+               UF="São Paulo">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"
+                                          SETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                          SUBSETOR="Serviços de arquitetura e engenharia e atividades técnicas relacionadas"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="18">Atividades de consultoria técnica não englobadas em qualquer das categorias anteriores</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <CRITICAS-SUGESTOES/>
+</GRUPO-DE-PESQUISA>

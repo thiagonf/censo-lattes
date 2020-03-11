@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA SISTEMA-ORIGEM-XML="SGXML" DATA-ATUALIZACAO="30092004"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   HORA-ATUALIZACAO="084505"
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS">
+   <IDENTIFICACAO-DO-GRUPO NOME-DO-GRUPO="Centro de Pesquisas em Distrofia Muscular" ANO-DE-CRIACAO="2004"
+                           GRANDE-AREA-PREDOMINANTE="Ciências da Saúde"
+                           AREA-PREDOMINANTE="Medicina"
+                           NOME-DA-INSTITUICAO="Universidade de Ribeirão Preto"
+                           SIGLA-DA-INSTITUICAO="UNAERP"
+                           UF-DA-INSTITUICAO="SP"
+                           NOME-DO-PAIS-DA-INSTITUICAO="Brasil"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           FLAG-AGENCIA-FOMENTO="N"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           NOME-DO-ORGAO=""
+                           NOME-DA-UNIDADE="">
+      <LIDERES>
+         <PRIMEIRO-LIDER NOME-COMPLETO="João Carlos da Silva Bizario" NACIONALIDADE="B"
+                         PAIS-DE-NASCIMENTO="BRA"/>
+         <SEGUNDO-LIDER NOME-COMPLETO="Maria Cristina Ramos Costa" NACIONALIDADE="B"
+                        PAIS-DE-NASCIMENTO="BRA"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO LOGRADOURO-E-COMPLEMENTO="Avenida Costábile Romano, 2201" BAIRRO="Ribeirânia"
+                                       UF="SP"
+                                       CIDADE="RIBEIRAO PRETO"
+                                       CEP="14096380"
+                                       DDD="16"
+                                       TELEFONE="6037000"
+                                       RAMAL="6795"
+                                       FAX="16-6036794"
+                                       E-MAIL="bizario@uol.com.br"
+                                       HOME-PAGE="http://www.aadm.com.br"/>
+      <REPERCUSSOES>Este grupo surgiu da parceria entre a UNAERP e a AADM, um trabalho multidisciplinar que envolve a integração com a comunidade através de projetos que aliam o ensino e a pesquisa ao atendimento à população. Os trabalhos têm se estendido ao atendimento de pacientes portadores de Distrofia Muscular de Duchenne, nas diversas clínicas e laboratórios da UNAERP, como medicina (neurologia e aconselhamento genético), fisioterapia, odontologia, psicologia, nutrição, musicoterapia, fonoaudiologia, serviço social entre outras. A UNAERP disponibiliza toda a infra-estrutura para um trabalho pioneiro no atendimento às diversas necessidades dos portadores de DMD, seus familiares e cuidadores. Em relação à pesquisa científica, há duas frentes principais: a busca de novas terapias farmacológicas (incluindo fitoterápicos) e a tentativa de desenvolvimento da terapia gênica para a DMD. A AADM possui biotérios onde são criados os modelos animais (cães e camundongos) de distrofia. Há também laboratórios de biologia molecular, celular, bioquímica, genética, representando um campo de estágio multidisciplinar aos alunos de graduação e pós-graduação. A proposta de pesquisa envolvendo a distrofia é ampla e envolve todas as áreas que possam contribuir para o conhecimento sobre a doença, com projetos na área de veterinária, fisioterapia, genética clínica, entre outras. As pesquisas de terapias (farmacológica e gênica) estão sendo realizadas nos laboratórios da AADM, porém, estende-se para todas as clínicas e laboratórios da UNAERP. As terapias são testadas inicialmente em modelos animais e, em caso de resultados positivos, poderão ser testadas em humanos, em uma fase mais avançada. Há também pesquisas com os pacientes nas áreas de fisioterapia, musicoterapia, psicologia, neurologia, aconselhamento genético, etc., porém não tem o caráter experimental das terapias farmacológicas e gênica. A repercussão desta parceria é muito grande. A proposta envolve três pilares: assistência, pesquisa e ensino.</REPERCUSSOES>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-COMPLETO="Victor Evangelista de Faria Ferraz" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação clínica de pacientes portadores de doenças neuromusculares"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="4"
+                                  NOME-DA-LINHA-DE-PESQUISA="Diagnóstico Molecular de Distrofia Muscular de Duchenne em Pacientes e Modelos Animais"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Arnaldo José Godoy" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação clínica de pacientes portadores de doenças neuromusculares"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Lucélio Bernardes Couto" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Terapia Gênica para as Distrofias Musculares de Duchenne e Becker"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Telma Maria Braga Costa" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="6"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação nutricional e desenvolvimento de suplementação alimentar para portadores de distrofia muscular"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="João Carlos da Silva Bizario" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Terapia Gênica para as Distrofias Musculares de Duchenne e Becker"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="4"
+                                  NOME-DA-LINHA-DE-PESQUISA="Diagnóstico Molecular de Distrofia Muscular de Duchenne em Pacientes e Modelos Animais"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Luciana Rezende A Oliveira" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="6"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação nutricional e desenvolvimento de suplementação alimentar para portadores de distrofia muscular"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Daniela Dover de Araújo" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Terapia Gênica para as Distrofias Musculares de Duchenne e Becker"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="4"
+                                  NOME-DA-LINHA-DE-PESQUISA="Diagnóstico Molecular de Distrofia Muscular de Duchenne em Pacientes e Modelos Animais"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Neide Aparecida de Souza Lehfeld" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="7"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação das condições sócio-econômico-culturais de portadores de distrofia muscular e familiares"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Maria Cristina Ramos Costa" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Terapia Gênica para as Distrofias Musculares de Duchenne e Becker"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="4"
+                                  NOME-DA-LINHA-DE-PESQUISA="Diagnóstico Molecular de Distrofia Muscular de Duchenne em Pacientes e Modelos Animais"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Gelse Mazzoni Campos" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-COMPLETO="Elizabeth Regina Negri Barbosa" NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="BRA">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="1"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação clínica de pacientes portadores de doenças neuromusculares"/>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="7"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação das condições sócio-econômico-culturais de portadores de distrofia muscular e familiares"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-COMPLETO="Tatiana Taba Fuzisaki" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucélio Bernardes Couto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Aline Sabrina Holanda T Alves" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucélio Bernardes Couto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Rafael Zoppi Campane" NACIONALIDADE="B" PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Lucélio Bernardes Couto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Marina Martins A V da Silva" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Cristina Ramos Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Luiz Fernando A Diniz" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="João Carlos da Silva Bizario">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Luis Antonio Donini Filho" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Gelse Mazzoni Campos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="2"
+                                  NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Francisco Souza M Pires" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Cristina Ramos Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Sibere Resende Oliveira" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="João Carlos da Silva Bizario">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Terapia Gênica para as Distrofias Musculares de Duchenne e Becker"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Mariana Correa Coelho" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="Maria Cristina Ramos Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="3"
+                                  NOME-DA-LINHA-DE-PESQUISA="Terapia Gênica para as Distrofias Musculares de Duchenne e Becker"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-COMPLETO="Thailise Giroto F da Silva" NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="João Carlos da Silva Bizario">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA-RH SEQUENCIA-LINHA-DE-PESQUISA="5"
+                                  NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"/>
+         </LINHAS-DE-PESQUISA-RH>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="1"
+                         NOME-DA-LINHA-DE-PESQUISA="Avaliação clínica de pacientes portadores de doenças neuromusculares"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Caracterizar a evolução clínica de pacientes portadores de distrofias musculares de Ribeirão Preto e região, na tentativa de estabelecer uma relação entre o tipo de doença neuromuscular e o comprometimento neurológico dos pacientes.  ">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">miopatias</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">doenças neuromusculares</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">avaliação clínica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">distrofia muscular</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Victor Evangelista de Faria Ferraz"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Arnaldo José Godoy"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Elizabeth Regina Negri Barbosa"/>
+         </PESQUISADORES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  NOME-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Clínica Médica"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO="Neurologia"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Neurociências" SUB-SETOR=""/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="2"
+                         NOME-DA-LINHA-DE-PESQUISA="Avaliação de fármacos e fitoterápicos para tratamento da Distrofia Muscular de Duchenne"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Avaliar a ação de fármacos na evolução da deneração/regeneração muscular de camundongos mdx submetidos à exercícios físicos ou cães GRMD.">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">testes fármacos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">fitoterápicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">camundongos mdx</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">cães GRMD</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lucélio Bernardes Couto"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="João Carlos da Silva Bizario"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Cristina Ramos Costa"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Gelse Mazzoni Campos"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Tatiana Taba Fuzisaki"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Aline Sabrina Holanda T Alves"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Rafael Zoppi Campane"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Luiz Fernando A Diniz"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Luis Antonio Donini Filho"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  NOME-AREA-DO-CONHECIMENTO="Farmacologia"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Farmacologia Bioquímica e Molecular"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Saúde humana"
+                                SUB-SETOR="Desenvolvimento de produtos tecnológicos voltados para a saúde humana"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="3"
+                         NOME-DA-LINHA-DE-PESQUISA="Terapia Gênica para as Distrofias Musculares de Duchenne e Becker"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Expressão de construções de distrofina e/ou utrofina em mioblastos de camundongos mdx e cães GRMD e avaliação do resgate do fenótipo após reinfusão.">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">distrofia muscular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">camundongos mdx</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">cães GRMD</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="9">terapia gênica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="20">clo</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lucélio Bernardes Couto"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="João Carlos da Silva Bizario"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Daniela Dover de Araújo"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Cristina Ramos Costa"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Sibere Resende Oliveira"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Mariana Correa Coelho"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  NOME-AREA-DO-CONHECIMENTO="Genética"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Genética Humana e Médica"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Saúde humana"
+                                SUB-SETOR="Desenvolvimento de produtos tecnológicos voltados para a saúde humana"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="4"
+                         NOME-DA-LINHA-DE-PESQUISA="Diagnóstico Molecular de Distrofia Muscular de Duchenne em Pacientes e Modelos Animais"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Caracterização das alterações genéticas causadoras das distrofinopatias na população de Ribeirão Preto e região e em camundongos mdx e cães GRMD">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">distrofia muscular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">camundongos mdx</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="8">cães GRMD</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="10">diagnóstico</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Victor Evangelista de Faria Ferraz"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="João Carlos da Silva Bizario"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Daniela Dover de Araújo"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Cristina Ramos Costa"/>
+         </PESQUISADORES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  NOME-AREA-DO-CONHECIMENTO="Genética"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Genética Humana e Médica"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Saúde humana"
+                                SUB-SETOR="Desenvolvimento de produtos tecnológicos voltados para a saúde humana"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="5"
+                         NOME-DA-LINHA-DE-PESQUISA="Abordagens moleculares e celulares nas distrofinopatias"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar o papel das proteínas envolvidas nas funções musculares, relacionadas a integridade do sarcolema, contração muscular, citoesqueleto, ou proteínas relacionadas à resposta inflamatória após injúria.">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="13">deg</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="14">imunohistoquímica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="15">biologia molecular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="16">biologia celular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="17">inflamação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Lucélio Bernardes Couto"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="João Carlos da Silva Bizario"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Daniela Dover de Araújo"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Maria Cristina Ramos Costa"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Marina Martins A V da Silva"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Francisco Souza M Pires"/>
+            <ESTUDANTE-LINHA NOME-COMPLETO="Thailise Giroto F da Silva"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  NOME-AREA-DO-CONHECIMENTO="Biologia Geral"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Biologia Celular e Molecular"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Outros setores" SUB-SETOR="Outros"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="6"
+                         NOME-DA-LINHA-DE-PESQUISA="Avaliação nutricional e desenvolvimento de suplementação alimentar para portadores de distrofia muscular"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Promover avaliação nutriconal de pacientes portadores de distrofia muscular e desenvolver adequação e suplementação alimentar que melhorem as condições clíncas destes pacientes.">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">distrofia muscular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="18">nutrição</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="19">suplementação alimentar</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Telma Maria Braga Costa"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Luciana Rezende A Oliveira"/>
+         </PESQUISADORES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  NOME-AREA-DO-CONHECIMENTO="Nutrição"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Análise Nutricional de População"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Saúde humana"
+                                SUB-SETOR="Nutrição e alimentação"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA SEQUENCIA-LINHA-DE-PESQUISA="7"
+                         NOME-DA-LINHA-DE-PESQUISA="Avaliação das condições sócio-econômico-culturais de portadores de distrofia muscular e familiares"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Cadastrar e obter dados das condições sócio-econômico-culturais de pacientes portadores de distrofias musculares e seus familiares para otimizar assistência integral a estes indivíduos.">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">distrofia muscular</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Neide Aparecida de Souza Lehfeld"/>
+            <PESQUISADOR-LINHA NOME-COMPLETO="Elizabeth Regina Negri Barbosa"/>
+         </PESQUISADORES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO SEQUENCIA-AREA-DO-CONHECIMENTO="1"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  NOME-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-SUB-AREA-DO-CONHECIMENTO="Saúde Pública"
+                                  NOME-ESPECILIDADE-DO-CONHECIMENTO=""/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO SEQUENCIA-SETOR-DE-APLICACAO="1" SETOR="Saúde humana"
+                                SUB-SETOR="Cuidado à saúde das pessoas"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Associação de Ensino de Ribierão Preto"
+               SIGLA-DA-EMPRESA="UNAERP"
+               UF="SP"
+               CIDADE="RIBEIRAO PRETO"
+               CNPJ="55983670000167"
+               SEGMENTO-ECONOMICO="Primário"
+               NATUREZA-JURIDICA="Privada">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA SETOR="Educação" SUB-SETOR="Educação superior"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO>Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO>Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO>Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

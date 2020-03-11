@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA NRO-ID-GRUPO="1135534568323599" ANO-CENSO="2016">
+   <PESQUISADORES>
+      <PESQUISADOR NRO-ID-CNPQ="2867286021783929" NOME-COMPLETO="Paulo Sérgio Barbosa dos Santos"
+                   NACIONALIDADE="B"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEXO="M"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-IC="Não"
+                   BOLSA-NIVEL=""
+                   BOLSA-CATEGORIA="">
+         <TOTAIS-PRODUCAO>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2014" TOT-BIBL-PERIODICO-NAC="0" TOT-BIBL-PERIODICO-INT="0"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL-TRABALHO="0"
+                            TOT-BIBL="0"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="2"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="2"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="0"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="0"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="2015" TOT-BIBL-PERIODICO-NAC="0" TOT-BIBL-PERIODICO-INT="0"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="1"
+                            TOT-BIBL-TRABALHO="0"
+                            TOT-BIBL="1"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="1"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="1"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="1"
+                            TOT-ORIE-GRADUACAO-CONC="1"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-CONC="2"
+                            TOT-DEMAIS="0"
+                            TOT-TECN-PATENTE="0"/>
+         </TOTAIS-PRODUCAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NRO-ID-CNPQ="7789383461641333" NOME-COMPLETO="Sérgio Augusto Dall'Oca"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Ensino Médio (2o grau)"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+      <ESTUDANTE NRO-ID-CNPQ="9740152443210233" NOME-COMPLETO="Pedro Francisco Campos Garcia"
+                 NACIONALIDADE="B"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NIVEL-DE-TREINAMENTO="Ensino Médio (2o grau)"
+                 SEXO="M"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8860876169169502"
+               NOME-DA-EMPRESA="Centro Universitário Toledo"
+               SIGLA-DA-EMPRESA="UNITOLEDO"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               CNPJ="43767540000108"
+               RAZAO-SOCIAL-DA-EMPRESA="Sociedade de Ensino Superior Toledo Ltda"
+               LOCALIDADE="Araçatuba"
+               CIDADE="Araçatuba"
+               UF="SP"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="E" ANO-CENSO="2002" NRO-ID-GRUPO="0001701G8EQXQ8">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                   TITULACAO-MAXIMA="Mestrado"
+                   NRO-ID-CNPQ="0996318937692082"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Cynthia Moreira Lima"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Luciana Martins Matos"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Fundacao Universidade Federal Do Maranhao"
+               NATUREZA-JURIDICA="Administração Pública"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="06279103"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

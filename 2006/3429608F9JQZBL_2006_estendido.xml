@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="null" ANO-CENSO="2006" NRO-ID-GRUPO="3429608F9JQZBL">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Não Informado"
+                   TITULACAO-MAXIMA="null"
+                   NRO-ID-CNPQ="2838548807191846"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Wanda Maleronka"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE BOLSA-CATEGORIA="null" BOLSA-NIVEL="null" SEXO="Feminino"
+                 NIVEL-DE-TREINAMENTO="null"
+                 NRO-ID-CNPQ="null"
+                 NOME-COMPLETO="Gabriela Pereira Majolo"
+                 PAIS-DE-NASCIMENTO="Brasil"
+                 NACIONALIDADE="Brasileira"/>
+   </ESTUDANTES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Prefeitura da Estância Turística de Embu"
+               NATUREZA-JURIDICA="Administração Pública"
+               FAIXA-FUNCIONARIOS="500 e mais"
+               SUB-CNPJ="46523114"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>

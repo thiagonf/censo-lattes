@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA ESTRATIFICACAO="null" ANO-CENSO="2002" NRO-ID-GRUPO="8610612GSYYYV4">
+   <PESQUISADORES>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Especialização"
+                   NRO-ID-CNPQ="2214531218675032"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Jansen Mauro Gomes Lopes"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Masculino"
+                   TITULACAO-MAXIMA="Especialização"
+                   NRO-ID-CNPQ="6746156087990875"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Alessandro Brito Dias"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira"/>
+      <PESQUISADOR BOLSA-CATEGORIA="null" BOLSA-NIVEL="Não se aplica" SEXO="Feminino"
+                   TITULACAO-MAXIMA="Graduação"
+                   NRO-ID-CNPQ="9632431273966711"
+                   STA-ORIENTADOR-IC="Não"
+                   STA-ORIENTADOR-PIBIC="Não"
+                   STA-ORIENTADOR-MESTRADO="Não"
+                   STA-ORIENTADOR-DOUTORADO="Não"
+                   NOME-COMPLETO="Karla Mazarelo Ferreira Maciel"
+                   PAIS-DE-NASCIMENTO="Brasil"
+                   NACIONALIDADE="Brasileira">
+         <TOTAIS-PRODUCAO>
+            <TOTAL-PRODUCAO ANO-PRODUCAO="1999" TOT-BIBL-PERIODICO-NAC="1" TOT-BIBL-PERIODICO-INT="0"
+                            TOT-BIBL-TRABALHO="0"
+                            TOT-BIBL-LIVRO="0"
+                            TOT-BIBL-CAPITULO-LIVRO="0"
+                            TOT-BIBL-OUTROS="2"
+                            TOT-BIBL-RESUMO-REVISTA="0"
+                            TOT-BIBL-RESUMO-ANAIS="0"
+                            TOT-BIBL="3"
+                            TOT-TECN-SOFTWARE-REG="0"
+                            TOT-TECN-SOFTWARE-NREG="0"
+                            TOT-TECN-PRODUTO-REG="0"
+                            TOT-TECN-PRODUTO-NREG="0"
+                            TOT-TECN-TECNICA-REG="0"
+                            TOT-TECN-TECNICA-NREG="0"
+                            TOT-TECN-TRABALHO="0"
+                            TOT-TECN-APRESENTACAO="0"
+                            TOT-TECN-OUTROS="0"
+                            TOT-TECN="0"
+                            TOT-ORIE-DOUTORADO-CONC="0"
+                            TOT-ORIE-MESTRADO-CONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-CONC="0"
+                            TOT-ORIE-GRADUACAO-CONC="1"
+                            TOT-ORIE-INICIACAO-CONC="0"
+                            TOT-ORIE-DOUTORADO-NCONC="0"
+                            TOT-ORIE-MESTRADO-NCONC="0"
+                            TOT-ORIE-ESPECIALIZACAO-NCONC="0"
+                            TOT-ORIE-GRADUACAO-NCONC="0"
+                            TOT-ORIE-INICIACAO-NCONC="0"
+                            TOT-ORIE-CONC="1"
+                            TOT-ORIE-NCONC="0"
+                            TOT-ARTISTICA="0"
+                            TOT-DEMAIS="0"
+                            TOT-OUTRAS="0"/>
+         </TOTAIS-PRODUCAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <EMPRESAS>
+      <EMPRESA NOME-DA-EMPRESA="Superintendencia Zona Franca De Manaus"
+               NATUREZA-JURIDICA="Administração Pública"
+               FAIXA-FUNCIONARIOS="100 a 499"
+               SUB-CNPJ="04407029"/>
+   </EMPRESAS>
+</GRUPO-DE-PESQUISA>
